@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Vanilla AMOLED Color"
+  "cssTheme": "Vanilla AMOLED Color",
+  "nativeMenus": true
 }
