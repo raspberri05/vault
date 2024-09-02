@@ -31,13 +31,14 @@ public class Rectangle extends Object {
 	// properties, characteristics, member data/variables
 	int m_length = 6;
 	int m_width = 12;
-	int m_area; //consistency/maintainence issue
+	int m_area; // consistency/maintainence issue
 	static String name = "rectangle";
 
 	int area() {
 		return m_length + m_width
 		return area; // not good
 	}
+	
 	@Override
 	public String toString() {
 		return m_name;
