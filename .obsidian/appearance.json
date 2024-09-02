@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "accentColor": "",
   "cssTheme": "Vanilla AMOLED Color",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }
