@@ -1,31 +1,47 @@
 ## 1.1 - Population, Samples, and Statistics
 
-> [!info] Population
+### Population
+
+> [!info] Definition
 > A set of all objects of interest in a statistical study
 
-Example - The GPA of all SJSU students
+>[!example]
+>The GPA of all SJSU students
 
->[!info] Sample
+### Sample
+
+>[!info] Definition
 >Any subset of a population
 
-Example - the GPA of 4 random SJSU students
+>[!example]
+>The GPA of 4 random SJSU students
 
->[!info] Variable
+### Variable
+
+>[!info] Definition
 >Any characteristic whose value may change from one object to another in a statistical study
 
->[!Note] 
+>[!note] 
 >Use uppercase letters to name variables and lowercase letters to represent actual values of the variables
->For example, $x = 5.2 (lb)$ 
+>
 
->[!info] Discrete Variable
+>[!example]
+>$x = 5.2 (lb)$ 
+
+### Discrete Variable
+>[!info] Definition
 >A numerical variable where its set of possible values either is finit or can be listed in an infinite sequence (one in which there is a first number, second number, and so on)
 
-Example - The number of pets in a household
+>[!example]
+>The number of pets in a household
 
->[!info] Continuous Variable
+### Continuous Variable
+
+>[!info] Continuous Definitio
 >A numerical value where its possible values consist of an entire interval on the number line
 
-Example - Hair length
+>[!example]
+>Hair length
 ### Collecting Data
 
 >[!warning]
@@ -39,14 +55,17 @@ Example - Hair length
 
 ## 1.2 - Pictorial and Tabular Methods in Descriptive Statistics
 
->[!info] Stem and Leaf Plots
+### Stem and Leaf Plots
 
->[!info] Dot Plot
+### Dot Plot
+
+>[!info] Definition
 >An attractive summary of numerical  data when the data set is reasonably small an there are relatively few distinct values
->Each observation is represented by a dot above the corresponding location on a number line for each occurrence
->Gives information about shape and various indicators
 
+* Each observation is represented by a dot above the corresponding location on a number line for each occurrence
+* Gives information about shape and various indicators
 ### Distribution and Histogram for Discrete Data
+
 >[!info] Frequency
 >The number of times that the value of a discrete variable occurs in the set
 
@@ -56,9 +75,11 @@ Example - Hair length
 >[!info] Histogram
 >A bar graph based on the frequency distribution of data
 
+
 ## 1.3 - Measures of Location
 
 >[!info] Categorical Data
+
 
 ## 1.4 - Measures of Variability
 
@@ -109,7 +130,6 @@ Example - Hair length
 * Outliers
 	* A mild outlier is if any observation is farther than $1.5f$ from the closest fourth
 	* An extreme outlier is if any observation is farther than 3f from the nearest fourth
-
 ### Box Plot
 1. Draw a number line
 2. Plot the quartiles

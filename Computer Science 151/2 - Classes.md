@@ -1,41 +1,42 @@
 ## 2.1 - Classes and Objects
 
->[!info] Class
->* Non primitive or user-defined data type in Java
->* A blueprint or template for objects that share a set of attributes/properties/characters, a set of behavior/methods/actions
->* It is a logical entity that does not occupy any space/memory - memory is allocated when we create an instance of the object
+### Class
 
->[!info] Constructor
->* Constructors are special methods whose name is the same as the class name
->* The constructors serve the special purpose of initializing the objects - no-arg constructor, no parameters
->* Paramaterized constructor = constructors that take some arguments
->* Copy constructor = in Java we define copy constructor on our own
->* Constructor chaining (this() - means the other constructor, super() - can be called in a child constructor
+* Non primitive or user-defined data type in Java
+* A blueprint or template for objects that share a set of attributes/properties/characters, a set of behavior/methods/actions
+* It is a logical entity that does not occupy any space/memory - memory is allocated when we create an instance of the object
+### Constructor
 
-```java
-class A { //implicitly extends object
-	int m_x;
-	int m_y;
-	int m_z;
+* Constructors are special methods whose name is the same as the class name
+* The constructors serve the special purpose of initializing the objects - no-arg constructor, no parameters
+* Parameterized constructor = constructors that take some arguments
+* Copy constructor = in Java we define copy constructor on our own
+* Constructor chaining (this() - means the other constructor, super() - can be called in a child constructor
 
-	public A (int x, int y, int z) {
-		super();
-		m_x = x;
-		m_y = y;
-		m_z = z;
-		this(); // recursive constructor invocation error
-	}
-
-	public int A() { // not a constructor, compiles but not       // reccomended
-		return m_x;
-	}
-
-	public static void main(String[] args) {
-		A a = new A();
-	}
-}
-```
-
+>[!example]
+>```java
+>class A { //implicitly extends object
+> 	int m_x;
+> 	int m_y;
+> 	int m_z;
+>
+>	public A (int x, int y, int z) {
+>		super();
+>		m_x = x;
+>		m_y = y;
+>		m_z = z;
+>		this(); // recursive constructor invocation error
+>	}
+>
+>	public int A() { // not a constructor, compiles but not       // reccomended
+>		return m_x;
+>	}
+>
+>	public static void main(String[] args) {
+>		A a = new A();
+>	}
+>}
+>```
 ### Java Destructor
 
 * The destructor is the opposite of the constructor
@@ -48,27 +49,33 @@ class A { //implicitly extends object
 
 ### Pillars of Object Oriented Programming
 
->[!info] 1 - Data Abstraction
+#### 1 - Data Abstraction
+
+>[!info] Definition
 >The process of hiding certain (unnecessary) details and showing only essential information to the user
+##### Achieving Abstraction
 
-#### Abstraction can be achieved with
-
-* Abstract Classes (partial abst(raction)
+* Abstract Classes (partial abstraction)
 * Interfaces (100 percent abstraction)
 * Classes (no abstract, object can be instantiated from the class
 
 >[!warning]
 >An instance of an abstract class cannot be created
 
->[!info] 2 - Encapsulation
+#### 2 - Encapsulation
+
+>[!info] Definition
 >Binding data and functions that manipulate data in a single unit (class)
 
->[!info] 3- Inheritance
+#### 3 - Inheritance
+
+>[!info] Definition
 >Allows code reuse and enabled polymorphism
 
->[!info] 4 - Polymorphism
->* Compile time polymorphism - method overloading or operator overloading
->* Runtime polymorphism - method overriding
+#### 4 - Polymorphism
+
+* Compile time polymorphism - method overloading or operator overloading
+* Runtime polymorphism - method overriding
 
 ### Method Overloading
 
