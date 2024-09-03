@@ -1,3 +1,12 @@
 # Vault
 
-Notes created with obsidian
+Obsidian
+
+## Plugins 
+
+* Quick Latex
+* Git
+
+## Themes
+
+* Vanilla AMOLED Color
