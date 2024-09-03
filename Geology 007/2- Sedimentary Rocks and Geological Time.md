@@ -2,6 +2,19 @@
 
 >[!tip]
 >Sedimentary rocks cover most of the Earth's surface
+
+### General Terms
+
+>[!info] Grain (clast)
+>Particle of rock, like a pebble or grain of sand
+
+>[!info] Deposition
+>The process by which gains settle and collect
+
+>[!info] Lithification
+>When sediments become stuck together
+
+
 ### Formation
 1. Weathering
 	* A process where pre-existing rocks are broken down physically or chemically
@@ -42,6 +55,7 @@
 >[!Info] Definition
 >Fragments of other rocks
 
+Biological if it contains fossils/fossil fragments
 ### Chemical
 
 >[!info] Definition
