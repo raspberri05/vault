@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8068b6077d1afecb",
+        "id": "db01e6452810f772",
         "type": "tabs",
         "children": [
           {
-            "id": "875ac2924a015560",
+            "id": "1d93828d7b41d284",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science 151/2 - Classes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science 151/2 - Classes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,14 +113,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "875ac2924a015560",
+  "active": "1d93828d7b41d284",
   "lastOpenFiles": [
     "Geology 007/2- Sedimentary Rocks and Geological Time.md",
     "Geology 007/1 - Minerals and Igneous Rocks.md",
-    "Computer Science 151/2 - Classes.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Computer Science 151/1 - Recap.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
+    "Computer Science 151/2 - Classes.md",
+    "Computer Science 151/1 - Recap.md",
     "README.md",
     "Computer Science 151",
     "Geology 007/1 - Minerals and Igneous Rocks",
