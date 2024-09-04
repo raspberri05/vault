@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e703ac757f4410",
+        "id": "6766265ace526382",
         "type": "tabs",
         "children": [
           {
-            "id": "346f79e1607c641c",
+            "id": "38032978b1e7a733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md"
               }
             }
           },
@@ -116,10 +116,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "346f79e1607c641c",
+  "active": "38032978b1e7a733",
   "lastOpenFiles": [
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "Mathematics 161 A/2 - Chapter 2.md",
+    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "readme.md",
     "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
