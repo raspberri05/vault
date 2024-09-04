@@ -13,7 +13,7 @@
 > Mechanism required to fully specify class
 
 * Allows use of classes with the same name in the same project
-* Programmers can determine theat the classes are related
+* Programmers can determine that the classes are related
 * Java uses filesystem directories to store packages
 * Use Keyword import to import packages in Java
 

@@ -49,7 +49,6 @@ Event with no outcomes
 
 > [!info] Definition
 > The intersection of events $A$ and $B$, represented by $A \cap B$ read as "$A$ and $B$", is the set of all outcomes that are in both $A$ and $B$
-$
 #### Mutual Exclusivity
 
 > [!info] Definition
@@ -107,7 +106,7 @@ The probability of event $A$, $P(A)$ is a measure of chance that event $A$ will 
 
 Consider an experiment with equally likely outcomes
 
-The sample space $S is always finite
+The sample space $S$ is always finite
 
 Let $A$ be an event
 
