@@ -112,6 +112,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
