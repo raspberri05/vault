@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6766265ace526382",
+        "id": "6b249ffd33543aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "38032978b1e7a733",
+            "id": "3cac37cf46c3eccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/1 - Minerals and Igneous Rocks.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -70,6 +70,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ba337a81fdbd561",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -91,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/1 - Minerals and Igneous Rocks.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -102,9 +110,38 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "bfd96a382f6fe865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84065c50bf6e45fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,24 +149,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "38032978b1e7a733",
+  "active": "3cac37cf46c3eccd",
   "lastOpenFiles": [
+    "www.dictionary.com/browse/axiom.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "readme.md",
-    "Geology 007/1 - Minerals and Igneous Rocks.md",
+    "www.dictionary.com/browse",
+    "www.dictionary.com",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
-    "Computer Science 151/2 - Classes.md",
+    "Untitled.canvas",
+    "2024-09-03.md",
+    "README.md",
+    "canvas.canvas",
     "Computer Science 151/1 - Recap.md",
+    "Computer Science 151/2 - Classes.md",
+    "2 - Classes.pdf",
+    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+    "Geology 007/1 - Minerals and Igneous Rocks.md",
+    "2.md",
+    "[[[[2.md",
+    "[[2.md",
+    "readme.md",
     "Computer Science 151",
     "Geology 007/1 - Minerals and Igneous Rocks",
     "Geology 007",
     "Mathematics 161 A",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }

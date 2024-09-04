@@ -47,7 +47,7 @@
 	* Garbage Collection - memory is finite, objects allocated to the heap must ...
 * ...
 
-### Pillars of Object Oriented Programming
+### [[1 - Recap#Object Oriented Programming |Pillars of Object Oriented Programming]]
 
 #### 1 - Data Abstraction
 
@@ -61,22 +61,21 @@
 
 >[!warning]
 >An instance of an abstract class cannot be created
-
 #### 2 - Encapsulation
 
 >[!info] Definition
 >Binding data and functions that manipulate data in a single unit (class)
-
 #### 3 - Inheritance
 
 >[!info] Definition
 >Allows code reuse and enabled polymorphism
-
 #### 4 - Polymorphism
 
-* Compile time polymorphism - method overloading or operator overloading
-* Runtime polymorphism - method overriding
+> [!info] Compile time polymorphism
+> Method overloading or operator overloading
 
+>[!info] Runtime polymorphism
+>Method overriding
 ### Method Overloading
 
 * Multiple methods with the same name but different signatures
@@ -97,8 +96,8 @@
 	* Overriding
 		* Run time polymorphism
 		* Superclass/subclass
-
 ### Memory Regions
+
 * Hard disk is too slow so the program is loaded to memory
 * A program’s memory usage typically includes 4 different regions
 	* Code memory - program instructions are stored here
@@ -114,5 +113,6 @@
 		* Heap (free store)
 			* where the ”new” operator allocates memory for objects
 ### Hierarchy
+
 * Every constructor of every class begins with super(). If we do not provide super, it will autmatically make an implicit no-args ctor call to the superclass
 * If you call super and there is not a no arg constructor, then it will be a compiler error, other ctors will still work

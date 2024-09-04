@@ -29,8 +29,9 @@
 
 ### Attributes / Class Attributes / Class Members / Class Fields
 
-* Represent variables of data within a class
-* Defines the properties of objects created from that class
+>[!info] Definition
+>* Represent variables of data within a class
+>* Defines the properties of objects created from that class
 
 >[!example]
 >```java
@@ -59,8 +60,11 @@
 >[!info] Definition
 >Blocks of code that perform specific tasks, encapsulating functionality to make code more organized and modular
 
-* Static methods can be accessed without creating an object of the class
-* Instance (non-static) methods can only be accessed via objects
+>[!tip]
+>Static methods can be accessed without creating an object of the class
+
+>[!warning]
+> Instance (non-static) methods can only be accessed via objects
 
 ### Object Oriented Programming
 

@@ -22,7 +22,7 @@
 >* Experiment: flip a coin until two heads are obtained (not necessarily consecutively)
 >	* $S=\{HH,THH,TTHH,...\}$
 >	* Event A: the coin is tossed 4 times
->		* $A=\{HTTH,THTH,TTHH\}$$
+>		* $A=\{HTTH,THTH,TTHH\}$
 
 >[!tip]
 >Event $E$ has occurred if the resulting outcome  is in $E$
@@ -80,7 +80,7 @@ $
 *  Exactly the plant at site 1 or both of the other two plants are completed by the contract date 
 	* $A_1 \cup (A_2 \cap A_3)$
 
-## 2.2 - The Axioms and Properties of Probability
+## 2.2 - The [Axioms](www.dictionary.com/browse/axiom) and Properties of Probability
 
 The probability of event $A$, $P(A)$ is a measure of chance that event $A$ will occur
 ### The three axioms

@@ -11,7 +11,7 @@
 ### Sample
 
 >[!info] Definition
->Any subset of a population
+>Any subset of a [[1 - Overview and Descriptive Statistics#Population |population]]
 
 >[!example]
 >The GPA of 4 random SJSU students
@@ -131,6 +131,7 @@
 	* A mild outlier is if any observation is farther than $1.5f$ from the closest fourth
 	* An extreme outlier is if any observation is farther than 3f from the nearest fourth
 ### Box Plot
+
 1. Draw a number line
 2. Plot the quartiles
 3. Draw a box next to the number line that has a line at the $IQR$
@@ -138,13 +139,9 @@
 5. Draw ”whiskers” from min/max (excluding outliers, if any) to box
 6. Draw an asterisks to represent outlier
 #### Distribution Shape
+
 * Rotate box plot $90$ degrees clockwise if vertical
 * Match to shape of histogram (excluding outliers on box plot)
-
-
-
-
-
 
 
 

@@ -27,12 +27,9 @@
 >[!info] Magma
 >* Molten rock at Earth's surface
 >* Forms plutonic igneous rocks
-
 ### From a liquid to a solid
 
-* Through a process of freezing
-* Over a range of temperatures due to rocks being composed of multiple minerals of multiple freezing points
-
+Through a process of freezing over a range of temperatures due to rocks being composed of multiple minerals of multiple freezing points
 ### Types
 
 * Aphanitic
@@ -59,7 +56,6 @@
 
 >[!info] Color Index
 >The percentage of the rock made of dark colored minerals
-
 ### Felsic Minerals
 
 * Not as dense
@@ -69,7 +65,6 @@
 * Low color index
 * High silica 65
 * Lavas around 700 C
-
 ### Mafic Minerals
 
 * Dense
@@ -79,11 +74,10 @@
 * High color Index
 * Low silica 52
 * Lavas around 1200 C
-
 ### Igneous Equivalents
 
 * A mafic magma will be a mafic lava at the surface
 * A felsic magma will be a felsic lava at the surface
 * Gabbro = basalt (oceanic crust)
-* Granite = Rhyolite (continental crust)
+* Granite = Rhyolite (continental crust) ^594ab3
 * ...
