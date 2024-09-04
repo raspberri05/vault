@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "53bed88c0da07273",
+        "id": "c8c04df455282a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "21a21b37a0ed7fb4",
+            "id": "f9892dad1912d617",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music 19/Music of India.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -90,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Music 19/Music of India.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music 19/Music of India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music 19/Music of India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,14 +137,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21a21b37a0ed7fb4",
+  "active": "1c3ade3795aeb580",
   "lastOpenFiles": [
-    "Computer Science 151/1 - Recap.md",
+    "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Music 19/Music of India.md",
+    "Computer Science 151/1 - Recap.md",
     "Music 19",
     "Computer Science 151/2 - Classes.md",
     "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "canvas.canvas",

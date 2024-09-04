@@ -26,13 +26,13 @@
 
 ### Bauls
 
-## Good to Know 
-### Devas and Devis  
-### Vedas  
-### Samaveda  
-### The Bauls of Bengal  
-### Tansen  
-### Raju Ananthaswamy  
-### Purandara Dasa  
-### Amir Khusrau  
+## Good to Know
+### Devas and Devis
+### Vedas
+### Samaveda
+### The Bauls of Bengal
+### Tansen
+### Raju Ananthaswamy
+### Purandara Dasa
+### Amir Khusrau
 ### Ravi Shankar
