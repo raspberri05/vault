@@ -1,26 +1,26 @@
 ## `public static void main(String[] args)`
 
-* public - Java’s main function requires a public access modifier
-* static - Java’s main method is static, which means no instances need to be updated beforehand to invoke it
-* void - Java’s main function is void, which means it does not return any value when it complete
+* public - Java's main function requires a public access modifier
+* static - Java's main method is static, which means no instances need to be updated beforehand to invoke it
+* void - Java's main function is void, which means it does not return any value when it complete
 * main - When the JVM starts a standalone application, the main method is the function that gets invoked
 * String[] - An array of configuration parameters to be used by the application and can be passed into the main function as arguments.
 * args - The configuration parameters passed into the main function in Java are typically named args
 
 ### Packages
 
->[!info] Definition
->Mechanism required to fully specify class
+> [!info] Definition
+> Mechanism required to fully specify class
 
 * Allows use of classes with the same name in the same project
-* Programmers can determine theat the classes are related
+* Programmers can determine that the classes are related
 * Java uses filesystem directories to store packages
 * Use Keyword import to import packages in Java
 
 ### Access Modifiers
 
->[!info] Definition
->Used to set the accessibility (visibility) of classes, interfaces, variables, method, constructors, data members, and the setter methods
+> [!info] Definition
+> Used to set the accessibility (visibility) of classes, interfaces, variables, method, constructors, data members, and the setter methods
 
 * Default (Package Private) - Declarations are visible only within the package
 * Private - Declarations are visible within the class only
@@ -29,10 +29,11 @@
 
 ### Attributes / Class Attributes / Class Members / Class Fields
 
-* Represent variables of data within a class
-* Defines the properties of objects created from that class
+> [!info] Definition
+> * Represent variables of data within a class
+> * Defines the properties of objects created from that class
 
->[!example]
+> [!example]
 >```java
 >public class Rectangle extends Object {
 >	// properties, characteristics, member data/variables
@@ -56,11 +57,14 @@
 
 ### Methods
 
->[!info] Definition
->Blocks of code that perform specific tasks, encapsulating functionality to make code more organized and modular
+> [!info] Definition
+> Blocks of code that perform specific tasks, encapsulating functionality to make code more organized and modular
 
-* Static methods can be accessed without creating an object of the class
-* Instance (non-static) methods can only be accessed via objects
+> [!tip]
+> Static methods can be accessed without creating an object of the class
+
+> [!warning]
+> Instance (non-static) methods can only be accessed via objects
 
 ### Object Oriented Programming
 
