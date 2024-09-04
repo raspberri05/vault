@@ -1,3 +1,8 @@
+---
+tags:
+  - geol7
+---
+
 ## 2.1 - Sedimentary Rocks
 
 > [!tip]

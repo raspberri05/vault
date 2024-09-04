@@ -1,3 +1,8 @@
+---
+tags:
+  - geol7
+---
+
 ## 1.1 - Minerals
 
 > [!info] Definition

@@ -1,3 +1,8 @@
+---
+tags: [cs151]
+---
+
+
 ## `public static void main(String[] args)`
 
 * public - Java's main function requires a public access modifier

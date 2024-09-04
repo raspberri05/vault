@@ -1,3 +1,7 @@
+---
+tags: math161a
+---
+
 ## 1.1 - Population, Samples, and Statistics
 
 ### Population

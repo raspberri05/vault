@@ -1,3 +1,8 @@
+---
+tags:
+  - math161a
+---
+
 ## 2.1 - Sample Spaces and Events
 
 ### Sample Space

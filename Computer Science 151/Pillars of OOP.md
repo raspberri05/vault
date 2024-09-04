@@ -1,3 +1,8 @@
+---
+tags:
+  - cs151
+---
+
 ## 2.1 - Classes and Objects
 
 ### Class
@@ -47,7 +52,7 @@
 	* Garbage Collection - memory is finite, objects allocated to the heap must …
 * …
 
-### [[1 - Recap#Object Oriented Programming |Pillars of Object Oriented Programming]]
+### [[Recap#Object Oriented Programming|Pillars of Object Oriented Programming]]
 
 #### 1 - Data Abstraction
 
@@ -55,9 +60,28 @@
 > The process of hiding certain (unnecessary) details and showing only essential information to the user
 ##### Achieving Abstraction
 
-* Abstract Classes (partial abstraction)
-* Interfaces (100 percent abstraction)
-* Classes (no abstract, object can be instantiated from the class
+> [!info] Abstract Classes 
+> * Partial abstraction
+>```java
+> abstract class A {
+>	abstract void foo()
+}
+>```
+
+> [!info] Interfaces
+> * Full abstraction
+>```java
+>public interface Player {
+>	public static final int League = 1;
+>	abstract int move();
+>}
+>```
+
+* Classes (not abstract, object can be instantiated from the class)
+* Abstract Methods
+
+> [!info] Marker Interface
+> * Empty interface
 
 > [!warning]
 > An instance of an abstract class cannot be created
@@ -65,18 +89,29 @@
 
 > [!info] Definition
 > Binding data and functions that manipulate data in a single unit (class)
+
+* Enables data-hiding, [[Pillars of OOP#1 - Data Abstraction|abstraction]], [[Recap#Access Modifiers|data access control]]
+
+![[access_modifiers|200]]
+
 #### 3 - Inheritance
 
 > [!info] Definition
-> Allows code reuse and enabled polymorphism
-#### 4 - Polymorphism
+> Allows code reuse and enables polymorphism
 
-> [!info] Compile time polymorphism
-> Method overloading or operator overloading
+> [!example]
+>```java
+>Student s = (Student) new Person(); // will compile, but explicit type casting is not reccommended
+>s.getGpa(); // s is not a student so JVM will find an error
+>```
+#### 4 - Polymorphism
 
 > [!info] Runtime polymorphism
 > Method overriding
-### Method Overloading
+##### Method Overloading
+
+> [!info] Compile time polymorphism
+> Method overloading or operator overloading
 
 * Multiple methods with the same name but different signatures
 	* Different number or types of arguments
@@ -105,11 +140,13 @@
 	* Static memory
 		* static fields
 	* Heap/Stack
+		* Order of adding data in stack and heap matters!!!
 		* Stack (automatic memory)
 			* local (instance) variables are allocated during a method call
 			* a method call adds local variables to the stack, and a return removes them
 			* like adding and removing dishes from a pile; hence the term "stack
 			* automatically allocated and deallocated
+			* contains references to heap
 		* Heap (free store)
 			* where the "new" operator allocates memory for objects
 ### Hierarchy

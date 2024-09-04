@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "352d3c038cc6c290",
+        "id": "15b16681d590055a",
         "type": "tabs",
         "children": [
           {
-            "id": "1074692e66983acb",
+            "id": "5f3edab5b7bd34c1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Computer Science 151/Pillars of OOP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cs151",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science 151/Pillars of OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science 151/Pillars of OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science 151/Pillars of OOP.md"
+              }
             }
           },
           {
@@ -111,6 +117,17 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "28fa18638affdc55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -124,9 +141,24 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1074692e66983acb",
-  "lastOpenFiles": []
+  "active": "92b0810aac05f3b9",
+  "lastOpenFiles": [
+    "Excalidraw/access_modifiers.md",
+    "Computer Science 151/Pillars of OOP.md",
+    "Computer Science 151/Programs vs Processes.md",
+    "Computer Science 151/GUI.md",
+    "Music 19/Music of India.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
+    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+    "Geology 007/1 - Minerals and Igneous Rocks.md",
+    "Computer Science 151/Recap.md",
+    "README.md",
+    "Untitled.md",
+    "Excalidraw"
+  ]
 }
