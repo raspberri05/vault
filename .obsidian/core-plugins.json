@@ -3,13 +3,10 @@
   "global-search",
   "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
   "page-preview",
-  "daily-notes",
   "slash-command",
   "editor-status",
-  "bookmarks",
   "outline",
   "file-recovery"
 ]

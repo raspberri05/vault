@@ -1,24 +1,23 @@
 ## 2.1 - Sedimentary Rocks
 
->[!tip]
->Sedimentary rocks cover most of the Earth's surface
+> [!tip]
+> Sedimentary rocks cover most of the Earth's surface
 
 ### General Terms
 
->[!info] Grain (clast)
->Particle of rock, like a pebble or grain of sand
+> [!info] Grain (clast)
+> Particle of rock, like a pebble or grain of sand
 
->[!info] Deposition
->The process by which gains settle and collect
+> [!info] Deposition
+> The process by which gains settle and collect
 
->[!info] Lithification
->When sediments become stuck together
+> [!info] Lithification
+> When sediments become stuck together
 ### Formation
 #### Weathering
 
->[!info] Definition
+> [!info] Definition
 A process where pre-existing rocks are broken down physically or chemically to produce sediments
-
 ##### Physically
 * Ice wedging
 	* Rocky debris is known as talus
@@ -47,19 +46,19 @@ A process where pre-existing rocks are broken down physically or chemically to p
 	* Dissolving of minerals and rocks
 #### Deposition
 
->[!info] Definition
->Sediments are transported by wind, water, ice, gravity, etc, that come to rest and pile up somewhere
+> [!info] Definition
+> Sediments are transported by wind, water, ice, gravity, etc, that come to rest and pile up somewhere
 #### Lithification
 
->[!info] Definition
->Sediments are stuck together by the growth of new minerals between grains
+> [!info] Definition
+> Sediments are stuck together by the growth of new minerals between grains
 ### Clastic
 
->[!Info] Definition
->Fragments of other rocks
->Biological if it contains fossils/fossil fragments
+> [!Info] Definition
+> Fragments of other rocks
+> Biological if it contains fossils/fossil fragments
 ### Chemical
 
->[!info] Definition
->Crystals grown from a solution
+> [!info] Definition
+> Crystals grown from a solution
 

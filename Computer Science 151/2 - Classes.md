@@ -13,7 +13,7 @@
 * Copy constructor = in Java we define copy constructor on our own
 * Constructor chaining (this() - means the other constructor, super() - can be called in a child constructor
 
->[!example]
+> [!example]
 >```java
 >class A { //implicitly extends object
 > 	int m_x;
@@ -44,38 +44,38 @@
 * There is no concept of destructor in Java
 	* In place of the destructor, Java provides the garbage collector that works the same as the destructor
 * The garbage collector is a program (thread) that runs on the JVM
-	* Garbage Collection - memory is finite, objects allocated to the heap must ...
-* ...
+	* Garbage Collection - memory is finite, objects allocated to the heap must …
+* …
 
 ### [[1 - Recap#Object Oriented Programming |Pillars of Object Oriented Programming]]
 
 #### 1 - Data Abstraction
 
->[!info] Definition
->The process of hiding certain (unnecessary) details and showing only essential information to the user
+> [!info] Definition
+> The process of hiding certain (unnecessary) details and showing only essential information to the user
 ##### Achieving Abstraction
 
 * Abstract Classes (partial abstraction)
 * Interfaces (100 percent abstraction)
 * Classes (no abstract, object can be instantiated from the class
 
->[!warning]
->An instance of an abstract class cannot be created
+> [!warning]
+> An instance of an abstract class cannot be created
 #### 2 - Encapsulation
 
->[!info] Definition
->Binding data and functions that manipulate data in a single unit (class)
+> [!info] Definition
+> Binding data and functions that manipulate data in a single unit (class)
 #### 3 - Inheritance
 
->[!info] Definition
->Allows code reuse and enabled polymorphism
+> [!info] Definition
+> Allows code reuse and enabled polymorphism
 #### 4 - Polymorphism
 
 > [!info] Compile time polymorphism
 > Method overloading or operator overloading
 
->[!info] Runtime polymorphism
->Method overriding
+> [!info] Runtime polymorphism
+> Method overriding
 ### Method Overloading
 
 * Multiple methods with the same name but different signatures
@@ -86,7 +86,7 @@
 * If I have the standard main() function with String[] args, jvm will detect that as an entry point
 	* If I additionally make a main() function with different parameters or no parameters, it will just be a function
 * Operator overloading
-	* Java doesn’t allow user-defined operators
+	* Java doesn't allow user-defined operators
 	* Internally Java overloads some operator
 	* + can be arithmetic addition or String concatenation
 * Overload vs Override
@@ -99,7 +99,7 @@
 ### Memory Regions
 
 * Hard disk is too slow so the program is loaded to memory
-* A program’s memory usage typically includes 4 different regions
+* A program's memory usage typically includes 4 different regions
 	* Code memory - program instructions are stored here
 		* constants
 	* Static memory
@@ -108,11 +108,11 @@
 		* Stack (automatic memory)
 			* local (instance) variables are allocated during a method call
 			* a method call adds local variables to the stack, and a return removes them
-			* like adding and removing dishes from a pile; hence the term ”stack
+			* like adding and removing dishes from a pile; hence the term "stack
 			* automatically allocated and deallocated
 		* Heap (free store)
-			* where the ”new” operator allocates memory for objects
+			* where the "new" operator allocates memory for objects
 ### Hierarchy
 
-* Every constructor of every class begins with super(). If we do not provide super, it will autmatically make an implicit no-args ctor call to the superclass
+* Every constructor of every class begins with super(). If we do not provide super, it will automatically make an implicit no-args ctor call to the superclass
 * If you call super and there is not a no arg constructor, then it will be a compiler error, other ctors will still work
