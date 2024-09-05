@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "34fded47ee5397ac",
+        "id": "96da01be56e86197",
         "type": "tabs",
         "children": [
           {
-            "id": "287010eac2eb263e",
+            "id": "1aa648c1be2bce24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2572dd3c90b1cf0b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/facies.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/facies.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/facies.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/facies.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -156,14 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2572dd3c90b1cf0b",
+  "active": "1aa648c1be2bce24",
   "lastOpenFiles": [
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "Excalidraw/facies.md",
-    "Excalidraw/sorting.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Geology 007/1 - Minerals and Igneous Rocks.md",
+    "Excalidraw/facies.md",
     "Excalidraw/complement.md",
+    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+    "Excalidraw/sorting.md",
+    "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Excalidraw/intersection.md",
     "Excalidraw/union.md",
     "Computer Science 151/Programs vs Processes.md",
