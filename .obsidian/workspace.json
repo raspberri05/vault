@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music 19/Music of India.md",
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music 19/Music of India.md",
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music 19/Music of India.md",
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music 19/Music of India.md"
+                "file": "Geology 007/1 - Minerals and Igneous Rocks.md"
               }
             }
           },
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +148,13 @@
   },
   "active": "5f3edab5b7bd34c1",
   "lastOpenFiles": [
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Music 19/Music of India.md",
     "Computer Science 151/Pillars of OOP.md",
     "Excalidraw/access_modifiers.md",
     "Computer Science 151/Programs vs Processes.md",
     "Computer Science 151/GUI.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Computer Science 151/Recap.md",
