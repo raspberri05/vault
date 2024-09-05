@@ -16,7 +16,7 @@ tags:
 
 > [!info] Formation
 > * Freezing from magma or lava
-> * Grows from dissolved ions in water
+> * Grows from [[2 - Sedimentary Rocks and Geological Time#Chemical|dissolved]] ions in water
 > * Through chemical reactions of other minerals
 
 ## 1.2 - Igneous Rocks

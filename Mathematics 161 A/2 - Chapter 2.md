@@ -50,10 +50,12 @@ Event with no outcomes
 
 > [!info] Definition
 > The union of events $A$ and $B$, $A \cup B$, read as "$A$ or $B$", is the set of all outcomes $S$ that are in $A$ or $B$  or in both $A$ and $B$
+> ![[union]]
 #### Intersection
 
 > [!info] Definition
 > The intersection of events $A$ and $B$, represented by $A \cap B$ read as "$A$ and $B$", is the set of all outcomes that are in both $A$ and $B$
+> ![[intersection]]
 #### Mutual Exclusivity
 
 > [!info] Definition

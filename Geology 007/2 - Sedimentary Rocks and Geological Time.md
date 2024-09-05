@@ -2,7 +2,6 @@
 tags:
   - geol7
 ---
-
 ## 2.1 - Sedimentary Rocks
 
 > [!tip]
@@ -47,8 +46,11 @@ A process where pre-existing rocks are broken down physically or chemically to p
 	* Absorption of water into the crystal structures of silicates and removal of some components of the silicate structure in solution (carried away in water)
 	* Weathering of feldspar is typical
 * Oxidation
+	* Common with metallic ions
 * Dissolution
 	* Dissolving of minerals and rocks
+	* Common with calcite
+	* Hard water, seashells, stagalmites
 #### Deposition
 
 > [!info] Definition
@@ -67,3 +69,90 @@ A process where pre-existing rocks are broken down physically or chemically to p
 > [!info] Definition
 > Crystals grown from a solution
 
+### Characteristics
+
+#### Grain Rounding
+
+> [!info] Definition
+> "roundness" of a grain or average "roundness" of multiple grains
+
+* Angular, Subangular, Sub-rounded, Rounded
+* Result of abrasion
+
+#### Sorting
+
+> [!info] Definition
+> Describes the range of grain sizes in a rock
+
+### Changes over time
+
+* Become more [[sorting|sorted]] over time
+* Become [[2 - Sedimentary Rocks and Geological Time#Grain Rounding|rounded]] over time
+* Become finer over time
+	![[sorting|300]]
+* Become more quartz rich
+	* Quartz is quite stable, and survives the journey down a river more easily than other minerals
+	* Quartz doesn't increase, but occurrence of other minerals decrease
+
+### Types
+
+#### [[#Clastic]]
+* Conglomerate
+	* Poorly [[#Sorting|sorted]] (mixture of silt, sand, pebbles, etc)
+	* [[#Grain Rounding|Rounded]] grains
+	* Formation
+		* Rivers
+		* Beaches (swash zones)
+		* Glaciers
+* Breccia
+	* Poorly [[#Sorting|sorted]] (mixture of silt, sand, pebbles, etc)
+	* [[#Grain Rounding|Angular]] grains
+	* Formation
+		* Faults
+		* Landslides
+		* Talus
+* Sandstone
+	* Well [[#Sorting|sorted]]
+	* [[#Grain Rounding|Rounded]]
+	* Formation
+		* Beaches
+		* Dunes
+		* Rivers
+	* Has mostly uniform layering
+* Shale
+	* Well [[#Sorting|sorted]]
+	* [[#Grain Rounding|Rounded]] grains
+	* Formation
+		* Underwater
+		* Rivers
+		* Floodplains
+	* Fossil preservation
+		* Shale preserves great fossils
+		* Fine details can be preserved quite well
+			* Due to small grain size
+#### [[#Chemical]]
+* Old minerals dissolve into water, then reform back into crystals again
+* Limestone
+	* Composed of calcite crystals
+	* Carbonate rock
+	* Ancient fossil-rich limestone with fossil shells
+	* Tiny crystalline calcite spheres formed in seawater in tropical regions
+* Chert
+	* Made of silica, mainly from plankton shells
+* Coal
+* Evaporites
+	* Made of various mineral crystals
+	* Has to do with what elements are present in the water
+### Layers
+
+* Sediments usually pile up in horizontal sheets on the Earth's surface
+* These sheets stack up on top of each other over time
+* Therefore, the deeper down you dig, the old the layers are
+* Also known as "strata" or "bedding"
+
+### Facies
+
+![[facies|750]]
+
+Rising sea level -> transgression
+Falling sea level -> regression

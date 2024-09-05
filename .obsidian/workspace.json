@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "15b16681d590055a",
+        "id": "34fded47ee5397ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5f3edab5b7bd34c1",
+            "id": "287010eac2eb263e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/Pillars of OOP.md",
+                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "2572dd3c90b1cf0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/facies.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Pillars of OOP.md",
+                "file": "Excalidraw/facies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science 151/Pillars of OOP.md",
+                "file": "Excalidraw/facies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/Pillars of OOP.md"
+                "file": "Excalidraw/facies.md"
               }
             }
           },
@@ -135,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f3edab5b7bd34c1",
+  "active": "2572dd3c90b1cf0b",
   "lastOpenFiles": [
+    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+    "Excalidraw/facies.md",
+    "Excalidraw/sorting.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Geology 007/1 - Minerals and Igneous Rocks.md",
+    "Excalidraw/complement.md",
+    "Excalidraw/intersection.md",
+    "Excalidraw/union.md",
     "Computer Science 151/Programs vs Processes.md",
+    "excalibrain.md",
+    "Excalidraw/Drawing 2024-09-05 11.11.09.excalidraw.md",
+    "Excalidraw/access_modifiers.md",
+    "Excalidraw/Drawing 2024-09-05 10.35.42.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
     "Computer Science 151/GUI.md",
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Music 19/Music of India.md",
-    "Excalidraw/access_modifiers.md",
-    "Mathematics 161 A/2 - Chapter 2.md",
     "Computer Science 151/Recap.md",
     "README.md",
     "Untitled.md",
