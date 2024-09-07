@@ -187,17 +187,17 @@ Turntable: Onkyo, Sony, Teac, Techniques (4)
 		* $P($exactly one Sony$)=\frac{1*3*3*3 + 4*1*3*3 + 4*3*3*1}{240}$
 ### Permutations
 
->[!info] Definition
->Let $0<k\leq n$, $k,n$ are integers
->A $k$-permutation of a set of $n$ distinct objects (elements) is an **ordered** selection of $k$ objects of the set
->$P_{k,n} =$ the number of $k$-permutations of $n$ elements
->It can be shown that $P_{k,n}=n(n-1)...(n-k+1)=\frac{n!}{(n-k)!}$
->$P_{n,n}=n!$
+> [!info] Definition
+> Let $0<k\leq n$, $k,n$ are integers
+> A $k$-permutation of a set of $n$ distinct objects (elements) is an **ordered** selection of $k$ objects of the set
+> $P_{k,n} =$ the number of $k$-permutations of $n$ elements
+> It can be shown that $P_{k,n}=n(n-1)…(n-k+1)=\frac{n!}{(n-k)!}$
+> $P_{n,n}=n!$
 
->[!example]
->$n=7$, $k=3 \Rightarrow \{a,b,c,d,e,f,g\}$
->Some 3-permutations: $abc,cab,bca,bfe$
->$P_{3,7}=7*6*5=7*6*5*\frac{4!}{4!} = \frac{7!}{(7-3)!}$
+> [!example]
+> $n=7$, $k=3 \Rightarrow \{a,b,c,d,e,f,g\}$
+> Some 3-permutations: $abc,cab,bca,bfe$
+> $P_{3,7}=7*6*5=7*6*5*\frac{4!}{4!} = \frac{7!}{(7-3)!}$
 
 #### Textbook Example 30
 
@@ -206,19 +206,19 @@ Find the # of non-repetitive combinations $\Rightarrow \frac{10!}{6!}=10*9*8*7$
 
 ### Combinations
 
->[!info] Definition
->A $k$-combination of a set of $n$ distinct elements is subset of $k$ elements of the set
->$C_{k,n}=$ The # of $k$-combinations of $n$ elements
->$(^n_k)$
->$C_{k,n} = \frac{P_{k,n}}{k!}=\frac{n!}{(n-k)!*k!}$
+> [!info] Definition
+> A $k$-combination of a set of $n$ distinct elements is subset of $k$ elements of the set
+> $C_{k,n}=$ The # of $k$-combinations of $n$ elements
+> $(^n_k)$
+> $C_{k,n} = \frac{P_{k,n}}{k!}=\frac{n!}{(n-k)!*k!}$
 
 
 
->[!example]
->$\{a,b,c,d,e,f,g\},n=7,k=3$
->Some 3-combinations: $\{a,b,c\}=\{b,c,a\}$
->Permutations: $abc,bca,...,cba\Rightarrow 3!=6$
->$C_{3,7}=\frac{P_{3,7}}{3!}=\frac{7!}{(7-3)!*3!}$
+> [!example]
+> $\{a,b,c,d,e,f,g\},n=7,k=3$
+> Some 3-combinations: $\{a,b,c\}=\{b,c,a\}$
+> Permutations: $abc,bca,…,cba\Rightarrow 3!=6$
+> $C_{3,7}=\frac{P_{3,7}}{3!}=\frac{7!}{(7-3)!*3!}$
 
 
 

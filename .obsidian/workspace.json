@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
+                "file": "Mathematics 161 A/1 - Overview and Descriptive Statistics.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   "active": "1aa648c1be2bce24",
   "lastOpenFiles": [
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Excalidraw/facies.md",
     "Excalidraw/complement.md",
+    "Excalidraw/facies.md",
     "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "Excalidraw/sorting.md",
     "Geology 007/1 - Minerals and Igneous Rocks.md",
