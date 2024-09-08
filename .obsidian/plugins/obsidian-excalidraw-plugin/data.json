@@ -34,7 +34,7 @@
   "matchThemeAlways": true,
   "matchThemeTrigger": true,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,

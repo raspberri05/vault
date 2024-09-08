@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96da01be56e86197",
+        "id": "1cc6d161600d6065",
         "type": "tabs",
         "children": [
           {
-            "id": "1aa648c1be2bce24",
+            "id": "e5b6c94de4bbf724",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "1ff9721aea3e7a72",
@@ -147,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aa648c1be2bce24",
+  "active": "e5b6c94de4bbf724",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Excalidraw/facies.md",
     "Excalidraw/complement.md",
