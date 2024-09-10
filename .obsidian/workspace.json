@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+                "file": "Geology 007/2.2 & 2.3 - Dating.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+                "file": "Geology 007/2.2 & 2.3 - Dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
+                "file": "Geology 007/2.2 & 2.3 - Dating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2 - Sedimentary Rocks and Geological Time.md"
+                "file": "Geology 007/2.2 & 2.3 - Dating.md"
               }
             }
           },
@@ -147,8 +147,9 @@
   },
   "active": "e531e344dcf244a4",
   "lastOpenFiles": [
+    "Geology 007/2.1 - Sedimentary Rocks.md",
+    "Geology 007/2.2 & 2.3 - Dating.md",
     "Excalidraw/cross bed 2.md",
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "Excalidraw/cross bed 1.md",
     "Excalidraw/facies.md",
     "Mathematics 161 A/2 - Chapter 2.md",
