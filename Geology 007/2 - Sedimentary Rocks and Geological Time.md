@@ -156,3 +156,11 @@ A process where pre-existing rocks are broken down physically or chemically to p
 
 Rising sea level -> transgression
 Falling sea level -> regression
+
+### Cross Bedding Forms from Moving Sediments
+* These rocks were deposited from flowing water or wind and have a distinctive pattern
+* Forms from dunes and ripples
+
+![[cross bed 1]]
+
+![[cross bed 2]]
