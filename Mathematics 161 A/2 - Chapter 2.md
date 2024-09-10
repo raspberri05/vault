@@ -230,3 +230,55 @@ Find the # of non-repetitive combinations $\Rightarrow \frac{10!}{6!}=10*9*8*7$
 * If a sample of 5 keyboards is randomly selected, what is the probability that at least 4 of these will have a mechanical defect?
 	* $P($exactly 4$)+P($all 5)
 	* $\frac{(^{19}_4)*(^6_1)+(^{19}_5)}{(^{25}_5)}$
+## 2.4 - Conditional Probability
+
+* Suppose $A$ and $B$ are events
+* $P(A|B)$ is read as "the probability of $A$ given $B$"
+* $P(A|B)=$ the probability of $A$ given that $B$ has occurred
+* $B$ is the conditioning event
+
+> [!info] Definition
+> For events $A$ and $B$ with $P(B)>0$, $P(A|B)=\frac{P(A\cap B)}{P(B)}$
+
+![[conditional prob def]]
+
+### Textbook Example 50
+
+* Given that the shirt that just sold was a short-sleeved plaid, what is the probability that its size was medium?
+	* $P(M$ | short sleeve and plaid)
+	* $=P(M$ & short sleeve & plaid) / $P$(short sleeve & plaid)
+	* $=\frac{0.08}{0.04+0.08+0.03}=\frac{8}{15}$
+* Given that the shirt that just sold was a medium plaid, what is the probability that it was short-sleeved?
+	* $P$(short sleeve | $M$ & plaid)
+	* $=P$(short sleeve & $M$ & plaid) / $P(M$ & plaid)
+	* $=\frac{0.08}{0.08+0.10}=\frac{8}{18}$
+
+### Multiplication Rule
+
+>[!info] Definition
+>For any event $A$ and $B$, the $P(A \cap B)=P(A|B)*P(B)$ if $P(B)>0$
+
+>[!example]
+>A box contains five blue balls and eight red ones. Two balls are removed, one at a time, at random without replacement. What is the probability that both balls are red?
+>* $P$(1st red & 2nd red)
+>* $=P$(1st red)$*P$(2nd red | 1st red)
+>* $=\frac{8}{13}*\frac{7}{12}$
+
+For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
+#### Example 22
+
+400 backup power supply units, 8 are defective
+* If 3 of the units are randomly selected for testing, what is the probability that the entire batch will be accepted
+	* $P$(1st ok & 2nd ok & 3rd ok)
+	* $=\frac{392}{400}*\frac{391}{399}*\frac{390}{398}=0.94...$
+
+
+
+
+
+
+
+
+
+
+
