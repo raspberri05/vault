@@ -212,14 +212,21 @@ Find the # of non-repetitive combinations $\Rightarrow \frac{10!}{6!}=10*9*8*7$
 > $(^n_k)$
 > $C_{k,n} = \frac{P_{k,n}}{k!}=\frac{n!}{(n-k)!*k!}$
 
-
-
 > [!example]
 > $\{a,b,c,d,e,f,g\},n=7,k=3$
 > Some 3-combinations: $\{a,b,c\}=\{b,c,a\}$
 > Permutations: $abc,bca,…,cba\Rightarrow 3!=6$
 > $C_{3,7}=\frac{P_{3,7}}{3!}=\frac{7!}{(7-3)!*3!}$
 
+#### Textbook Example 34
 
-
-
+* 25 failed keyboards
+	* 6 with electrical defects
+	* 19 with mechanical defects
+* How many ways are there to randomly select 5 of these keyboards for a thorough inspection (without regard to order)?
+	* $(^{25}_5) = 53130$
+* In how many ways can a sample of 5 keyboards be selected so that exactly two have an electrical defect?
+	* $(^6_2)*(^{19}_3)=15*969=14535$
+* If a sample of 5 keyboards is randomly selected, what is the probability that at least 4 of these will have a mechanical defect?
+	* $P($exactly 4$)+P($all 5)
+	* $\frac{(^{19}_4)*(^6_1)+(^{19}_5)}{(^{25}_5)}$
