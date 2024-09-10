@@ -4,7 +4,7 @@ tags:
 ---
 ## JFrame
 
-### Five steps to displaying a frame
+### Five Steps to Displaying a Frame
 1. `JFrame frame = new JFrame();`
 2. `frame.setSize(300,400);`
 3. `frame.setTitle("An Empty Frame");`
@@ -41,7 +41,7 @@ JPanel panel new JPanel();
 panel.add(button);
 ```
 
-### Using inheritance to customize frames
+### Using Inheritance to Customize Frames
 
 * For complex frames
 	* Design a subclass of `JFrame`
@@ -73,8 +73,8 @@ public class FilledFrameViewer {
 	}
 }
 ```
->[!tip]
->You can add the main method directly to the class(FilledFrame in this case)
+> [!tip]
+> You can add the main method directly to the class(FilledFrame in this case)
 ## Events and Event Handling
 
 * In a modern GUI program, the user controls the program through the mouse and keyboard
@@ -108,8 +108,8 @@ button.addActionListener(listener);
 // When the button object is clicked, it will call listener.ActionPerformed, passing it the event as a parameter
 ```
 
->[!warning]
->Add the `ActionListener` after adding the components to the panel and adding the panel to frame
+> [!warning]
+> Add the `ActionListener` after adding the components to the panel and adding the panel to frame
 
 
 

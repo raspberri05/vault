@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/GUI.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "e5b6c94de4bbf724",
   "lastOpenFiles": [
+    "Computer Science 151/GUI.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Music 19/Music of India.md",
     "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
@@ -163,7 +164,6 @@
     "Excalidraw/access_modifiers.md",
     "Excalidraw/Drawing 2024-09-05 10.35.42.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
-    "Computer Science 151/GUI.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Computer Science 151/Recap.md",
     "README.md",
