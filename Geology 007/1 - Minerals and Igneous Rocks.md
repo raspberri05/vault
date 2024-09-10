@@ -29,6 +29,8 @@ tags:
 > * Molten rock at Earth's surface
 > * Forms volcanic igneous rocks
 
+^915c87
+
 > [!info] Magma
 > * Molten rock at Earth's surface
 > * Forms plutonic igneous rocks
