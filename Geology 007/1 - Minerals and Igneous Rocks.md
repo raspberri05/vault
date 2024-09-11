@@ -16,7 +16,7 @@ tags:
 
 > [!info] Formation
 > * Freezing from magma or lava
-> * Grows from [[2 - Sedimentary Rocks and Geological Time#Chemical|dissolved]] ions in water
+> * Grows from [[2.1 - Sedimentary Rocks#Chemical|dissolved]] ions in water
 > * Through chemical reactions of other minerals
 
 ## 1.2 - Igneous Rocks
@@ -28,6 +28,8 @@ tags:
 > [!info] Lava
 > * Molten rock at Earth's surface
 > * Forms volcanic igneous rocks
+
+^915c87
 
 > [!info] Magma
 > * Molten rock at Earth's surface
