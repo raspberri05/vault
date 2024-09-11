@@ -4,8 +4,10 @@ Obsidian
 
 ## Plugins
 
-* Quick Latex
+* Excalidraw
 * Git
+* Linter
+* Quick Latex
 
 ## Themes
 

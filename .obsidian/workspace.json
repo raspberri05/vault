@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc6d161600d6065",
+        "id": "809a6c8685467271",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b6c94de4bbf724",
+            "id": "5d8d6ef25058caba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music 019/Music of India.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cs151",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music 019/Music of India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music 019/Music of India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Music 019/Music of India.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,21 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b6c94de4bbf724",
+  "active": "efaf7365e3be9056",
   "lastOpenFiles": [
-    "Geology 007/2.1 - Sedimentary Rocks.md",
+    "Computer Science 151/GUI.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Music 019/Music of India.md",
-    "Music 019",
     "Geology 007/2.2 & 2.3 - Dating.md",
+    "Table of Contents.md",
+    "README.md",
     "Excalidraw/non-conformity.md",
+    "Music 019/Music of India.md",
+    "Geology 007/2.1 - Sedimentary Rocks.md",
+    "Music 019",
     "Excalidraw/geo time fault.md",
     "Excalidraw/disconformity.md",
     "Excalidraw/cross bed 2.md",
     "Excalidraw/cross bed 1.md",
     "Excalidraw/conditional prob def.md",
     "Excalidraw/angular uncoonformity.md",
-    "Computer Science 151/GUI.md",
     "Music 19/Music of India.md",
     "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
     "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
@@ -173,8 +167,6 @@
     "Computer Science 151/Programs vs Processes.md",
     "excalibrain.md",
     "Excalidraw/Drawing 2024-09-05 11.11.09.excalidraw.md",
-    "Excalidraw/access_modifiers.md",
-    "Excalidraw/Drawing 2024-09-05 10.35.42.excalidraw.md",
     "Excalidraw"
   ]
 }

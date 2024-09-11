@@ -111,5 +111,22 @@ button.addActionListener(listener);
 > [!warning]
 > Add the `ActionListener` after adding the components to the panel and adding the panel to frame
 
+#### Inner Class Listener
+
+```java
+public class ButtonFrame2 extends JFrame {
+	private JButton button;
+	private JLabel label;
+	
+	class ClickListener implements ActionListener {
+		public void actionPerformed(ActionEvent event) {
+			label.setText("I was clicked");
+		}
+	}
+}
+```
+
+> [!warning]
+> Don't forget to attach the listener
 
 
