@@ -255,14 +255,14 @@ Find the # of non-repetitive combinations $\Rightarrow \frac{10!}{6!}=10*9*8*7$
 
 ### Multiplication Rule
 
->[!info] Definition
->For any event $A$ and $B$, the $P(A \cap B)=P(A|B)*P(B)$ if $P(B)>0$
+> [!info] Definition
+> For any event $A$ and $B$, the $P(A \cap B)=P(A|B)*P(B)$ if $P(B)>0$
 
->[!example]
->A box contains five blue balls and eight red ones. Two balls are removed, one at a time, at random without replacement. What is the probability that both balls are red?
->* $P$(1st red & 2nd red)
->* $=P$(1st red)$*P$(2nd red | 1st red)
->* $=\frac{8}{13}*\frac{7}{12}$
+> [!example]
+> A box contains five blue balls and eight red ones. Two balls are removed, one at a time, at random without replacement. What is the probability that both balls are red?
+> * $P$(1st red & 2nd red)
+> * $=P$(1st red)$*P$(2nd red | 1st red)
+> * $=\frac{8}{13}*\frac{7}{12}$
 
 For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
 #### Example 22
@@ -270,7 +270,7 @@ For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
 400 backup power supply units, 8 are defective
 * If 3 of the units are randomly selected for testing, what is the probability that the entire batch will be accepted
 	* $P$(1st ok & 2nd ok & 3rd ok)
-	* $=\frac{392}{400}*\frac{391}{399}*\frac{390}{398}=0.94...$
+	* $=\frac{392}{400}*\frac{391}{399}*\frac{390}{398}=0.94…$
 
 
 
