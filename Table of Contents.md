@@ -4,7 +4,7 @@
 [[Programs vs Processes]]
 [[GUI]]
 ## Geology 007
-[[1 - Minerals and Igneous Rocks]]
+[[1.2 - Igneous Rocks]]
 [[2.1 - Sedimentary Rocks]]
 [[2.2 & 2.3 - Dating]]
 ## Mathematics 161 A

@@ -129,4 +129,64 @@ public class ButtonFrame2 extends JFrame {
 > [!warning]
 > Don't forget to attach the listener
 
+### Text Areas
+* …
+* The `append` method adds text to the end of a text area
+	* Use newline characters to separate lines
+	* `textArea.append(account.getBalance() + interest)`
+* Use the `setEditable` method to control user input
+* `textArea setEditable(false)`
 
+### JTextField and JTextArea
+
+* The append method is declared in the `JTextArea` class
+* …
+* Use `JScrollPane` to add scroll bars
+	* `JScrollPane srollPane = new JScrollPane(textArea)`
+	* 
+### Creating Drawings
+* You cannot draw directly on a `JFrame` objects
+* Instead, construct an object and add it to the frame
+	* A few examples objects to draw on are
+		* `JComponent`
+		* `JPanel`
+		* `JTextComponent`
+		* `JLabel`
+
+### paintComponent`
+* Called automatically when
+	* The component is shown for the first time
+	* Every time the wind is resized or after being hidden
+
+```java
+public class chartComponent extends JComponent {
+	public void paintComponent(Graphics G) {
+		// fillRect(x,y,length,width)
+		// draws from the corner
+		g.fillRect(0,10,200,10);
+		g.fillRect(0,30,300,10);
+		g.fillRect(0,50,100,10);
+		// creates a bar chart
+	}
+}
+```
+
+```java
+public class RectangleComponent extends JComponent
+{
+	public void paintComponent(Graphics g) {
+		Graphics2D = (Graphics2D) g;
+		
+	}
+}
+```
+
+#### Ovals, Lines, Text, and color
+##### Ovals
+* Ellipses are drawn inside a **bounding box** in the same way that you specify a rectangle
+	* Provide the x and y coordinates of the top left corner
+	* Provide the width and height of the bounding box
+	* Use the `Graphics` class `drawOval` method to create an ellipse
+	* ...
+##### Text
+* ...

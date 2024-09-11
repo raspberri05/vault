@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "809a6c8685467271",
+        "id": "c2c1529b5d006261",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8d6ef25058caba",
+            "id": "ca0c6df13d7edb74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science 151/GUI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science 151/GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,22 +90,13 @@
             }
           },
           {
-            "id": "2ea2a9517abc1320",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "30ec568fd75a0f0e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science 151/GUI.md"
+              }
             }
           },
           {
@@ -110,44 +106,38 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "28fa18638affdc55",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "efaf7365e3be9056",
+  "active": "92b0810aac05f3b9",
   "lastOpenFiles": [
-    "Computer Science 151/GUI.md",
-    "Mathematics 161 A/2 - Chapter 2.md",
-    "Geology 007/2.2 & 2.3 - Dating.md",
     "Table of Contents.md",
+    "Computer Science 151/GUI.md",
+    "To Do.md",
+    "todo.canvas",
+    "Geology 007/2.2 & 2.3 - Dating.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Geology 007/1.1 - Minerals.md",
+    "Geology 007/1.2 - Igneous Rocks.md",
+    "Geology 007/2.1 - Sedimentary Rocks.md",
     "README.md",
+    "Excalidraw/access_modifiers.md",
     "Excalidraw/non-conformity.md",
     "Music 019/Music of India.md",
-    "Geology 007/2.1 - Sedimentary Rocks.md",
     "Music 019",
     "Excalidraw/geo time fault.md",
     "Excalidraw/disconformity.md",
@@ -161,12 +151,8 @@
     "Excalidraw/facies.md",
     "Excalidraw/complement.md",
     "Excalidraw/sorting.md",
-    "Geology 007/1 - Minerals and Igneous Rocks.md",
     "Excalidraw/intersection.md",
     "Excalidraw/union.md",
-    "Computer Science 151/Programs vs Processes.md",
-    "excalibrain.md",
-    "Excalidraw/Drawing 2024-09-05 11.11.09.excalidraw.md",
     "Excalidraw"
   ]
 }
