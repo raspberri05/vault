@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Geology 007/2.2 & 2.3 - Dating.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "1ff9721aea3e7a72",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Geology 007/2.2 & 2.3 - Dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/GUI.md"
+                "file": "Geology 007/2.2 & 2.3 - Dating.md"
               }
             }
           },
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,10 +124,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92b0810aac05f3b9",
+  "active": "ca0c6df13d7edb74",
   "lastOpenFiles": [
-    "Table of Contents.md",
     "Computer Science 151/GUI.md",
+    "Table of Contents.md",
     "To Do.md",
     "todo.canvas",
     "Geology 007/2.2 & 2.3 - Dating.md",

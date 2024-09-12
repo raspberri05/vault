@@ -181,12 +181,12 @@ public class RectangleComponent extends JComponent
 }
 ```
 
-#### Ovals, Lines, Text, and color
+#### Ovals, Lines, Text, and Color
 ##### Ovals
 * Ellipses are drawn inside a **bounding box** in the same way that you specify a rectangle
 	* Provide the x and y coordinates of the top left corner
 	* Provide the width and height of the bounding box
 	* Use the `Graphics` class `drawOval` method to create an ellipse
-	* ...
+	* …
 ##### Text
-* ...
+* …
