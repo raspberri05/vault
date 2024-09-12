@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md",
+                "file": "Geology 007/2.1 - Sedimentary Rocks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "1ff9721aea3e7a72",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md",
+                "file": "Geology 007/2.1 - Sedimentary Rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md"
+                "file": "Geology 007/2.1 - Sedimentary Rocks.md"
               }
             }
           },
@@ -126,11 +125,11 @@
   },
   "active": "ca0c6df13d7edb74",
   "lastOpenFiles": [
+    "Geology 007/2.2 & 2.3 - Dating.md",
     "Computer Science 151/GUI.md",
     "Table of Contents.md",
     "To Do.md",
     "todo.canvas",
-    "Geology 007/2.2 & 2.3 - Dating.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Geology 007/1.1 - Minerals.md",
     "Geology 007/1.2 - Igneous Rocks.md",
