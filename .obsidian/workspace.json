@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2c1529b5d006261",
+        "id": "642531b182b4ffb9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0c6df13d7edb74",
+            "id": "2b6aba12b9a7bb97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2.1 - Sedimentary Rocks.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2.1 - Sedimentary Rocks.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2.1 - Sedimentary Rocks.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -108,12 +108,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,17 +122,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca0c6df13d7edb74",
+  "active": "2b6aba12b9a7bb97",
   "lastOpenFiles": [
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Excalidraw/ex 64.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/ex 60.md",
+    "Excalidraw/complete prob.md",
     "Geology 007/2.2 & 2.3 - Dating.md",
+    "Geology 007/2.1 - Sedimentary Rocks.md",
     "Computer Science 151/GUI.md",
     "Table of Contents.md",
     "To Do.md",
     "todo.canvas",
-    "Mathematics 161 A/2 - Chapter 2.md",
     "Geology 007/1.1 - Minerals.md",
     "Geology 007/1.2 - Igneous Rocks.md",
-    "Geology 007/2.1 - Sedimentary Rocks.md",
     "README.md",
     "Excalidraw/access_modifiers.md",
     "Excalidraw/non-conformity.md",
@@ -149,10 +152,6 @@
     "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
     "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
     "Excalidraw/facies.md",
-    "Excalidraw/complement.md",
-    "Excalidraw/sorting.md",
-    "Excalidraw/intersection.md",
-    "Excalidraw/union.md",
     "Excalidraw"
   ]
 }
