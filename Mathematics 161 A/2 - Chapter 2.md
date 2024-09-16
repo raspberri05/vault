@@ -354,29 +354,29 @@ $\Rightarrow P(F^1\cap L^1)=.27$
 > $P(B)=\frac{1}{3}$, so $B,C$ are dependent
 
 
-### 
->[!info] Definition
->Events $A_1,A_2,...,A_n$ are mutually independent for any subset of indices$i_1,i_2,...,i_n$, where $m=1,2,...,n$
->$P(A_{i_1},A_{i_2},...,A_{i_m})=P(A_{i_1})*P(A_{i_2})*...*P(A_{i_m})$
+###
+> [!info] Definition
+> Events $A_1,A_2,…,A_n$ are mutually independent for any subset of indices$i_1,i_2,…,i_n$, where $m=1,2,…,n$
+> $P(A_{i_1},A_{i_2},…,A_{i_m})=P(A_{i_1})*P(A_{i_2})*…*P(A_{i_m})$
 
->[!example]
->$A,B,C$ are events $\Rightarrow$ mutually independent
->$P(A\cap B)=P(A)P(B)$
->$P(A\cap C)=P(A)P(C)$
->$P(B\cap C)=P(B)P(C)$
->$P(A\cap B\cap C)=P(A)P(B)P(C)$
+> [!example]
+> $A,B,C$ are events $\Rightarrow$ mutually independent
+> $P(A\cap B)=P(A)P(B)$
+> $P(A\cap C)=P(A)P(C)$
+> $P(B\cap C)=P(B)P(C)$
+> $P(A\cap B\cap C)=P(A)P(B)P(C)$
 
->[!example] Example 82
->red, green dice
->Let $A$ be red 3, $B$ be green 4, $C$ be total on both dice is 7
->Are these pairwise independent?
->$A=\{(3,1),(3,2),...,(3,6)\}$
->$B=\{(1,4),(2,4),...,(6,4)\}$
->$C=\{(1,6),(2,5),(3,4),(6,1),(5,2),(4,3)\}$
->$P(A)=P(B)=P(C)=\frac{6}{36}=\frac{1}{6}$
->$P(B|A)=\frac{|\{(3,4)\}|}{6}=\frac{1}{6}=P(B)$
->$P(B\cap C)=\frac{1}{36}=P(B)*P(C)$
->$P(A|C)=\frac{1}{6}$
->Yes
->Are these mutually independent?
->$P(A\cap B\cap C)=\frac{|\{3,4\}|}{36}=\frac{1}{36}\neq P(A)P(B)P(C)\Rightarrow No$
+> [!example] Example 82
+> red, green dice
+> Let $A$ be red 3, $B$ be green 4, $C$ be total on both dice is 7
+> Are these pairwise independent?
+> $A=\{(3,1),(3,2),…,(3,6)\}$
+> $B=\{(1,4),(2,4),…,(6,4)\}$
+> $C=\{(1,6),(2,5),(3,4),(6,1),(5,2),(4,3)\}$
+> $P(A)=P(B)=P(C)=\frac{6}{36}=\frac{1}{6}$
+> $P(B|A)=\frac{|\{(3,4)\}|}{6}=\frac{1}{6}=P(B)$
+> $P(B\cap C)=\frac{1}{36}=P(B)*P(C)$
+> $P(A|C)=\frac{1}{6}$
+> Yes
+> Are these mutually independent?
+> $P(A\cap B\cap C)=\frac{|\{3,4\}|}{36}=\frac{1}{36}\neq P(A)P(B)P(C)\Rightarrow No$
