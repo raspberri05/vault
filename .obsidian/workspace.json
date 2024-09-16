@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "642531b182b4ffb9",
+        "id": "e04b28a9e3c980f0",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6aba12b9a7bb97",
+            "id": "e5311cafee9a142f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,8 +122,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30ec568fd75a0f0e",
+  "active": "e5311cafee9a142f",
   "lastOpenFiles": [
+    "Computer Science 151/GUI.md",
+    "Computer Science 151/Untitled.md",
+    "Computer Science 151/Pillars of OOP.md",
+    "Excalidraw/border layout.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Excalidraw/ex 64.md",
     "Excalidraw/Untitled.md",
@@ -131,7 +135,6 @@
     "Excalidraw/complete prob.md",
     "Geology 007/2.2 & 2.3 - Dating.md",
     "Geology 007/2.1 - Sedimentary Rocks.md",
-    "Computer Science 151/GUI.md",
     "Table of Contents.md",
     "To Do.md",
     "todo.canvas",
@@ -149,9 +152,6 @@
     "Excalidraw/conditional prob def.md",
     "Excalidraw/angular uncoonformity.md",
     "Music 19/Music of India.md",
-    "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "Excalidraw/facies.md",
     "Excalidraw"
   ]
 }
