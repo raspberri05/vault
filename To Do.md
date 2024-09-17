@@ -4,7 +4,7 @@
 - [ ] HW 2 - [[GUI]] - Due Sept 26
 ## GEOL 7
 
-- [ ] Assignment #1 - [[Time Scale]] - Due Sept 26
+- [ ] Assignment #1 - [[2.6 - The Geological Timescale|Geological Timescale]] - Due Sept 26
 ## MATH 161A
 
 - [ ] [[2 - Chapter 2#2.4 - Conditional Probability|2.4]] - Due Sept 23

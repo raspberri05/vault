@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md",
+                "file": "Geology 007/2.6 - The Geological Timescale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "1ff9721aea3e7a72",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md",
+                "file": "Geology 007/2.6 - The Geological Timescale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2.2 & 2.3 - Dating.md"
+                "file": "Geology 007/2.6 - The Geological Timescale.md"
               }
             }
           },
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,25 +124,27 @@
   },
   "active": "ba3717ede2df6124",
   "lastOpenFiles": [
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Table of Contents.md",
+    "Geology 007/2.6 - The Geological Timescale.md",
+    "To Do.md",
+    "Time Scale.md",
+    "Geology 007/Time Scale.md",
+    "Geology 007/2.4 - Dating.md",
     "Geology 007/2.1 - Sedimentary Rocks.md",
     "Excalidraw/cross bed 1.md",
     "Excalidraw/access_modifiers.md",
     "Excalidraw/angular uncoonformity.md",
-    "Geology 007/Time Scale.md",
     "Excalidraw/timescale.md",
-    "To Do.md",
     "README.md",
     "Computer Science 151/GUI.md",
     "Computer Science 151/Untitled.md",
     "Computer Science 151/Pillars of OOP.md",
     "Excalidraw/border layout.md",
-    "Mathematics 161 A/2 - Chapter 2.md",
     "Excalidraw/ex 64.md",
     "Excalidraw/Untitled.md",
     "Excalidraw/ex 60.md",
     "Excalidraw/complete prob.md",
-    "Geology 007/2.2 & 2.3 - Dating.md",
-    "Table of Contents.md",
     "todo.canvas",
     "Geology 007/1.1 - Minerals.md",
     "Geology 007/1.2 - Igneous Rocks.md",
@@ -152,8 +152,6 @@
     "Music 019/Music of India.md",
     "Music 019",
     "Excalidraw/geo time fault.md",
-    "Excalidraw/disconformity.md",
-    "Excalidraw/cross bed 2.md",
     "Excalidraw"
   ]
 }
