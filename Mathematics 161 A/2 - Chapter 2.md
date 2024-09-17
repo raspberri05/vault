@@ -354,7 +354,7 @@ $\Rightarrow P(F^1\cap L^1)=.27$
 > $P(B)=\frac{1}{3}$, so $B,C$ are dependent
 
 
-###
+### ???
 > [!info] Definition
 > Events $A_1,A_2,…,A_n$ are mutually independent for any subset of indices$i_1,i_2,…,i_n$, where $m=1,2,…,n$
 > $P(A_{i_1},A_{i_2},…,A_{i_m})=P(A_{i_1})*P(A_{i_2})*…*P(A_{i_m})$
@@ -380,3 +380,23 @@ $\Rightarrow P(F^1\cap L^1)=.27$
 > Yes
 > Are these mutually independent?
 > $P(A\cap B\cap C)=\frac{|\{3,4\}|}{36}=\frac{1}{36}\neq P(A)P(B)P(C)\Rightarrow No$
+
+### Multiplication Rule for Independent Events
+
+> [!info] Definition
+> If events $A_1,A_2,…,A_n$ are independent, then $P(A_1\cap A_2\cap … \cap A_n)=P(A_1)*P(A_2)*…*P(A_n)$
+
+> [!tip]
+> Mutually independent = independent
+
+> [!example] Example 80
+> System of components: 1 and 2 connected in parallel (subsystem works iff either 1 or 2 work); since 3 and 4 connected in series, that subsystem works. iff both 3 and 4 work. Components work independently of one another
+> $P$(component $i$ works)$=0.9$ for $i=1,2$ and $=0.8$ for $i=3,4$; calculate $P$(system works)
+> * $sys \Rightarrow sub1, sub2$
+> * $P(sys)=P$($sub1 \cup sub2$) $=1-P$($sub1^1 \cap sub2^1$)
+> * $=1-P(sub1^1)*P(sub2^1)$
+> * $P(sub1^1)=P(com1^1\cap com2^1)=(0.1)^2=0.01$
+> * $P(sub2^1)=1-P(sub2)=1-(0.8)^2=0.36$
+> * $P(sys)=1-0.01*0.36=0.9964$
+
+

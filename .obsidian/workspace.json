@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2.6 - The Geological Timescale.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "73095a6a9582fc77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/rv.md"
               }
             }
           }
@@ -78,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2.6 - The Geological Timescale.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2.6 - The Geological Timescale.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -104,6 +114,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efcac6bd179658d2",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           }
@@ -119,14 +137,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mathpad:Open Mathpad": false
     }
   },
   "active": "ba3717ede2df6124",
   "lastOpenFiles": [
+    "Excalidraw/rv.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
+    "Excalidraw/Drawing 2024-09-17 12.35.48.excalidraw.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Table of Contents.md",
     "Geology 007/2.6 - The Geological Timescale.md",
+    "Table of Contents.md",
     "To Do.md",
     "Time Scale.md",
     "Geology 007/Time Scale.md",
@@ -148,10 +170,7 @@
     "todo.canvas",
     "Geology 007/1.1 - Minerals.md",
     "Geology 007/1.2 - Igneous Rocks.md",
-    "Excalidraw/non-conformity.md",
-    "Music 019/Music of India.md",
     "Music 019",
-    "Excalidraw/geo time fault.md",
     "Excalidraw"
   ]
 }
