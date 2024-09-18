@@ -139,8 +139,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "mathpad:Open Mathpad": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "ba3717ede2df6124",
