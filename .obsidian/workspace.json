@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "1ff9721aea3e7a72",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -144,8 +143,9 @@
   },
   "active": "ba3717ede2df6124",
   "lastOpenFiles": [
-    "Excalidraw/rv.md",
     "Mathematics 161 A/3 - Chapter 3.md",
+    "Geology 007/1.2 - Igneous Rocks.md",
+    "Excalidraw/rv.md",
     "Excalidraw/Drawing 2024-09-17 12.35.48.excalidraw.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Geology 007/2.6 - The Geological Timescale.md",
@@ -170,7 +170,6 @@
     "Excalidraw/complete prob.md",
     "todo.canvas",
     "Geology 007/1.1 - Minerals.md",
-    "Geology 007/1.2 - Igneous Rocks.md",
     "Music 019",
     "Excalidraw"
   ]
