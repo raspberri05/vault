@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba3717ede2df6124",
+  "active": "af5fd0235ad5c865",
   "lastOpenFiles": [
     "Mathematics 161 A/3 - Chapter 3.md",
     "Geology 007/1.2 - Igneous Rocks.md",
