@@ -181,12 +181,86 @@ public class RectangleComponent extends JComponent
 }
 ```
 
-#### Ovals, Lines, Text, and color
+#### Ovals, Lines, Text, and Color
 ##### Ovals
 * Ellipses are drawn inside a **bounding box** in the same way that you specify a rectangle
 	* Provide the x and y coordinates of the top left corner
 	* Provide the width and height of the bounding box
 	* Use the `Graphics` class `drawOval` method to create an ellipse
-	* ...
+	* …
 ##### Text
-* ...
+* …
+
+## Advanced GUI
+
+### Frame Windows
+UI components are arrangements by placing them in a swing `Container` object
+* `JFrame` and `JPanel`
+* So far we have used `JPanel` for left to right layout
+#### Flow Layout
+* `JPanel` uses a flow layout (left to right) by default
+* New row started when current row fills
+#### Border Layout
+* Five container areas: NORTH, EAST, SOUTH, WEST, CENTER
+* The content pane of a `JFrame` uses border layout by default
+![[border layout]]
+#### Grid Layout
+* Components are placed in boxes in a simple table arrangement
+	* Specify the size (rows then columns) of the grid on `JPanel`
+	* `buttonPanel.setLayout(newGridLayout(4,3))`
+#### Nested Panels
+* Create complex layouts by nesting panels
+
+```java
+JPanel keypadPanel = new JPanel();
+keypadPanel.setLayout(new BorderLayout());
+buttonPanel = new JPanel();
+buttonPanel.setLayout(new GridLayout(4,3));
+buttonPanel.add(button7);
+buttonPanel.add(button8);
+//...
+keypadPanel.add(buttonPanel, BorderLayout.CENTER);
+JTextField ...
+```
+
+> [!warning]
+> If multiple items are added to one `BorderLayout` region directly, only the most recently added one will show
+
+### Choices
+
+#### Radio Buttons
+For a small set of mutually exclusive choices
+* Use a panel for each set of radio buttons
+```java
+JPanel panel = new JPanel();
+panel.add(sButton);
+panel.add(mButton);
+panel.add(lButton);
+panel.setBorder(new TitledBorder(new EtchedBorder(), "Size"));
+```
+
+```java
+//setting selected state
+sButton.setSelected(true)
+// customary to set one as true as a default state
+if (sButton.isSelected()) {
+	// check if selected
+	// ...
+}
+```
+##### Button Group
+* Allows only one in the group to be selected at once
+```java
+JRadioButton sButton = new JRadioButton("S");
+JRadioButton mButton = new JRadioButton("M");
+JRadioButton lButton = new JRadioButton("L");
+ButtonGroup group = new ButtonGroup();
+group.add(sButton);
+group.add(mButton);
+group.add(lButton);
+```
+#### Check Boxes
+For a binary choice/choices
+* 
+#### Combo Boxes (Dropdown)
+For a large set of choices

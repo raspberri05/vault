@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c2c1529b5d006261",
+        "id": "eafcbd64b270f8de",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0c6df13d7edb74",
+            "id": "ba3717ede2df6124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "73095a6a9582fc77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/rv.md"
               }
             }
           }
@@ -79,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/GUI.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -105,6 +115,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efcac6bd179658d2",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
               "state": {}
             }
           }
@@ -121,39 +139,40 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mathpad:Open Mathpad": false
     }
   },
-  "active": "92b0810aac05f3b9",
+  "active": "ba3717ede2df6124",
   "lastOpenFiles": [
-    "Table of Contents.md",
-    "Computer Science 151/GUI.md",
-    "To Do.md",
-    "todo.canvas",
-    "Geology 007/2.2 & 2.3 - Dating.md",
+    "Excalidraw/rv.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
+    "Excalidraw/Drawing 2024-09-17 12.35.48.excalidraw.md",
     "Mathematics 161 A/2 - Chapter 2.md",
+    "Geology 007/2.6 - The Geological Timescale.md",
+    "Table of Contents.md",
+    "To Do.md",
+    "Time Scale.md",
+    "Geology 007/Time Scale.md",
+    "Geology 007/2.4 - Dating.md",
+    "Geology 007/2.1 - Sedimentary Rocks.md",
+    "Excalidraw/cross bed 1.md",
+    "Excalidraw/access_modifiers.md",
+    "Excalidraw/angular uncoonformity.md",
+    "Excalidraw/timescale.md",
+    "README.md",
+    "Computer Science 151/GUI.md",
+    "Computer Science 151/Untitled.md",
+    "Computer Science 151/Pillars of OOP.md",
+    "Excalidraw/border layout.md",
+    "Excalidraw/ex 64.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/ex 60.md",
+    "Excalidraw/complete prob.md",
+    "todo.canvas",
     "Geology 007/1.1 - Minerals.md",
     "Geology 007/1.2 - Igneous Rocks.md",
-    "Geology 007/2.1 - Sedimentary Rocks.md",
-    "README.md",
-    "Excalidraw/access_modifiers.md",
-    "Excalidraw/non-conformity.md",
-    "Music 019/Music of India.md",
     "Music 019",
-    "Excalidraw/geo time fault.md",
-    "Excalidraw/disconformity.md",
-    "Excalidraw/cross bed 2.md",
-    "Excalidraw/cross bed 1.md",
-    "Excalidraw/conditional prob def.md",
-    "Excalidraw/angular uncoonformity.md",
-    "Music 19/Music of India.md",
-    "Excalidraw/Drawing 2024-09-07 19.44.40.excalidraw.md",
-    "Geology 007/2 - Sedimentary Rocks and Geological Time.md",
-    "Excalidraw/facies.md",
-    "Excalidraw/complement.md",
-    "Excalidraw/sorting.md",
-    "Excalidraw/intersection.md",
-    "Excalidraw/union.md",
     "Excalidraw"
   ]
 }

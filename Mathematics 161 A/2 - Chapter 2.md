@@ -272,13 +272,131 @@ For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
 	* $P$(1st ok & 2nd ok & 3rd ok)
 	* $=\frac{392}{400}*\frac{391}{399}*\frac{390}{398}=0.94…$
 
+### The Law of Total Probability
+
+> [!info] Definition
+> Let $A_1,A_2,…,A_n$ be pairwise disjoint events such that $S=A_1 \cup A_2 \cup …\cup A_n$. Then for any event B, 
+> $P(B)=P(B|A_1)P(A_1)+P(B|A_2)P(A_2)+…+P(B|A_n)P(A_n)$
+
+![[complete prob|250]]
+
+$P(B)=P(B\cap A_1)+P(B\cap A-2)+P(B\cap A_3)$
+$P(B)=P(B|A_1)P(A_1)+P(B|A_2)P(A_2)+P(B|A_3)P(A_3)$
+
+#### Example 60
+
+70% discovered after disappearing
+Of discovered - 60% with locator
+Of not discovered - 90% without locator
+
+$F=$ aircraft found
+$F^1=$ aircraft not found
+$L=$ aircraft has locator
+$L^1=$ aircraft has no locator
+
+![[ex 60]]
+
+$\Rightarrow P(F\cap L)=.42$
+$\Rightarrow P(F\cap L^1)=.28$
+$\Rightarrow P(F^1\cap L)=.03$
+$\Rightarrow P(F^1\cap L^1)=.27$
+
+* If is has a locator, what is the probability that it will not be discovered?
+	* $P(F^1|L)=\frac{P(F^1\cap L)}{P(L)}=\frac{.03}{P(F\cap L)+P(F^1\cap L)}=\frac{.03}{.42+.03}=\frac{3}{45}=\frac{1}{15}\approx 0.07$
+* If it does not have a locator, what is the probability that it will be discovered?
+	* $P(F|L^1)=\frac{P(F\cap L^1)}{P(L^1)}=\frac{.28}{1-.45}=\frac{.28}{.55}\approx 0.51$
+### Bayes Theorem
+
+> [!info] Definition
+> $A_1,A_2,…,A_n$ are pairwise disjoint and $S=A_1\cup A_2\cup …\cup A_n$ with $P(A)>0$
+> $i=1,…,n$ ($P(A_i)$ is prior probability of $A_i$). Then for with $P(B)>0,$ Posterior probability of $A_i=$  $P(A_i|B)=\frac{P(B|A_i)*P(A_i)}{P(B|A_1)*P(A_1)+P(B|A_2)*P(A_2)+…+P(B|A_n)*P(A_n)}$
+
+> [!example] Example 64
+> 60% short, 30% medium, 10% long
+> short - 80% word, medium - 50% word, long, 30% word
+> randomly selected
+> ---
+> ![[ex 64]]
+> $S$ = short
+> $M$ = medium
+> $L$ = long
+> $W$ = word
+> $T$ = LaTeX
+> * probability that selected review was submitted in word
+> 	* $P(W)=P(S\cap W)+P(M\cap W)+P(L\cap W)=.48+.15+.03=.66$
+> * if in word, posterior probabilities of it being short, medium, or long
+> 	* $P(S|W)=\frac{P(S\cap W)}{P(W)}=\frac{.48}{.66}\approx .73$
+> 	* $P(M|W)=\frac{P(M\cap W)}{P(W)}=\frac{.15}{.66}\approx .23$
+> 	* $P(L|W)=\frac{P(L\cap W)}{P(W)}=\frac{.03}{.66}\approx .04$
+
+## 2.5 - Independence of Events
+
+> [!info] Definition
+> Events $A$ and $B$ are independent if $P(A\cap B)=P(A)*P(B)$
+> Otherwise, $A$ and $B$ are dependent
+
+> [!info] Proposition
+> Let $A$ and $B$ be events with $P(A\cap B)>0,P(B)>0$
+> $A$ and $B$ are independent if and only if $P(A|B)=P(A)$
+> $(P(B|A)=P(B))$
+
+> [!example]
+> Roll a fair die
+> $A=$ "the # of dots is even" $=\{2,4,6\}$
+> $P(A)=\frac{1}{2}$
+> $B=$ "the # of dots is divisible by 3" $=\{3,6\}$
+> $P(B)=\frac{1}{3}$$
+> $C=$ "at least 5 dots" $=\{5,6\}$
+> $P(C)=\frac{1}{3}$
+> $P(A|B)=\frac{1}{2}$
+> $P(A)=\frac{1}{2}$, so $A$ and $B$ are independent
+> $P(B|C)=\frac{1}{2}$
+> $P(B)=\frac{1}{3}$, so $B,C$ are dependent
 
 
+### ???
+> [!info] Definition
+> Events $A_1,A_2,…,A_n$ are mutually independent for any subset of indices$i_1,i_2,…,i_n$, where $m=1,2,…,n$
+> $P(A_{i_1},A_{i_2},…,A_{i_m})=P(A_{i_1})*P(A_{i_2})*…*P(A_{i_m})$
 
+> [!example]
+> $A,B,C$ are events $\Rightarrow$ mutually independent
+> $P(A\cap B)=P(A)P(B)$
+> $P(A\cap C)=P(A)P(C)$
+> $P(B\cap C)=P(B)P(C)$
+> $P(A\cap B\cap C)=P(A)P(B)P(C)$
 
+> [!example] Example 82
+> red, green dice
+> Let $A$ be red 3, $B$ be green 4, $C$ be total on both dice is 7
+> Are these pairwise independent?
+> $A=\{(3,1),(3,2),…,(3,6)\}$
+> $B=\{(1,4),(2,4),…,(6,4)\}$
+> $C=\{(1,6),(2,5),(3,4),(6,1),(5,2),(4,3)\}$
+> $P(A)=P(B)=P(C)=\frac{6}{36}=\frac{1}{6}$
+> $P(B|A)=\frac{|\{(3,4)\}|}{6}=\frac{1}{6}=P(B)$
+> $P(B\cap C)=\frac{1}{36}=P(B)*P(C)$
+> $P(A|C)=\frac{1}{6}$
+> Yes
+> Are these mutually independent?
+> $P(A\cap B\cap C)=\frac{|\{3,4\}|}{36}=\frac{1}{36}\neq P(A)P(B)P(C)\Rightarrow No$
 
+### Multiplication Rule for Independent Events
 
+> [!info] Definition
+> If events $A_1,A_2,…,A_n$ are independent, then $P(A_1\cap A_2\cap … \cap A_n)=P(A_1)*P(A_2)*…*P(A_n)$
 
+> [!tip]
+> Mutually independent = independent
 
+> [!example] Example 80
+> System of components: 1 and 2 connected in parallel (subsystem works iff either 1 or 2 work); since 3 and 4 connected in series, that subsystem works. iff both 3 and 4 work. Components work independently of one another
+> $P$(component $i$ works)$=0.9$ for $i=1,2$ and $=0.8$ for $i=3,4$; calculate $P$(system works)
+> * $sys \Rightarrow sub1, sub2$
+> * $P(sys)=P$($sub1 \cup sub2$) $=1-P$($sub1^1 \cap sub2^1$)
+> * $=1-P(sub1^1)*P(sub2^1)$
+> * $P(sub1^1)=P(com1^1\cap com2^1)=(0.1)^2=0.01$
+> * $P(sub2^1)=1-P(sub2)=1-(0.8)^2=0.36$
+> * $P(sys)=1-0.01*0.36=0.9964$
 
 
