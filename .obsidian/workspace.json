@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93beab82fa7b9d62",
+        "id": "7730f71824ffb4f2",
         "type": "tabs",
         "children": [
           {
-            "id": "43c554ddc47bf674",
+            "id": "1f39b586aa419dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,17 +130,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43c554ddc47bf674",
+  "active": "1f39b586aa419dec",
   "lastOpenFiles": [
-    "Mathematics 161 A/2 - Chapter 2.md",
+    "To Do.md",
     "Computer Science 151/Design Patterns.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Geology 007/1.2 - Igneous Rocks.md",
     "Excalidraw/rv.md",
     "Excalidraw/Drawing 2024-09-17 12.35.48.excalidraw.md",
     "Geology 007/2.6 - The Geological Timescale.md",
     "Table of Contents.md",
-    "To Do.md",
     "Time Scale.md",
     "Geology 007/Time Scale.md",
     "Geology 007/2.4 - Dating.md",
