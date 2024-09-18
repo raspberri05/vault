@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Computer Science 151/GUI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Computer Science 151/GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md"
+                "file": "Computer Science 151/GUI.md"
               }
             }
           },
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,8 +133,8 @@
   },
   "active": "1f39b586aa419dec",
   "lastOpenFiles": [
-    "To Do.md",
     "Computer Science 151/Design Patterns.md",
+    "To Do.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Geology 007/1.2 - Igneous Rocks.md",
