@@ -280,7 +280,7 @@ For events $A,B,C$, $P(A\cap B\cap C)=P(A)*P(B|A)*P(C|A\cap B)$
 
 ![[complete prob|250]]
 
-$P(B)=P(B\cap A_1)+P(B\cap A-2)+P(B\cap A_3)$
+$P(B)=P(B\cap A_1)+P(B\cap A_2)+P(B\cap A_3)$
 $P(B)=P(B|A_1)P(A_1)+P(B|A_2)P(A_2)+P(B|A_3)P(A_3)$
 
 #### Example 60
