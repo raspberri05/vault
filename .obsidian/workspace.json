@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7730f71824ffb4f2",
+        "id": "44aea91beb6125f0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f39b586aa419dec",
+            "id": "027e0506aaf705c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,10 +122,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f39b586aa419dec",
+  "active": "af5fd0235ad5c865",
   "lastOpenFiles": [
-    "Excalidraw/line1.md",
     "Mathematics 161 A/3 - Chapter 3.md",
+    "Excalidraw/line1.md",
     "Excalidraw/histogram1.md",
     "Geology 007/3.5 - Fossils and the Fossil Record.md",
     "Computer Science 151/GUI.md",
