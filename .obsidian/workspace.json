@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "68db60fcdd319cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2b8057015f0c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a495833331e8b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology 007/2.4 - Dating.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "107e79dcb07224fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f65ed222a14186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f7c4fcf66f37bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f90b9ffb62b757f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63177cfc6e4875a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3510d306f7ae5869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae200548ec5c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geology 007/2.4 - Dating.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce83ba3d65f29b25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geology 007/2.4 - Dating.md"
+              }
+            }
+          },
+          {
+            "id": "777032d5a36e1f7e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a495833331e8b6e",
+  "lastOpenFiles": [
+    "Computer Science 151/GUI.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}
