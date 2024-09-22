@@ -95,6 +95,22 @@
 	* guqin, sanxian, yangqin, guzheng, ruan, konghou, liuqin, pipa, and zhu
 ## Music of Korea and its cultural and musical traits
 ### Shaman Music
+* Communication with unseen world by a shaman in a state of trance
+* Korea maintains strong Shamanism despite foreign religious adoption (buddhism, confucianism, christianity)
+* A female korean shaman (mudang) may use many combos of musical instruments
+* Percussion - small flat gong, changoo/janggu drum
+* Wind - flutes, double reeds, fiddles
 ### Court Instrumental Music
+* Organization of courts and intro of chinese religion resulted in importance of the importation of elements of Chinese music
+* most of this info derived from chinese and korean historical books and administrative documents
+* Kayagum - favorite native instrument
+	* in all levels of music and dance
+* Sanjo Virtuoso solo repertoire
 ### Vocal Music
+* Important part of korean tradition
+* Kagok
+	* 26 five-section solo songs + duet, longest and rarest old forms
+* Sijo - 3 line form of classic korean poetry - sung to solo accompaniment of hourglass drum
+* Kasa
+	* narrative song form in which voice is accompanied by flute and drum
 ### Instruments
