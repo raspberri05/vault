@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba2b8057015f0c91",
+        "id": "dc497a4a532bb070",
         "type": "tabs",
         "children": [
           {
-            "id": "8a495833331e8b6e",
+            "id": "98f7b8dd6533f423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/2.4 - Dating.md",
+                "file": "Music 019/Music of Asia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/2.4 - Dating.md",
+                "file": "Music 019/Music of Asia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/2.4 - Dating.md"
+                "file": "Music 019/Music of Asia.md"
               }
             }
           },
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -122,8 +124,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a495833331e8b6e",
+  "active": "98f7b8dd6533f423",
   "lastOpenFiles": [
+    "Music 019/Music of India.md",
+    "Music 019/Music of Asia.md",
+    "Geology 007/2.4 - Dating.md",
     "Computer Science 151/GUI.md",
     "conflict-files-obsidian-git.md"
   ]
