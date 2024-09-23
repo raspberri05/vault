@@ -1,4 +1,8 @@
-## Music of Japan and its cultural and musical traits
+---
+tags:
+  - musc19
+---
+## Music of Japan and Its Cultural and Musical Traits
 ### Musical Periods
 * Yayoi period (c. 300 BCE–c. 250 CE)  
 * Tumulus period (c. 250–c. 500 CE)  
@@ -54,12 +58,12 @@
 	* 3 string long necked lute, producing song like banjo
 	* associated with austere spiritualiy and meditation, drama for kabiki theater
 	* covered with snakeskin, cat skin, or dog skin, wooden box roughly square in shape
-## Music of China and its cultural and musical traits
+## Music of China and Its Cultural and Musical Traits
 ### Musical Periods/Dynasty
 * Dynastic China (1122 – 1911 BCE) 
 	* well developed musical culture as early as Zhou dynasty
 * Republic of China (1912 – 1949) 
-* People’s Republic of China (1949 – Now)
+* People's Republic of China (1949 – Now)
 ### Traditional Musical Styles of the Culture
 * Traditional  - music before 1911
 	* 5 note scale
@@ -93,7 +97,7 @@
 	* erhu, zhonghu, dahu, banhu, jinghu, gaohu, gehu, yehu, cizhonghu, diyingehu, and leiqin
 * Plucked and struck strings
 	* guqin, sanxian, yangqin, guzheng, ruan, konghou, liuqin, pipa, and zhu
-## Music of Korea and its cultural and musical traits
+## Music of Korea and Its Cultural and Musical Traits
 ### Shaman Music
 * Communication with unseen world by a shaman in a state of trance
 * Korea maintains strong Shamanism despite foreign religious adoption (buddhism, confucianism, christianity)

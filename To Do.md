@@ -1,9 +1,9 @@
 ## CS 151
 
-- [ ] HW 2 - [[GUI]] - Due Sept 26
+- [ ] HW 2 - [[GUI]] - Due Oct 7
 ## GEOL 7
 
-- [ ] Assignment #1 - [[2.6 - The Geological Timescale|Geological Timescale]] - Due Sept 26
+- [x] Assignment #1 - [[2.6 - The Geological Timescale|Geological Timescale]] - Due Sept 26
 ## MATH 161A
 
 - [x] [[2 - Chapter 2#2.4 - Conditional Probability|2.4]] - Due Sept 23
@@ -12,3 +12,4 @@
 - [ ] 3.2 - Due Sept 30
 ## MUSC 19
 
+- [x] Court Music of Japan Written Assignment

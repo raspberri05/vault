@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc497a4a532bb070",
+        "id": "9d336291b11ef2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "98f7b8dd6533f423",
+            "id": "9cccfa4bf7f8dd83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music 019/Music of Asia.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music 019/Music of Asia.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music 019/Music of Asia.md"
+                "file": "Computer Science 151/Design Patterns.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,12 +122,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98f7b8dd6533f423",
+  "active": "ce83ba3d65f29b25",
   "lastOpenFiles": [
-    "Music 019/Music of India.md",
-    "Music 019/Music of Asia.md",
-    "Geology 007/2.4 - Dating.md",
     "Computer Science 151/GUI.md",
+    "Computer Science 151/Design Patterns.md",
+    "To Do.md",
+    "Table of Contents.md",
+    "Music 019/Music of Asia.md",
+    "Music 019/Music of India.md",
+    "Geology 007/2.4 - Dating.md",
     "conflict-files-obsidian-git.md"
   ]
 }
