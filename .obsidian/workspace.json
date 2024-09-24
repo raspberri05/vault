@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "741fffc45faf4ad5",
+        "id": "20544cf3629e2911",
         "type": "tabs",
         "children": [
           {
-            "id": "679accb1ee15d63b",
+            "id": "78ec6237cc004b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/11 - Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/11 - Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Geology 007/11 - Classification.md"
               }
             }
           },
@@ -122,16 +122,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "679accb1ee15d63b",
+  "active": "78ec6237cc004b29",
   "lastOpenFiles": [
-    "Mathematics 161 A/3 - Chapter 3.md",
+    "Excalidraw/clades.md",
+    "Geology 007/11 - Classification.md",
     "To Do.md",
+    "Table of Contents.md",
+    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
+    "Geology 007/7 - The Geological Timescale.md",
+    "Geology 007/6 - Dating.md",
+    "Geology 007/4 - Sedimentary Rocks.md",
+    "Geology 007/2 - Igneous Rocks.md",
+    "Geology 007/1 - Minerals.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Computer Science 151/GUI.md",
     "Computer Science 151/Design Patterns.md",
-    "Table of Contents.md",
     "Music 019/Music of Asia.md",
     "Music 019/Music of India.md",
-    "Geology 007/2.4 - Dating.md",
     "conflict-files-obsidian-git.md"
   ]
 }

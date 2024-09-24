@@ -3,7 +3,7 @@
 - [ ] HW 2 - [[GUI]] - Due Oct 7
 ## GEOL 7
 
-- [x] Assignment #1 - [[2.6 - The Geological Timescale|Geological Timescale]] - Due Sept 26
+- [x] Assignment #1 - [[7 - The Geological Timescale|Geological Timescale]] - Due Sept 26
 ## MATH 161A
 
 - [x] 1.1, 1.2 - Due Sept 2

@@ -28,7 +28,7 @@ A process where pre-existing rocks are broken down physically or chemically to p
 			* Cracks form due to release of surface pressure, parallel to the surface (perpendicular to plane of pressure release)
 			* Pieces of the rock slide off, more cracks form
 			* Known as a jointing pattern
-			* Often happens in [[1.2 - Igneous Rocks#^594ab3|granite]]
+			* Often happens in [[2 - Igneous Rocks#^594ab3|granite]]
 		* Organic activity
 			* When living things destroy rocks
 		* Glacial Abrasion
@@ -86,7 +86,7 @@ A process where pre-existing rocks are broken down physically or chemically to p
 ## Changes over time
 
 * Become more [[sorting|sorted]] over time
-* Become [[2.1 - Sedimentary Rocks#Grain Rounding|rounded]] over time
+* Become [[4 - Sedimentary Rocks#Grain Rounding|rounded]] over time
 * Become finer over time
 	![[sorting|300]]
 * Become more quartz rich

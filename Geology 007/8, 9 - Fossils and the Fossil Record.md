@@ -1,3 +1,7 @@
+---
+tags:
+  - geol7
+---
 ## Fossil
 * Remains of past life
 * Some fossils involve the original organic matter dissolving away and new minerals filling their place

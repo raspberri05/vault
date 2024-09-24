@@ -48,7 +48,7 @@ Parent isotope $\Rightarrow$ daughter isotope
 > [!info] Definition
 > Places events in geologic history in the proper order
 
-* Mainly [[2.1 - Sedimentary Rocks|sedimentary rocks]] and [[1.2 - Igneous Rocks#^915c87|lava flow]]
+* Mainly [[4 - Sedimentary Rocks|sedimentary rocks]] and [[2 - Igneous Rocks#^915c87|lava flow]]
 ### Superposition
 
 > [!info] Definition
