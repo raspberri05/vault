@@ -187,4 +187,31 @@ tags:
 >* $E(Y)=50+360+190=600$
 >* Premium should be $600+100=\$700$
 
-## 3.4 - 
+## 3.4 - The Binomial Probability Distribution
+### Binomial Experiment
+1. Sequence of $n$ smaller experiments called trials
+2. Each trials can result in one of the same two possible outcomes (dichotomous trials) which are denoted as $S$, success, or $F$, failure. The assignment of these variables are arbitrary
+3. Trials are independent
+4. The probability of success $P(S)$ is constant from trial to trial, we denote this probability as $p$
+5. The probability of failure $P(F)$ is constant from trial to trial, we denote this probability as $q=1-p$
+The goal of such an experiment is to count the number of successes $X$
+
+>[!example] Examples
+>1. Toss a coin (fair or unfair) 10 times and count the number of heads
+>2. The National Statistics claims that 30% of Americans can raise one eyebrow at a time. Ask any ten people whether they can lift one eyebrow at a time and record the number of those who answer yes
+
+>[!example] Non Examples
+>* A deck of 20 cards contains 10 red and 10 black cards
+>	* 5 cards are randomly chosen and the number of red cards is recorded
+>* Roll a six faced die until a 6 appears
+
+### Binomial Distribution
+>[!example] Definition
+>Consider a binomial experiment with $n$ trials where 
+>$X=$the number of successes;
+>$p=$the probability of a success in a single trial.
+>Then $X$ has a binomial distribution and we write
+>$$X~Bin(n,p)$$
+>More notations
+>$b(x;n,p),$ the $pmf$ of $X$
+>$B(x;n,p),$ ...
