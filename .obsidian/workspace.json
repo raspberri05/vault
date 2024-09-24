@@ -11,8 +11,13 @@
             "id": "679accb1ee15d63b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -117,7 +122,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777032d5a36e1f7e",
+  "active": "679accb1ee15d63b",
   "lastOpenFiles": [
     "Computer Science 151/GUI.md",
     "Computer Science 151/Design Patterns.md",
