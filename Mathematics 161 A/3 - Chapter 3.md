@@ -122,4 +122,69 @@ tags:
  > $\frac{-3(68)+6(32)}{100}=-3(.68)+6(.32)=-.12$
  > $E(x)$ is the long-run average value of $X$ when the experiment is performed repeatedly
  
- 
+ >[!example] Example 32
+ >3 capacities: 16, 18, and 20 $ft^3$
+ >Suppose $X$ has $pmf$
+ >
+ >| $x$ | 16 | 18 | 20 |
+ >| ---- | -- | --- | --- |
+ >| $p(x)$ | 0.2 | 0.5 | 0.3 |
+ >* Compute $E(x),E(x^2),$ and $V(X)$
+ >	* $E(X)$
+ >		* $16*.2+18*.5+20*.3=18.2ft^3$
+ >		* The expected capacity of a freezer sold at a store 
+ >	* $E(X^2)$
+ >		* $16^2*.2+18^2*.5+20^2*.3=333.2ft^6$
+>	* $V(X)$
+>		* $(16-18.2)^2(.2)+(18-18.2)^2(.5)+(20-18.2)^2(.3)$
+>		* $333.2-18.2^2=1.96ft^6$
+>		* $\sigma=\sqrt{1.96}=1.4ft^3$
+>* Price $Pr(X)=70X-650$
+>	* $E(Pr(X))=(16(70)-650.2+(18(70)-650)*.5+(20(70)-650)*.3$
+>	* $E(Pr)=E(70X-650)=70E(X)-650=70(18.2)-650=624$
+>* Calculate variance in price
+>	* $V(70X-650)=70^2V(X)=70^2(1.96)=\$^29604$
+>	* $\sigma_{70X-650}=70(1.4)=\$98$
+>* Rated capacity is $X$, actual capacity is $h(X)=X-.008X^2$. What is expected actual capacity
+>	* $E(X-.008X^2)=\sum\limits_{x\in \{16,18,20\}}(x-.008x^2)p(x)$
+>	* $=\sum\limits_{x\in \{16,18,20\}} xp(x)-.008\sum\limits_{x\in \{16,18,20\}} x^2p(x)$
+>	* $E(X)-.008E(X^2)=18.2-.008(333.2)=15.5ft^3$
+
+>[!info] Proposition
+>If $h(x)$ is a function of rv $X$ with the $pmf$ $p_X(x)$ and the set of possible values $D$, then $E(h(X))=\sum\limits_{x\in D}h(x)p_X(x)$ provided that the sum exists
+
+>[!info] Proposition
+>Suppose a rv $X$ has $E(X)$. Let $a,b$ be any real numbers. Then, $E(aX+b)=aE(X)+b$
+### Variance
+
+>[!info] Definition
+>Suppose rv $X$ with the $pmf$ $p(x)$ and the set of possible values $D$ has the mean $\mu$. The variance of $X$, denoted by by $V(X)$ or $\sigma^2$, is $V(X)=\sigma^2=\sum\limits_{x\in D}(x-\mu)^2p(x)$
+>$V(X)=E((X-\mu)^2)$ provided that the sum exists
+
+>[!info] Definition
+>The standard deviation of $X$ is $\sigma=\sqrt{\sigma^2}=\sqrt{V(X)}$
+
+>[!info] Proposition
+>Let $X$ be a rv with the mean $\mu$ and variance $V(X)$. For any real numbers $a$ and $b$, $V(aX+b)=a^2V(X)$, $\sigma_{aX+b}=|a|\sigma_X$
+#### Shortcut Formula
+
+>[!info] Proposition
+>for $V(X):$
+>$V(X)=E(X^2)-(E(X))^2$
+
+>[!example] Example 36
+>
+>| damage | 0 | 1000 | 5000 | 10000 |
+>| - | - | - | - | - |
+>| chance | .8 | .1 | .08 | .02 |
+>$\$500$ deductible policy
+>Expected profit should be $\$100$
+>What premium should they charge?
+>* $Y=$ the payment made per customer
+>* | $Y$ | 0 | 500 | 4500 | 9500 |
+>| - | - | - | - | - |
+>| $p(y)$ | .8 | .1 | .08 | .02 |
+>* $E(Y)=50+360+190=600$
+>* Premium should be $600+100=\$700$
+
+## 3.4 - 

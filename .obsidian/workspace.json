@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00f27fc77d85322a",
+        "id": "32bd96bd61d4a689",
         "type": "tabs",
         "children": [
           {
-            "id": "d4596d5438e52d2b",
+            "id": "48532cd152a04c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/10 - Evolution.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/10 - Evolution.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/10 - Evolution.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -122,7 +122,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4596d5438e52d2b",
+  "active": "777032d5a36e1f7e",
   "lastOpenFiles": [
     "Geology 007/10 - Evolution.md",
     "Geology 007/11 - Classification.md",
