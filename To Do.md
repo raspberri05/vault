@@ -14,8 +14,8 @@
 - [x] [[2 - Chapter 2#2.4 - Conditional Probability|2.4]] - Due Sept 23
 - [x] [[2 - Chapter 2#2.5 - Independence of Events|2.5]] - Due Sept 23
 - [x] 3.1 - Due Sept 30
-- [ ] 3.2 - Due Sept 30
-- [ ] 2.2 - Due Sept 30
+- [x] 3.2 - Due Sept 30
+- [ ] 3.3 - Due Sept 30
 ## MUSC 19
 
 - [ ] Court Music of Japan Written Assignment
