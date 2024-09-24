@@ -16,3 +16,9 @@ tags:
 * Example
 	* Many vegetables were creating from inbreeding mustard plants
 		* Broccoli, brussels sprouts, kale, cabbage, etc
+### Natural Selection
+* Unlike artificial selection, there is no goal in mind
+	* Organisms either live to reproduce or die and their traits are weeded out
+* Assumes a population of species has natural variation
+* Particular individuals have traits that enable them to survive and reproduce more commonly
+* These traits spread as they are favored by each new generation
