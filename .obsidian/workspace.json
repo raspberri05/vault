@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/11 - Classification.md",
+                "file": "Computer Science 151/GUI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/11 - Classification.md",
+                "file": "Computer Science 151/GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/11 - Classification.md"
+                "file": "Computer Science 151/GUI.md"
               }
             }
           },
@@ -125,8 +124,8 @@
   },
   "active": "48532cd152a04c9d",
   "lastOpenFiles": [
-    "Geology 007/10 - Evolution.md",
     "Geology 007/11 - Classification.md",
+    "Geology 007/10 - Evolution.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/clades.md",
