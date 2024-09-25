@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfa4f4220189b36",
+        "id": "65e6601265f78325",
         "type": "tabs",
         "children": [
           {
-            "id": "af92964e7e631c6f",
+            "id": "e0323392d4cac985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To Do.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,9 +114,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af92964e7e631c6f",
+  "active": "e0323392d4cac985",
   "lastOpenFiles": [
     "To Do.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
     "Computer Science 151/Programs vs Processes.md",
     "Computer Science 151/Recap.md",
