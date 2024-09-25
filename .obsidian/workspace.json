@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Geology 007/11 - Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Geology 007/11 - Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "Geology 007/11 - Classification.md"
               }
             }
           },
@@ -126,16 +127,16 @@
   "lastOpenFiles": [
     "Geology 007/10 - Evolution.md",
     "Geology 007/11 - Classification.md",
+    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/clades.md",
     "To Do.md",
     "Table of Contents.md",
-    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Geology 007/7 - The Geological Timescale.md",
     "Geology 007/6 - Dating.md",
     "Geology 007/4 - Sedimentary Rocks.md",
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Computer Science 151/GUI.md",
     "Computer Science 151/Design Patterns.md",
     "Music 019/Music of Asia.md",
