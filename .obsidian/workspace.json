@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32bd96bd61d4a689",
+        "id": "0cfa4f4220189b36",
         "type": "tabs",
         "children": [
           {
-            "id": "48532cd152a04c9d",
+            "id": "af92964e7e631c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/GUI.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/GUI.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -122,22 +122,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48532cd152a04c9d",
+  "active": "af92964e7e631c6f",
   "lastOpenFiles": [
-    "Geology 007/11 - Classification.md",
+    "To Do.md",
+    "Computer Science 151/Pillars of OOP.md",
+    "Computer Science 151/Programs vs Processes.md",
+    "Computer Science 151/Recap.md",
+    "Excalidraw/Drawing 2024-09-25 11.07.19.excalidraw.md",
+    "Excalidraw/facies.md",
     "Geology 007/10 - Evolution.md",
+    "Computer Science 151/Design Patterns.md",
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
+    "Table of Contents.md",
+    "Computer Science 151/GUI.md",
+    "Geology 007/11 - Classification.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/clades.md",
-    "To Do.md",
-    "Table of Contents.md",
     "Geology 007/7 - The Geological Timescale.md",
     "Geology 007/6 - Dating.md",
     "Geology 007/4 - Sedimentary Rocks.md",
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
-    "Computer Science 151/GUI.md",
-    "Computer Science 151/Design Patterns.md",
     "Music 019/Music of Asia.md",
     "Music 019/Music of India.md",
     "conflict-files-obsidian-git.md"
