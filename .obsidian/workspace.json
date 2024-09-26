@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/11 - Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/11 - Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Geology 007/11 - Classification.md"
               }
             }
           },
@@ -123,8 +122,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f90b9ffb62b757f",
+  "active": "48710fdc4e571c48",
   "lastOpenFiles": [
+    "Geology 007/10 - Evolution.md",
+    "Geology 007/11 - Classification.md",
     "To Do.md",
     "Computer Science 151/Design Patterns.md",
     "README.md",
@@ -134,11 +135,9 @@
     "Computer Science 151/Recap.md",
     "Excalidraw/Drawing 2024-09-25 11.07.19.excalidraw.md",
     "Excalidraw/facies.md",
-    "Geology 007/10 - Evolution.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Table of Contents.md",
     "Computer Science 151/GUI.md",
-    "Geology 007/11 - Classification.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/clades.md",
