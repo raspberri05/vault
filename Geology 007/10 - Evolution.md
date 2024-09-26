@@ -22,3 +22,12 @@ tags:
 * Assumes a population of species has natural variation
 * Particular individuals have traits that enable them to survive and reproduce more commonly
 * These traits spread as they are favored by each new generation
+#### Source of Variation
+* Mutations
+* When DNA replicates, sometimes copying errors occur and new traits appear
+* Mutation
+	* Beneficial
+	* Detrimental
+	* Neutral
+* All depends on the environment
+* Evolution is the accumulation of these mutations

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/11 - Classification.md",
+                "file": "Geology 007/10 - Evolution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/11 - Classification.md",
+                "file": "Geology 007/10 - Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/11 - Classification.md"
+                "file": "Geology 007/10 - Evolution.md"
               }
             }
           },
@@ -126,9 +125,9 @@
   },
   "active": "28cd1867edd6d105",
   "lastOpenFiles": [
+    "Geology 007/11 - Classification.md",
     "Geology 007/10 - Evolution.md",
     "To Do.md",
-    "Geology 007/11 - Classification.md",
     "Computer Science 151/Design Patterns.md",
     "README.md",
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
