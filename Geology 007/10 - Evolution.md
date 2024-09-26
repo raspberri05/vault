@@ -35,6 +35,32 @@ tags:
 * The spectrum of traits seen in a species
 * Variation results in a broad assortment of traits in the population
 * It's more likely that, if the environment changes, at least some members of that group will have the needed traits to survive and reproduce
-#### Survival of the fittest
+#### Survival of the Fittest
 * Not necessarily big or strong
 * Ex. sloths
+### Modern Genetics
+* DNA is a complex molecule that stores genetic information
+* It's where our traits come from
+* DNA is made up of a handful of chemical letters
+* Genes
+	* Units of heredity
+	* A few hundred to a few million nucleobases in a single gene
+	* We have two copies of each gene, one from each parent
+	* Different forms of a gene are called "alleles"
+	* Chromosomes are made of two strands of DNA that are coiled tightly around a histone
+	* 23 pairs of chromosomes in a human cell nucleus
+### Inheritance
+* Half chromosome from each parent
+### Mutations
+* Sometimes when DNA copies during cell division, errors occurred
+* Can be spontaneous, or caused by chemicals or radiation
+* Leads to variation in a species, and to new traits
+### Patterns of Evolution
+
+#### Divergent Evolution
+* Ancestral species gives rise to many diverse species
+* Descendants differ greatly from their ancestors and from each other in many cases
+#### Convergent Evolution
+* Development of similar characteristics in distantly-related organisms
+#### Parallel Evolution
+* Development of similar characteristics in closely-related organisms

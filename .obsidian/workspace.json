@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e237c5b74f2a33ad",
+        "id": "a5f43380b029d887",
         "type": "tabs",
         "children": [
           {
-            "id": "28cd1867edd6d105",
+            "id": "b81151cf85f4d609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/10 - Evolution.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/10 - Evolution.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/10 - Evolution.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,10 +122,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28cd1867edd6d105",
+  "active": "b81151cf85f4d609",
   "lastOpenFiles": [
-    "Geology 007/11 - Classification.md",
     "Geology 007/10 - Evolution.md",
+    "Geology 007/11 - Classification.md",
     "To Do.md",
     "Computer Science 151/Design Patterns.md",
     "README.md",
