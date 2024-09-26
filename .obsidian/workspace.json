@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f43380b029d887",
+        "id": "3318eedb9f391c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b81151cf85f4d609",
+            "id": "f6cbf4b5e3e7a5ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,11 +122,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81151cf85f4d609",
+  "active": "f6cbf4b5e3e7a5ba",
   "lastOpenFiles": [
+    "Mathematics 161 A/3 - Chapter 3.md",
+    "To Do.md",
     "Geology 007/10 - Evolution.md",
     "Geology 007/11 - Classification.md",
-    "To Do.md",
     "Computer Science 151/Design Patterns.md",
     "README.md",
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
@@ -139,7 +140,6 @@
     "Table of Contents.md",
     "Computer Science 151/GUI.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/clades.md",
     "Geology 007/7 - The Geological Timescale.md",
     "Geology 007/6 - Dating.md",
