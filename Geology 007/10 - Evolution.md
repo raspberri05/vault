@@ -31,3 +31,10 @@ tags:
 	* Neutral
 * All depends on the environment
 * Evolution is the accumulation of these mutations
+#### Importance of Variation
+* The spectrum of traits seen in a species
+* Variation results in a broad assortment of traits in the population
+* It's more likely that, if the environment changes, at least some members of that group will have the needed traits to survive and reproduce
+#### Survival of the fittest
+* Not necessarily big or strong
+* Ex. sloths
