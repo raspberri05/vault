@@ -16,23 +16,34 @@
 - [x] Quiz 7 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Sep 23
 - [x] Quiz 8 ([[Design Patterns#Strategy Design Pattern|MiniDuck]]) - Due Sep 25
 - [x] Quiz 9 (Comparator) - Due Sep 25
-- [ ] HW #3.1 (Compare) - Due Sep 30
-	- [ ] Use the design principle
-	- [ ] hashCode, compareTo, equals
-- [ ] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
+- [x] HW #3.1 (Compare) - Due Sep 30
+- [x] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
 - [x] HW 2 - [[GUI]] - Due Oct 7
 ## GEOL 7
+- [x] Plagiarism Quiz - Due Aug 31
+- [x] Icebreaker: Tell us about yourself - Due Aug 31
 - [x] Quiz 1.1: [[1 - Minerals|Minerals]] - Due Sep 19
 - [x] Quiz 1.2: [[2 - Igneous Rocks|Igneous Rocks]] - Due Sep 19
 - [x] Quiz 2.1: Identify [[4 - Sedimentary Rocks|Sedimentary Rocks]] - Due Sep 19
 - [x] Quiz 2.2: [[6 - Dating#Absolute Dating|Absolute Dating]] - Due Sep 19
 - [x] Quiz 2.3: [[6 - Dating#Relative Dating|Relative Dating]] - Due Sep 19
 - [x] Assignment #1 - [[7 - The Geological Timescale|Geological Timescale]] - Due Sep 26
+- [x] [[6 - Dating#Relative Dating|Relative Dating]] Photo Activity - Due Sep 30
 - [x] Quiz 3.1 - [[10 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
 - [x] Quiz 3.2 - [[11 - Classification|Classification]] - Due Oct 24
 - [ ] Quiz 3.3 - Speciation and Heredity - Due Oct 24
 - [ ] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [ ] Assignment #2: Sediment Core Activity - Due Oct 24
+- [x] Entry #1 - Due Dec 5
+- [ ] Entry #2 - Due Dec 5
+- [ ] Entry #3 - Due Dec 5
+- [ ] Entry #4 - Due Dec 5
+- [ ] Entry #5 - Due Dec 5
+- [ ] Entry #6 - Due Dec 5
+- [ ] Entry #7 - Due Dec 5
+- [ ] Entry #8 - Due Dec 5
+- [ ] Entry #9 - Due Dec 5
+- [ ] Entry #10 - Due Dec 5
 ## MATH 161A
 
 - [x] [[1 - Overview and Descriptive Statistics#1.1 - Population, Samples, and Statistics|1.1, 1.2]] - Due Sep 2

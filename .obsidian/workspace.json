@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "973ca57e0e19200c",
+        "id": "42b612c3823d9e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "6239dd31687e6499",
+            "id": "48710fdc4e571c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,10 +123,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6239dd31687e6499",
+  "active": "6f90b9ffb62b757f",
   "lastOpenFiles": [
-    "Computer Science 151/Design Patterns.md",
     "To Do.md",
+    "Computer Science 151/Design Patterns.md",
     "README.md",
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
