@@ -64,4 +64,4 @@
 - [x] Quiz: [[Music of India|The Music of India]] - Requires Lockdown Browser
 ### Week 4-7
 - [x] Quiz: [[Music of Asia|The Music of Asia]] - Requires Lockdown Browser
-- [ ] Short Written Assignment: The Court Music of Japan
+- [x] Short Written Assignment: The Court Music of Japan
