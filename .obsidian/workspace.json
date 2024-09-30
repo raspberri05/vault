@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96a1becd21918038",
+        "id": "411f508973a6c0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "43b7ea73810782bb",
+            "id": "77c8369fa120b5e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/observers.md"
+              }
+            }
+          },
+          {
+            "id": "d18bcb00d47ff347",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,13 +133,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b7ea73810782bb",
+  "active": "d18bcb00d47ff347",
   "lastOpenFiles": [
+    "Excalidraw/observers.md",
+    "Computer Science 151/Design Patterns.md",
     "README.md",
     "Table of Contents.md",
     "To Do.md",
     "Exams.md",
-    "Computer Science 151/Design Patterns.md",
     "Computer Science 151/GUI.md",
     "Geology 007/11 - Classification.md",
     "Geology 007/10 - Evolution.md",
@@ -148,7 +160,6 @@
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
     "Music 019/Music of Asia.md",
-    "Music 019/Music of India.md",
-    "conflict-files-obsidian-git.md"
+    "Music 019/Music of India.md"
   ]
 }
