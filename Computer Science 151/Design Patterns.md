@@ -13,7 +13,7 @@ Closed for modification, open for extension
 * …
 ### Design Principle #3
 * Favor composition over inheritance
-* The **has a relationship** is interesting
+* The **has a** relationship is interesting
 * Creating systems using composition …
 ## Observer Pattern
 * The Subject object manages some important data

@@ -56,6 +56,7 @@
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.1]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.2]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.3 - Expected Values|3.3]] - Due Sep 30
+- [ ] Exam 1 - October 10
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?
@@ -65,3 +66,20 @@
 ### Week 4-7
 - [x] Quiz: [[Music of Asia|The Music of Asia]] - Requires Lockdown Browser
 - [x] Short Written Assignment: The Court Music of Japan
+### Week 8, 9
+- [ ] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
+- [ ] Short Written Assignment - Gamelan Music
+### Week 10, 11
+- [ ] Quiz: The Music of Africa - Requires Lockdown Browser
+- [ ] Short Written Assignment: Instrument Use in African Music
+- [ ] Concert Report: World Music Report #1
+### Week 12, 13
+- [ ] Quiz: The Music of Latin America - Requires Lockdown Browser
+- [ ] Short Written Assignment: The Music of Cuba
+### Week 14, 15
+- [ ] Quiz: The Music of Native America - Requires Lockdown Browser
+- [ ] Short Written Assignment: The Native American Pow-wow
+- [ ] Concert Report: World Music Report #2
+### Week 16
+- [ ] Final Exam - Due Dec 9 - Requires Lockdown Browser
+- [ ] Extra Credit: Interactive Poster - Due Dec 9
