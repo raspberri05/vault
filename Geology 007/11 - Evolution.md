@@ -60,7 +60,47 @@ tags:
 #### Divergent Evolution
 * Ancestral species gives rise to many diverse species
 * Descendants differ greatly from their ancestors and from each other in many cases
+![[divergent evo]]
 #### Convergent Evolution
 * Development of similar characteristics in distantly-related organisms
+![[convergent evo]]
 #### Parallel Evolution
-* Development of similar characteristics in closely-related organisms
+* A type of convergent evolution where closely-related organisms gain similar, but independently derived traits
+* Placental and Marsupial mammals have a lot of "twins"; or "copycats"
+#### Speciation
+* When a new species arises from an ancestral species
+* A species is a population of similar organisms that only breed among themselves
+* Divergent form of evolution
+* A new species is likely to form if a part of a species' population is isolated and forced to adapt to a new set of conditions. Small populations evolve faster
+##### Allopatric Speciation
+* A physical barrier causes a species to diverge into new species
+![[allopatric]]
+##### Peripatric Speciation
+* Those on the **periphery** of a population form small subsets and evolve on their own
+![[peripatric]]
+##### Parapatric Speciation
+* When a species lives across a large area, and **fragments** into localized populations that stop mixing
+* No physical isolation
+![[para]]
+##### Sympatric Speciation
+* Overlapping
+##### Adaptive Radiation
+* When many new species arise from a common ancestor
+* Ex. finches
+##### Phyletic Gradualism
+* Slow, continuous changes take place over long time periods
+##### Punctuated Equilibrium
+* A species remains unchanged during most of its existence and new species evolve rapidly, perhaps in a few thousand years
+## Evidence
+
+### How Did This All Begin?
+* Darwin (former creationist) noted fossils slightly differed from modern day analogs
+### Homologous Structures
+* Body features that are shared by a group of organism, that are inferred to be derived from a common ancestor
+### Vestigial Structures
+* Body parts and/or traits that are no longer useful, or have been repurposed
+* These are evolutionary remnants from ancient ancestors who used them
+### Embryology
+* The embryos of all vertebrates are, at first, nearly identical, thus suggesting a common ancestor
+### Camouflage
+* A bi-product of predator-prey relationships

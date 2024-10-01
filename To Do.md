@@ -29,8 +29,8 @@
 - [x] Quiz 2.3: [[6 - Dating#Relative Dating|Relative Dating]] - Due Sep 19
 - [x] Assignment #1 - [[7 - The Geological Timescale|Geological Timescale]] - Due Sep 26
 - [x] [[6 - Dating#Relative Dating|Relative Dating]] Photo Activity - Due Sep 30
-- [x] Quiz 3.1 - [[10 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
-- [x] Quiz 3.2 - [[11 - Classification|Classification]] - Due Oct 24
+- [x] Quiz 3.1 - [[11 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
+- [x] Quiz 3.2 - [[10 - Classification|Classification]] - Due Oct 24
 - [ ] Quiz 3.3 - Speciation and Heredity - Due Oct 24
 - [ ] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [ ] Assignment #2: Sediment Core Activity - Due Oct 24

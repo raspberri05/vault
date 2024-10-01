@@ -12,7 +12,7 @@
 [[6 - Dating]]
 [[7 - The Geological Timescale]]
 [[8, 9 - Fossils and the Fossil Record]]
-[[11 - Classification]]
+[[10 - Classification]]
 ## Mathematics 161 A
 [[1 - Overview and Descriptive Statistics]]
 [[2 - Chapter 2]]
