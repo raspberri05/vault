@@ -285,6 +285,7 @@ The goal of such an experiment is to count the number of successes $X$
 1. The population or set to be sampled consists of $N$ individuals, objects, or elements (a *finite* population)
 2. Each individual can be characterized as a success ($S$) or a failure ($F$), and there are $M$ successes in the population
 3. A sample of $n$ individuals is selected without replacement in such a way that each subset of size $n$ is equally likely to be chosen
+![[hypergeo]]
 Let $X$ be the number of successes in the sample. 
 Then we say that $X$ has a hypergeometric distribution with parameters 
 $n$, sample size
@@ -294,6 +295,13 @@ Notation: $X~Hyp(n,M,N)$
 The $pmf$ of $X$
 * $h(x;n,M,N)=P(X=x)=\frac{(^M_x)*(_{n-x}^{N-M})}{(^N_n)}$
 * for $x$ and integer satisfying max $(0,n-N+M)\leq x\leq min(n,M)$
+* Note: $n-N+M=n-(N-M)$
+* $(^M_x)=C_{x,M}$ is the number of ways to choose $x$ successes for the sample
+* ...
+The $cdf$ of $X$
+* $H(x;n,M,N)=P(X\leq x)$
+* has no closed form
+* has no table
 > [!example]
 > A deck of 30 cards contain 10 red and 20 black cards
 > 5 cards are randomly chosen and the number of red cards is recorded
@@ -304,7 +312,70 @@ The $pmf$ of $X$
 > The $rv$ $X$ is the number of red cards in the selection
 > * $P(X=3)=\frac{C_{3,10}*C_{(5-3),(30-10)}}{C_{5,30}}$
 > * $=\frac{C_{3,10}*C_{2,20}}{C_{5,30}}$
-> * 
 
+>[!example] Example 70
+>Two sections - first with 20 students, second with 30. Term project assigned, professor randomly ordered them before grading, consider the first 15 graded projects
+>Given
+>* $sec1=F, sec2=S$
+>* $N=50,n=15,X=$ the number of projects from $sec2$
+>* $X~hyp(n=15,M=30,N=50)$
+>* Probability that exactly 10 projects are from $sec2$
+>	* $P(X=10)=h(10,15,30,50)$
+>	* $\frac{(^{30}_{10})*(^{20}_5)}{(^{50}_{15})}=.2070$
+>* Probability that at least 10 projects are from the $sec2$
+>	* $P(X=10)=1-P(X\leq9)$
+>	* $P(X\geq10)=h(10)+h(11)+...+h(15)=.3798$
+>* Probability that at least 10 project are from same section
+>	* $P$(at least 10 from $sec2$) + $P$(at least 10 from $sec1$)
+>	* $P(X\geq10)+P(15-X\geq10)$
+>	* $=P(X\geq10)+P(X\leq5)=.3798+\sum\limits_{x=0}^5h(x;n=15,M=30,N=50)$
+>	* $=.3798+.0140=.3938$
+>* Mean and std dev of the number among these 15 that are from second section
+>	* $E(X)=15*\frac{30}{50}=9$
+>	* $V(X)=\frac{50-15}{50-1}*15*\frac{30}{50}*(1-\frac{30}{50})=2.5714$
+>	* $\sigma=1.60$
+>* Mean and std dev of the number of projects not among these first 15 that are from the second section
+>	* $E(30-X)=30-E(X)=30-9=21$
+>	* $V(30-X)=(-1)^2V(X)=2.5714$
+>	* $\sigma=1.60$
+#### Mean and Variance of $X$
 
+>[!info] Proposition
+>If $X~hyp(n,M,N)$, then
+>$$E(X)=n*\frac{M}{N}$$
+>$$V(X)=(\frac{N-n}{N-1})*n*\frac{M}{N}*(1-\frac{M}{N})$$
+
+#### Rule of Thumb
+if $\frac{n}{N}\leq0.5$ or $N\geq20n$, then
+$$h(x;n,M,N)\approx b(x;n,\frac{M}{N})$$
+assuming that $\frac{M}{N}$ is not too close to 0 or 1
+### Negative Binomial Distribution
+#### Assumption
+1. The experiment consists of a sequence of independent trials
+2. Each trial can result in either a success ($S$) or a failure ($F$)
+3. The probability of success is constant from trial to trial, so $P(S)$ on trial $t)=p$ for $i=1,2,3$
+4. The experiment continues (trials are performed) until a total of $r$ successes have been observed, where $r$ is a specified positive integer
+Let $X$ be the number of failures that precede the $r$th success
+Then $X$ is a negative binomial $RV$ and it has a negative binomial distribution with parameters $r$ and $p$
+$X\sim nb(r,p)$
+The $pmf$ is $nb(x;r,p)$
+$nb(x;r,p)=(^{x+r-1}_{r-1})p^r(1-p)^x,x=0,1,2,3,...$
+>[!example]
+>Flip an unfair coin until exactly two heads are obtained
+>...
+
+>[!example]
+>10% of engines are defective. Randomly selected one at a time and tested.
+>* Probability that first non-defective engine will be found on the second trial?
+>	* $S=$"non-defective engine selected"
+>	* $p=.9$
+>	* Let $X=$the number of defective engines before the first non-defective one
+>	* $r=1$
+>	* $X\sim nb(r=1,p=.9)$
+>	* $P(X=1)=(.1)(.9)=.09$
+>* Probability that the third non-defective engine will be found on the fifth trial?
+>	* $Y=$the number of defective engines selected before the third non-defective one
+>	* $r=3$
+>	  $Y\sim nb(r=3,p=.9)$
+>	  $P(Y=2)=(^4_2)(.9)^3(.1)^2$
 

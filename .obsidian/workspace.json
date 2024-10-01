@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,8 +122,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce83ba3d65f29b25",
+  "active": "777032d5a36e1f7e",
   "lastOpenFiles": [
+    "Excalidraw/hypergeo.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "To Do.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
@@ -147,8 +149,6 @@
     "Computer Science 151/Recap.md",
     "Excalidraw/Drawing 2024-09-25 11.07.19.excalidraw.md",
     "Excalidraw/facies.md",
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
-    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
-    "Mathematics 161 A/3 - Chapter 3.md"
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md"
   ]
 }
