@@ -286,7 +286,7 @@ The goal of such an experiment is to count the number of successes $X$
 2. Each individual can be characterized as a success ($S$) or a failure ($F$), and there are $M$ successes in the population
 3. A sample of $n$ individuals is selected without replacement in such a way that each subset of size $n$ is equally likely to be chosen
 Let $X$ be the number of successes in the sample. 
-Then we say that $X has a hypergeometric distribution with parameters 
+Then we say that $X$ has a hypergeometric distribution with parameters 
 $n$, sample size
 $M$, the number of $S$'s in a population
 $N$, the size of the population

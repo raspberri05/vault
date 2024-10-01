@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3dddb78b5615dd66",
+        "id": "970ad4ecdb5d658e",
         "type": "tabs",
         "children": [
           {
-            "id": "850b249427112bba",
+            "id": "e2746750d7a21c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,8 +122,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "850b249427112bba",
+  "active": "ce83ba3d65f29b25",
   "lastOpenFiles": [
+    "To Do.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
     "Geology 007/11 - Evolution.md",
@@ -138,7 +139,6 @@
     "Computer Science 151/Design Patterns.md",
     "README.md",
     "Table of Contents.md",
-    "To Do.md",
     "Exams.md",
     "Computer Science 151/GUI.md",
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
