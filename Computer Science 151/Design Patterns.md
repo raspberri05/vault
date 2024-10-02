@@ -30,3 +30,9 @@ Closed for modification, open for extension
 ## Singleton Design Pattern
 * How to prevent more than one object from being instantiated?
 * If we make the constructor private, an instantiation of an object can only be made inside the class
+```java
+if (uniqueInstance == null) {
+	uniqueInstance = new Singleton();
+}
+return uniqueInstance;
+```
