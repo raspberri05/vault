@@ -25,3 +25,6 @@ Closed for modification, open for extension
 * A one to many dependency between objects
 	* When one object changes state
 	* all of its dependents are notified/updated automatically
+### Design Principle #4
+* Strive for loosely coupled designs between objects that interaction
+* 

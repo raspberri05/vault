@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "970ad4ecdb5d658e",
+        "id": "aae57e74ec7fc1c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2746750d7a21c38",
+            "id": "982b58ed86a6acba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
+                "file": "Computer Science 151/Design Patterns.md"
               }
             }
           },
@@ -122,10 +122,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777032d5a36e1f7e",
+  "active": "982b58ed86a6acba",
   "lastOpenFiles": [
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/2 - Chapter 2.md",
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/hypergeo.md",
     "To Do.md",
