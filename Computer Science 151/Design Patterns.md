@@ -27,4 +27,6 @@ Closed for modification, open for extension
 	* all of its dependents are notified/updated automatically
 ### Design Principle #4
 * Strive for loosely coupled designs between objects that interaction
-* 
+## Singleton Design Pattern
+* How to prevent more than one object from being instantiated?
+* If we make the constructor private, an instantiation of an object can only be made inside the class
