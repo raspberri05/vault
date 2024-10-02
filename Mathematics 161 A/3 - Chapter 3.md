@@ -245,7 +245,7 @@ The goal of such an experiment is to count the number of successes $X$
 > $X=$the number of fax messages
 > $X~Bin(n=25,p=.25)$
 > * Probability that exactly 6 involve a fax message?
-> 	* $P(X=6)=b(6,25,.25)=(^{25}_6)*(.25)^6(.75)^19$
+> 	* $P(X=6)=b(6,25,.25)=(^{25}_6)*(.25)^6(.75)^{19}$
 > 	* $=\frac{25!}{6!19!}(.25^6)(.75^19)=$
 > 	* $P(X=6)=B(6;25,.25)-B(5;25,.25)=.561-.378=.183$
 > * Probability that at most 6 involve a fax message
