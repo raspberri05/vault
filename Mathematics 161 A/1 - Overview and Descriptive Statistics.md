@@ -34,7 +34,7 @@ tags: math161a
 
 ### Discrete Variable
 > [!info] Definition
-> A numerical variable where its set of possible values either is finit or can be listed in an infinite sequence (one in which there is a first number, second number, and so on)
+> A numerical variable where its set of possible values either is finite or can be listed in an infinite sequence (one in which there is a first number, second number, and so on)
 
 > [!example]
 > The number of pets in a household

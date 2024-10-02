@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
               }
             }
           },
@@ -124,10 +123,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777032d5a36e1f7e",
+  "active": "e2746750d7a21c38",
   "lastOpenFiles": [
-    "Excalidraw/hypergeo.md",
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
+    "Excalidraw/hypergeo.md",
     "To Do.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
@@ -150,7 +150,6 @@
     "Computer Science 151/Programs vs Processes.md",
     "Computer Science 151/Recap.md",
     "Excalidraw/Drawing 2024-09-25 11.07.19.excalidraw.md",
-    "Excalidraw/facies.md",
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md"
+    "Excalidraw/facies.md"
   ]
 }
