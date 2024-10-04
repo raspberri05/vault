@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -112,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,12 +126,12 @@
   },
   "active": "982b58ed86a6acba",
   "lastOpenFiles": [
+    "Computer Science 151/Design Patterns.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Table of Contents.md",
     "To Do.md",
-    "Computer Science 151/Design Patterns.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
