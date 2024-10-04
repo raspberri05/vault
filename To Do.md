@@ -56,7 +56,10 @@
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.1]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.2]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.3 - Expected Values|3.3]] - Due Sep 30
+- [x] 3.4 - Due Oct 7
 - [ ] Exam 1 - October 10
+- [ ] 3.5 - Due Oct 14
+- [ ] 3.6 - Due Oct 14
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?
