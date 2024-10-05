@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/12 - Earth's Formation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Geology 007/12 - Earth's Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Geology 007/12 - Earth's Formation.md"
               }
             }
           },
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,16 +125,17 @@
   },
   "active": "982b58ed86a6acba",
   "lastOpenFiles": [
+    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
+    "Geology 007/11 - Evolution.md",
+    "To Do.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Computer Science 151/Design Patterns.md",
     "Table of Contents.md",
-    "To Do.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
-    "Geology 007/11 - Evolution.md",
     "Geology 007/10 - Classification.md",
     "Excalidraw/para.md",
     "Excalidraw/peripatric.md",
@@ -148,7 +150,6 @@
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
     "Computer Science 151/Programs vs Processes.md",
-    "Computer Science 151/Recap.md",
-    "Excalidraw/Drawing 2024-09-25 11.07.19.excalidraw.md"
+    "Computer Science 151/Recap.md"
   ]
 }
