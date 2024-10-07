@@ -35,10 +35,42 @@ Closed for modification, open for extension
 ```java
 static uniqueInstance
 
-public static getInstance {
+public static synchronized Singleton getInstance {
 	if (uniqueInstance == null) {
 	uniqueInstance = new Singleton();
 	}
 	return uniqueInstance;
+}
+```
+### Threading
+* Two instances could get made if there are executions on multiple threads
+* Make a method `synchronized` to make every thread wait its turn so no two threads cannot enter the method at the same time (`syncronized` disallows concurrency)
+* Below code improves performance - not relevant in such a small program though
+```java
+private volatile static Singleton uniqueInstance
+private Singleton() {}
+
+public static Singleton getInstance() {
+	if (uniqueInstance == null) {
+		synchronized (Singleton.class) {
+			if (uniqueInstance == null) {
+				uniqueInstance = new Singleton();
+			}
+		}
+	}
+	return uniqueInstance
+}
+```
+### Enums
+* Using an enum to create a Singleton can help with synchronization issues
+```java
+public enum Singleton {
+
+}
+
+public class SingletonClient {
+	public static void main(String[] args) {
+		...
+	}
 }
 ```
