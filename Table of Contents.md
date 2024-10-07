@@ -13,6 +13,8 @@
 [[7 - The Geological Timescale]]
 [[8, 9 - Fossils and the Fossil Record]]
 [[10 - Classification]]
+[[11 - Evolution]]
+[[12 - Earth's Formation]]
 ## Mathematics 161 A
 [[1 - Overview and Descriptive Statistics]]
 [[2 - Chapter 2]]

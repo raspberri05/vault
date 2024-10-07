@@ -30,9 +30,15 @@ Closed for modification, open for extension
 ## Singleton Design Pattern
 * How to prevent more than one object from being instantiated?
 * If we make the constructor private, an instantiation of an object can only be made inside the class
+* This also allows the class to have a global point of access for the program to access
+* `static` is global
 ```java
-if (uniqueInstance == null) {
+static uniqueInstance
+
+public static getInstance {
+	if (uniqueInstance == null) {
 	uniqueInstance = new Singleton();
+	}
+	return uniqueInstance;
 }
-return uniqueInstance;
 ```
