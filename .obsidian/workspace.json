@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -125,10 +124,10 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "To Do.md",
     "Table of Contents.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/asthenosphere.md",
     "Excalidraw/earth layers.md",

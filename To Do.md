@@ -19,9 +19,9 @@
 - [x] HW #3.1 (Compare) - Due Sep 30
 - [x] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
 - [x] HW 2 - [[GUI]] - Due Oct 7
-- [ ] Quiz 10.1 - Due Oct 7
+- [x] Quiz 10.1 - Due Oct 9
 - [ ] Quiz 10.2 - Due Oct 9
-- [ ] HW 4 - Observer - Due Oct 14
+- [x] HW 4 - Observer - Due Oct 11
 - [ ] HW 5 - Singleton - Due Oct 14
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
@@ -63,8 +63,10 @@
 - [x] [[3 - Chapter 3#3.3 - Expected Values|3.3]] - Due Sep 30
 - [x] 3.4 - Due Oct 7
 - [ ] Exam 1 - October 10
-- [ ] 3.5 - Due Oct 14
+- [x] 3.5 - Due Oct 14
 - [ ] 3.6 - Due Oct 14
+- [ ] 4.1 - Due Oct 21
+- [ ] 4.2 - Due Oct 21
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?
