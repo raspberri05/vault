@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed220df285e773b",
+        "id": "6a25faf86104463b",
         "type": "tabs",
         "children": [
           {
-            "id": "a797b3319edd8b66",
+            "id": "2d17a99081d2080e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -122,9 +122,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a797b3319edd8b66",
+  "active": "2d17a99081d2080e",
   "lastOpenFiles": [
     "Table of Contents.md",
+    "Mathematics 161 A/4 - Chapter 4.md",
+    "To Do.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/asthenosphere.md",
     "Excalidraw/earth layers.md",
@@ -134,10 +137,8 @@
     "Excalidraw/reverse fault.md",
     "Excalidraw/geo time fault.md",
     "Computer Science 151/Design Patterns.md",
-    "To Do.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
@@ -148,7 +149,6 @@
     "Excalidraw/Drawing 2024-10-01 10.52.32.excalidraw.md",
     "Excalidraw/allopatric.md",
     "Excalidraw/divergent evo.md",
-    "Excalidraw/convergent evo.md",
-    "Excalidraw/observers.md"
+    "Excalidraw/convergent evo.md"
   ]
 }

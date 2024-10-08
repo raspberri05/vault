@@ -379,3 +379,43 @@ $nb(x;r,p)=(^{x+r-1}_{r-1})p^r(1-p)^x,x=0,1,2,3,…$
 > $Y\sim nb(r=3,p=.9)$
 > $P(Y=2)=(^4_2)(.9)^3(.1)^2$
 
+…
+## 3.6 - Poisson Distribution, Poisson Process, and Approximation of Binomial Distribution
+### Poisson Distributions
+#### Assumptions
+Consider time period $[0,t]$. The interval is divided into subintervals of width $\Delta t$.
+Suppose $\Delta t$ is small. Then,
+1. The probability that one event occurs during time period of length $\Delta t$ is approximately directly proportional to $\Delta t$. That is $P($one event$=(\alpha \Delta t)$
+2. The probability that two or more events occur during the time period of length $\Delta t$ is approximately $0$
+3. The number of events observed during any interval of length $\Delta t$ does not depend on the number of occurrences on the other subintervals
+Let $K=$ the number of events during a time interval of length $t$.
+
+> [!info] Proposition
+> $K\sim Poi(\mu=\alpha t)$,
+> $$P(K=k)=\frac{e^{-\alpha t}*(\alpha t)^K}{k!}$$
+> where $k=0,1,2,…$
+> $\alpha$ is the *rate of* the process. So, if $t=1(unit)$, then
+> $$E(K)=\mu=\alpha * t$$
+> $\alpha=$ the expected number of events in a unit of time
+
+> [!Example] Example 92
+> Automobiles arrive at a vehicle equipment inspection station according to a Poisson process with rate $\alpha=10$ per hour. Suppose that with probability $.5$ an arriving vehicle will have no equipment violations.
+> $K=$ the number of cars during $t$ hr
+> 1. What is the probability that exactly ten arrive during the hour and all ten have no violations?
+> 	* $t=1 \Rightarrow K\sim Poi(\mu=\alpha * 1)\Rightarrow \mu=10$
+> 	* Find $P(K=10$ and no violations) and $P($no violations | a car arrived at the station$)=.5$
+> 	* $P(K=10 \cap$ all $10$ no violations)
+> 	* $=P(K=10)*P($no violations | $K=10)$
+> 	* $=\frac{e^{-10}*10^{10}}{10!}*(.5)^{10}=.00122$
+
+> [!example] Example 86
+> Organisms are present in ballast water discharged from a ship according to a Poisson process with a concentration of $10\: organisms/m^3$
+> Given: $t=$ the volume of dischage in $m^3$ concentration = rate = $\alpha=10\: org./m^3$
+> $K=$ the number of organisms in $tm^3$
+> 1. What is the probability that one cubic meter of discharge contains at least 8 organisms?
+> 	* $t=1\:m^3\Rightarrow k\sim Poi(\mu=10)$
+> 	* $P(k\geq8)=1-F(7;\mu=10)=1-.22=\boxed{.78}$
+> 1. What is the probability that the number of organisms in $1.5m^3$ of discharge exceeds its mean value by more than one standard deviation?
+> 	* $t=1.5\Rightarrow k\sim Poi(\mu=15)$
+> 	* $E(K)=V(K)=\mu=15\Rightarrow \sigma_K=\sqrt{15}=3.87$
+> 	* $P(K>18.87)=1-F(18;15)=1-.819=\boxed{.181}$
