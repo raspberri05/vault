@@ -19,20 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48947552071107a1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -131,7 +120,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48947552071107a1",
+  "active": "777032d5a36e1f7e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Mathematics 161 A/3 - Chapter 3.md",
