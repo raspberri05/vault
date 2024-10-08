@@ -23,9 +23,9 @@
 > $$X\sim U[-5,5]$$
 > 1. $P(X<0)$
 > 	* $\int_{-5}^{0}\frac{1}{10}dx=1/2$
-> 2. $P(-2.5\leq X\leq2.5)$
+> 1. $P(-2.5\leq X\leq2.5)$
 > 	* $\int_{-2.5}^2.5\frac{1}{10}dx=.5$
-> 4. $P(-2\leq X\leq3)$
+> 1. $P(-2\leq X\leq3)$
 > 	* $\int_{-2}^3\frac{1}{10}dx=.5$
 
 > [!example] Example 6
@@ -41,7 +41,7 @@
 > 	* $k(2-\frac{2}{3})=1$
 > 	* $k*\frac{4}{3}=1$
 > 	* $k=3/4$
-> 3. What is the probability that the actual tracking weight is greater than the prescribed weight?
+> 1. What is the probability that the actual tracking weight is greater than the prescribed weight?
 > 	* $P(X>3g)=\frac{1}{2}$
 
 
