@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aae57e74ec7fc1c0",
+        "id": "d98ef88ba4184ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "982b58ed86a6acba",
+            "id": "e1161fa406557110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -123,10 +123,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982b58ed86a6acba",
+  "active": "e1161fa406557110",
   "lastOpenFiles": [
-    "Geology 007/12 - Earth's Formation.md",
     "Mathematics 161 A/2 - Chapter 2.md",
+    "Geology 007/12 - Earth's Formation.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Geology 007/11 - Evolution.md",
     "To Do.md",
