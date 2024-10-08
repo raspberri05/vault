@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca25f5caf2c48d9",
+        "id": "5ed220df285e773b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a155819cc2b4d99",
+            "id": "a797b3319edd8b66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/13 - Faults and Folds.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/13 - Faults and Folds.md",
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/13 - Faults and Folds.md"
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
               }
             }
           },
@@ -122,16 +122,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a155819cc2b4d99",
+  "active": "a797b3319edd8b66",
   "lastOpenFiles": [
-    "Excalidraw/transform.md",
+    "Table of Contents.md",
+    "Geology 007/14 - Plate Tectonics.md",
+    "Excalidraw/asthenosphere.md",
+    "Excalidraw/earth layers.md",
     "Geology 007/13 - Faults and Folds.md",
+    "Excalidraw/transform.md",
     "Excalidraw/normal fault.md",
     "Excalidraw/reverse fault.md",
     "Excalidraw/geo time fault.md",
     "Computer Science 151/Design Patterns.md",
     "To Do.md",
-    "Table of Contents.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
@@ -146,9 +149,6 @@
     "Excalidraw/allopatric.md",
     "Excalidraw/divergent evo.md",
     "Excalidraw/convergent evo.md",
-    "Excalidraw/observers.md",
-    "README.md",
-    "Exams.md",
-    "Computer Science 151/GUI.md"
+    "Excalidraw/observers.md"
   ]
 }

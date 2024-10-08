@@ -15,6 +15,8 @@
 [[10 - Classification]]
 [[11 - Evolution]]
 [[12 - Earth's Formation]]
+[[13 - Faults and Folds]]
+[[14 - Plate Tectonics]]
 ## Mathematics 161 A
 [[1 - Overview and Descriptive Statistics]]
 [[2 - Chapter 2]]
