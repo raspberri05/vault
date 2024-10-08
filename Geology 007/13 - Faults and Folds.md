@@ -7,7 +7,7 @@
 * Shear (twisting)
 ### Strain
 * Any change in shape that results from stress
-...
+…
 ### Elastic
 * Strain goes away when stress goes away (recoverable)
 ### Plastic
@@ -24,6 +24,20 @@
 ### Block Diagrams
 * Foot Wall is below the fault
 * Hanging wall is above the fault
-### Quantifying plana features in a 3D space
+### Quantifying Plana Features in a 3D Space
 * Dip is the compass direction that a lane tilts towards.
 * Strike is the compass direction of a line that forms from the intersection of a tilting plane with a second, horizontal plane
+### Faults
+
+#### Reverse Fault
+* Compression
+* Hanging wall moves up and in relative to foot wall
+![[reverse fault]]
+#### Normal Fault
+* Compression
+* Hanging wall move down and out relative to foot wall
+![[normal fault]]
+#### Transform Fault (Strike-Slip Fault)
+* Tension
+![[transform]]
+

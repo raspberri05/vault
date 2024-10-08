@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aae57e74ec7fc1c0",
+        "id": "6ca25f5caf2c48d9",
         "type": "tabs",
         "children": [
           {
-            "id": "982b58ed86a6acba",
+            "id": "2a155819cc2b4d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,10 +122,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982b58ed86a6acba",
+  "active": "2a155819cc2b4d99",
   "lastOpenFiles": [
-    "Computer Science 151/Design Patterns.md",
+    "Excalidraw/transform.md",
     "Geology 007/13 - Faults and Folds.md",
+    "Excalidraw/normal fault.md",
+    "Excalidraw/reverse fault.md",
+    "Excalidraw/geo time fault.md",
+    "Computer Science 151/Design Patterns.md",
     "To Do.md",
     "Table of Contents.md",
     "Mathematics 161 A/2 - Chapter 2.md",
@@ -145,10 +149,6 @@
     "Excalidraw/observers.md",
     "README.md",
     "Exams.md",
-    "Computer Science 151/GUI.md",
-    "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
-    "Computer Science 151/Pillars of OOP.md",
-    "Computer Science 151/Programs vs Processes.md",
-    "Computer Science 151/Recap.md"
+    "Computer Science 151/GUI.md"
   ]
 }
