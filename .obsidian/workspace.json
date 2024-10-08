@@ -19,8 +19,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48947552071107a1",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,14 +131,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1161fa406557110",
+  "active": "48947552071107a1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Geology 007/12 - Earth's Formation.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
     "Geology 007/11 - Evolution.md",
     "To Do.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Computer Science 151/Design Patterns.md",
     "Table of Contents.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
@@ -149,7 +158,6 @@
     "Computer Science 151/GUI.md",
     "Excalidraw/Drawing 2024-09-25 11.26.38.excalidraw.md",
     "Computer Science 151/Pillars of OOP.md",
-    "Computer Science 151/Programs vs Processes.md",
-    "Computer Science 151/Recap.md"
+    "Computer Science 151/Programs vs Processes.md"
   ]
 }

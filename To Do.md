@@ -19,6 +19,10 @@
 - [x] HW #3.1 (Compare) - Due Sep 30
 - [x] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
 - [x] HW 2 - [[GUI]] - Due Oct 7
+- [ ] Quiz 10.1 - Due Oct 7
+- [ ] Quiz 10.2 - Due Oct 9
+- [ ] HW 4 - Observer - Due Oct 14
+- [ ] HW 5 - Singleton - Due Oct 14
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
 - [x] Icebreaker: Tell us about yourself - Due Aug 31
@@ -31,8 +35,9 @@
 - [x] [[6 - Dating#Relative Dating|Relative Dating]] Photo Activity - Due Sep 30
 - [x] Quiz 3.1 - [[11 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
 - [x] Quiz 3.2 - [[10 - Classification|Classification]] - Due Oct 24
-- [ ] Quiz 3.3 - Speciation and Heredity - Due Oct 24
-- [ ] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
+- [x] Quiz 3.3 - Speciation and Heredity - Due Oct 24
+- [x] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
+- [x] Quiz 4.1 - The Birth of the Earth - Due Oct 24
 - [ ] Assignment #2: Sediment Core Activity - Due Oct 24
 - [x] Entry #1 - Due Dec 5
 - [ ] Entry #2 - Due Dec 5
