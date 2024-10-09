@@ -62,6 +62,7 @@ public static Singleton getInstance() {
 }
 ```
 
+## Decorators
 ### Enums
 * Using an enum to create a Singleton can help with synchronization issues
 ```java
@@ -78,3 +79,4 @@ public class SingletonClient {
 }
 ```
 
+* constructor must be private or package private
