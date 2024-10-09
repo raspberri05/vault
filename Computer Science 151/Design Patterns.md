@@ -61,16 +61,20 @@ public static Singleton getInstance() {
 	return uniqueInstance
 }
 ```
+
 ### Enums
 * Using an enum to create a Singleton can help with synchronization issues
 ```java
 public enum Singleton {
-
+	UNIQUE_INSTANCE;
+	// more useful fields here
 }
 
 public class SingletonClient {
 	public static void main(String[] args) {
-		...
+		Singleton singleton = Singleton.UNIQUE_INSTANCE;
+		// use the singleton here
 	}
 }
 ```
+
