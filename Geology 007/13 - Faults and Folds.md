@@ -31,7 +31,7 @@
 ### Block Diagrams
 * Foot Wall is below the fault
 * Hanging wall is above the fault
-### Quantifying Plana Features in a 3D Space
+### Quantifying Planar Features in a 3D Space
 * Dip is the compass direction that a lane tilts towards.
 * Strike is the compass direction of a line that forms from the intersection of a tilting plane with a second, horizontal plane
 ### Faults
@@ -41,7 +41,7 @@
 * Hanging wall moves up and in relative to foot wall
 ![[reverse fault]]
 #### Normal Fault
-* Compression
+* Tension
 * Hanging wall move down and out relative to foot wall
 ![[normal fault]]
 #### Transform Fault (Strike-Slip Fault)

@@ -6,3 +6,6 @@
 * Alfred Wegener's hypothesis in 1912
 * Evidence
 	* Fossils
+	* Glacial Striations
+	* Mountain Ranges
+	* Tropical plant fossils in Norway

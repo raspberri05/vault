@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "887d8800726d9687",
+        "id": "337b06c031a669b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f34363e971cd74ee",
+            "id": "cf92ca35ab1221a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,7 +122,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34363e971cd74ee",
+  "active": "cf92ca35ab1221a5",
   "lastOpenFiles": [
     "Geology 007/13 - Faults and Folds.md",
     "Geology 007/14 - Plate Tectonics.md",
