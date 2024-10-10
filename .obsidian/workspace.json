@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a25faf86104463b",
+        "id": "887d8800726d9687",
         "type": "tabs",
         "children": [
           {
-            "id": "2d17a99081d2080e",
+            "id": "f34363e971cd74ee",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "staged": false
+                "file": "Geology 007/14 - Plate Tectonics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -60,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geology 007/14 - Plate Tectonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geology 007/14 - Plate Tectonics.md"
+              }
             }
           },
           {
@@ -107,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,18 +124,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d17a99081d2080e",
+  "active": "f34363e971cd74ee",
   "lastOpenFiles": [
+    "Geology 007/13 - Faults and Folds.md",
+    "Geology 007/14 - Plate Tectonics.md",
     "To Do.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "Table of Contents.md",
-    "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/asthenosphere.md",
     "Excalidraw/earth layers.md",
-    "Geology 007/13 - Faults and Folds.md",
     "Excalidraw/transform.md",
     "Excalidraw/normal fault.md",
     "Excalidraw/reverse fault.md",

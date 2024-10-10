@@ -6,4 +6,3 @@
 * Alfred Wegener's hypothesis in 1912
 * Evidence
 	* Fossils
-
