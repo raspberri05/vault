@@ -20,7 +20,7 @@
 - [x] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
 - [x] HW 2 - [[GUI]] - Due Oct 7
 - [x] Quiz 10.1 - Due Oct 9
-- [ ] Quiz 10.2 - Due Oct 9
+- [ ] Quiz 10.2 - Due Oct 11
 - [x] HW 4 - Observer - Due Oct 11
 - [ ] HW 5 - Singleton - Due Oct 14
 ## GEOL 7

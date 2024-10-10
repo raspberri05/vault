@@ -11,12 +11,10 @@
             "id": "2d17a99081d2080e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "To Do.md",
+                "staged": false
               }
             }
           }
@@ -78,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,8 +119,9 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "To Do.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "Table of Contents.md",
@@ -139,7 +134,6 @@
     "Excalidraw/reverse fault.md",
     "Excalidraw/geo time fault.md",
     "Computer Science 151/Design Patterns.md",
-    "Mathematics 161 A/2 - Chapter 2.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
