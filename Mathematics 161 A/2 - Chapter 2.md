@@ -2,7 +2,7 @@
 tags:
   - math161a
 ---
-
+cx
 ## 2.1 - Sample Spaces and Events
 
 ### Sample Space

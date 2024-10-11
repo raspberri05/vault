@@ -1,5 +1,10 @@
 ## Crust
 * The crust varies in thickness, as we learn with plate tectonics
+* Lower crust under a lot of pressure
+	* Not hot enough to melt, the heat and pressure make the rocks soft and bendy
+		* This is called plastic, or ductile behavior
+* Rocks in the lower crust will become strained, and the strain is permanent (non-recoverable strain)
+* Folded rocks will stay folder
 ### Stress
 * A force that acts on rocks
 * Tension (stretching)
@@ -7,13 +12,15 @@
 * Shear (twisting)
 ### Strain
 * Any change in shape that results from stress
-…
+* Stress causes strain
 ### Elastic
-* Strain goes away when stress goes away (recoverable)
+* Strain goes away when stress goes away (recoverable strain)
 ### Plastic
+* Strain is permanent, even after stress goes away (non-recoverable strain)
 ### Brittle
-* Upper crust (its also elastic)
+* Rocks break into pieces when stress is applied (upper crust)
 ### Ductile
+* Rocks squish and behave plastically instead of cracking and breaking lower crust
 ### The Brittle-Ductile Transition
 * A depth in the crust that separates rocks that break from rocks that squish
 * Rocks in the lower crust will become strained, and the strain is permanent (non-recoverable strain)
@@ -24,7 +31,7 @@
 ### Block Diagrams
 * Foot Wall is below the fault
 * Hanging wall is above the fault
-### Quantifying Plana Features in a 3D Space
+### Quantifying Planar Features in a 3D Space
 * Dip is the compass direction that a lane tilts towards.
 * Strike is the compass direction of a line that forms from the intersection of a tilting plane with a second, horizontal plane
 ### Faults
@@ -34,7 +41,7 @@
 * Hanging wall moves up and in relative to foot wall
 ![[reverse fault]]
 #### Normal Fault
-* Compression
+* Tension
 * Hanging wall move down and out relative to foot wall
 ![[normal fault]]
 #### Transform Fault (Strike-Slip Fault)

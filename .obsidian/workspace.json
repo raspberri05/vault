@@ -19,8 +19,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "887923d292cd9299",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,11 +131,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d17a99081d2080e",
+  "active": "887923d292cd9299",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "To Do.md",
-    "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "Table of Contents.md",
@@ -148,7 +158,6 @@
     "Excalidraw/peripatric.md",
     "Excalidraw/Drawing 2024-10-01 10.52.32.excalidraw.md",
     "Excalidraw/allopatric.md",
-    "Excalidraw/divergent evo.md",
-    "Excalidraw/convergent evo.md"
+    "Excalidraw/divergent evo.md"
   ]
 }
