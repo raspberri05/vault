@@ -24,10 +24,12 @@
             "id": "887923d292cd9299",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics 161 A/3 - Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics 161 A/3 - Chapter 3.md"
+              }
             }
           },
           {
@@ -121,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,12 +139,12 @@
   },
   "active": "887923d292cd9299",
   "lastOpenFiles": [
+    "Mathematics 161 A/4 - Chapter 4.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
     "conflict-files-obsidian-git.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "To Do.md",
-    "Mathematics 161 A/3 - Chapter 3.md",
-    "Mathematics 161 A/4 - Chapter 4.md",
     "Table of Contents.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/asthenosphere.md",
