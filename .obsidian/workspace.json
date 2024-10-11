@@ -11,10 +11,12 @@
             "id": "2d17a99081d2080e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "staged": false
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics 161 A/2 - Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematics 161 A/2 - Chapter 2.md"
+              }
             }
           },
           {
@@ -119,9 +124,9 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
+    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "To Do.md",
     "Mathematics 161 A/2 - Chapter 2.md",
-    "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "Table of Contents.md",
