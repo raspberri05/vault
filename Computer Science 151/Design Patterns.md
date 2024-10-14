@@ -61,9 +61,6 @@ public static Singleton getInstance() {
 	return uniqueInstance
 }
 ```
-
-## Decorators
-* "decorating" a class
 ### Enums
 * Using an enum to create a Singleton can help with synchronization issues
 ```java
@@ -84,3 +81,8 @@ public class SingletonClient {
 
 ### Another method
 * make everything static in one class
+
+## Decorator
+* "Decorating" a class
+* "Decorates" an object
+	* Like a "wrapper" for an object
