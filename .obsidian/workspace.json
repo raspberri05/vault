@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/3 - Chapter 3.md"
+                "file": "Computer Science 151/Design Patterns.md"
               }
             }
           },
@@ -126,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +139,8 @@
   },
   "active": "887923d292cd9299",
   "lastOpenFiles": [
-    "Mathematics 161 A/4 - Chapter 4.md",
     "Mathematics 161 A/3 - Chapter 3.md",
+    "Mathematics 161 A/4 - Chapter 4.md",
     "conflict-files-obsidian-git.md",
     "Mathematics 161 A/2 - Chapter 2.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
