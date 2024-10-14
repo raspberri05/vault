@@ -81,4 +81,6 @@ public class SingletonClient {
 ```
 
 * constructor must be private or package private
-#### Quiz 10.2 (in class exercise)
+
+### Another method
+* make everything static in one class

@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/2 - Chapter 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887923d292cd9299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Computer Science 151/Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63177cfc6e4875a9",
@@ -137,15 +122,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "887923d292cd9299",
+  "active": "2d17a99081d2080e",
   "lastOpenFiles": [
-    "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
-    "conflict-files-obsidian-git.md",
+    "Table of Contents.md",
+    "Computer Science 151/Design Patterns.md",
     "Mathematics 161 A/2 - Chapter 2.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
+    "conflict-files-obsidian-git.md",
     "Mathematics 161 A/1 - Overview and Descriptive Statistics.md",
     "To Do.md",
-    "Table of Contents.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/asthenosphere.md",
     "Excalidraw/earth layers.md",
@@ -154,7 +140,6 @@
     "Excalidraw/normal fault.md",
     "Excalidraw/reverse fault.md",
     "Excalidraw/geo time fault.md",
-    "Computer Science 151/Design Patterns.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
     "Excalidraw/sun fusion.md",
