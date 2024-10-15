@@ -72,6 +72,19 @@
 >If $x\geq B,\:then\: F(x;A,B)=\int_A^B f(t;A,B)dt=1$
 
 >[!example] Example 20
+>1. Compute and sketch the $cdf$ of Y
+>	* $y<0\Rightarrow F(y)=0$
+>	* $0\leq y <5 \Rightarrow F(y)=\int_0^y\frac{1}{25}tdt=\frac{t^2}{50}|^y_0=\frac{y^2}{50}$
+>	* $5\leq y <10 \Rightarrow F(y)=\int_0^y f(t)dt$
+>	* $=\int_0^5\frac{1}{25}tdt+\int_5^y(\frac{2}{5}-\frac{1}{25}t)dt$
+>	* $=...=\frac{1}{2}+\frac{2}{5}y-2=\frac{-y^2}{50}+\frac{1}{2}$
+>	* $\frac{2}{5}y-\frac{-y^2}{50}-1$
+>	* $y\geq 10 \Rightarrow F(y)=1$
+
+
+
+
+
 
 
 
