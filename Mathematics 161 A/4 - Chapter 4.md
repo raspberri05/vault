@@ -41,8 +41,42 @@
 > 	* $k(2-\frac{2}{3})=1$
 > 	* $k*\frac{4}{3}=1$
 > 	* $k=3/4$
-> 1. What is the probability that the actual tracking weight is greater than the prescribed weight?
+> 3. What is the probability that the actual tracking weight is greater than the prescribed weight?
 > 	* $P(X>3g)=\frac{1}{2}$
+> 4. What is the probability that the actual weight is within .25g of the prescribed weight?
+> 	* $|x-3|<.25$
+> 	* $P(2.75 <X<3.25)=$
+> 	* $=2\int_{2.75}^{3}\frac{3}{4}(1-(x-3)^2)dx$
+> 	* $=\frac{3}{2}(.25)-\frac{(x-3)^3}{3}|_{2.75}^{3}$
+> 	* $=\frac{3}{2}(.25-(0-\frac{(-.25)^3}{3}))$
+> 	* $=.3670$
+> 5. What is the probability that the actual weight differs from the prescribed weight by more than .5g?
+> 	* $|X-3|>.5$
+> 	* $P(X<2.5$ or $X>3.5)=2\int_2^{2.5}\frac{3}{4}(1-(X-3)^2)dx$
+> 	* $=\frac{3}{2}(x|_2^{2.5}-\frac{(X-3)^3}{3}|_2^{2.5})$
+> 	* $=.3125$
+
+## 4.2 - Cumulative Distribution and Expected Values
+
+>[!info] Definition
+>The cumulative distribution function of a $rv$ $X$ with the $pdf$ $f(x)$ is 
+>$$F(x)=P(X\leq x)=\int_{-\infty}^{\infty}f(t)dt$$for any real $x$
+
+### Uniform Distribution
+
+>[!info] Definition
+>$$X\sim U[A,B]$$
+>$$F(x;A,B)=\{^{\frac{1}{B-A},\:A\leq x \leq B}_{0,\:otherwise}\}$$
+>If $x<A,\:then\: F(x;A,B)=0$
+>If $A\leq x \leq B,\:F(x;A,B)=\int_A^x f(t;A,B)dt$
+>If $x\geq B,\:then\: F(x;A,B)=\int_A^B f(t;A,B)dt=1$
+
+>[!example] Example 20
+
+
+
+
+
 
 
 

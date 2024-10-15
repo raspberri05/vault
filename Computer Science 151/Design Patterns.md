@@ -79,7 +79,7 @@ public class SingletonClient {
 
 * constructor must be private or package private
 
-### Another method
+### Another Method
 * make everything static in one class
 
 ## Decorator
