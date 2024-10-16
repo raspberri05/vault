@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Geology 007/11 - Evolution.md",
+=======
+                "file": "Computer Science 151/Design Patterns.md",
+>>>>>>> ffbc0f6a0aa55f5170b2504d3ec4aaac9fff6c14
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +82,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Geology 007/11 - Evolution.md",
+=======
+                "file": "Computer Science 151/Design Patterns.md",
+>>>>>>> ffbc0f6a0aa55f5170b2504d3ec4aaac9fff6c14
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Geology 007/11 - Evolution.md"
+=======
+                "file": "Computer Science 151/Design Patterns.md"
+>>>>>>> ffbc0f6a0aa55f5170b2504d3ec4aaac9fff6c14
               }
             }
           },
@@ -112,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,6 +136,7 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Geology 007/12 - Earth's Formation.md",
     "Geology 007/10 - Classification.md",
     "Geology 007/8, 9 - Fossils and the Fossil Record.md",
@@ -133,6 +145,8 @@
     "Geology 007/4 - Sedimentary Rocks.md",
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
+=======
+>>>>>>> ffbc0f6a0aa55f5170b2504d3ec4aaac9fff6c14
     "Mathematics 161 A/4 - Chapter 4.md",
     "Computer Science 151/Design Patterns.md",
     "Table of Contents.md",
@@ -150,6 +164,18 @@
     "Excalidraw/reverse fault.md",
     "Excalidraw/geo time fault.md",
     "Excalidraw/hypergeo.md",
+<<<<<<< HEAD
     "Excalidraw/sun fusion.md"
+=======
+    "Geology 007/12 - Earth's Formation.md",
+    "Excalidraw/sun fusion.md",
+    "Geology 007/11 - Evolution.md",
+    "Geology 007/10 - Classification.md",
+    "Excalidraw/para.md",
+    "Excalidraw/peripatric.md",
+    "Excalidraw/Drawing 2024-10-01 10.52.32.excalidraw.md",
+    "Excalidraw/allopatric.md",
+    "Excalidraw/divergent evo.md"
+>>>>>>> ffbc0f6a0aa55f5170b2504d3ec4aaac9fff6c14
   ]
 }

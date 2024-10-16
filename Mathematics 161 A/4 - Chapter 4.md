@@ -81,15 +81,21 @@
 > 	* $\frac{2}{5}y-\frac{-y^2}{50}-1$
 > 	* $y\geq 10 \Rightarrow F(y)=1$
 
+> [!info] Proposition
+> If $X$ is a $rv$ with the $pdf$ $f(x)$ and the $cdf$ $F(x)$, then $$F^1(x)=f(x)$$ at every $x$ at which $F^1$ exists
+> Note: let $a,\:b$ be real numbers, $a<b$
+> $$P(a\leq X \leq b)=F(b)-F(a)$$
+> $$P(a<X)=1-F(a)$$
+### Percentiles
 
+> [!info] Definition
+> let $0<p<1$
+> The $(100p)^{th}$ percentile of the distribution of a $rv$ $X$ with the $pdf$ $f(x)$ and the $cdf$ $F(x)$ is the number
+> $$\eta(p)$$ is the number such that $$F(\eta(p))=p=\int_{-\infty}^{\eta(p)}f(x)dx$$
+> The median $\tilde{\mu}$ is the $50^{th}$ percentile
+> $$\tilde{\mu}=\eta(.5)$$
 
-
-
-
-
-
-
-
-
-
-
+> [!example] Example 20
+> 2. Obtain an expression for the $(100p)^{th}$ percentile
+> 	* $0<p<.5\Rightarrow p=\frac{y^2}{50}\Rightarrow y=\sqrt{50p}=5\sqrt{2p}$
+> 	* $\eta(p)=5\sqrt{2p}$
