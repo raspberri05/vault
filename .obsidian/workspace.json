@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/6 - Dating.md",
+                "file": "Geology 007/8, 9 - Fossils and the Fossil Record.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/6 - Dating.md",
+                "file": "Geology 007/8, 9 - Fossils and the Fossil Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/6 - Dating.md"
+                "file": "Geology 007/8, 9 - Fossils and the Fossil Record.md"
               }
             }
           },
@@ -125,6 +125,10 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
+    "Geology 007/7 - The Geological Timescale.md",
+    "Geology 007/8, 9 - Fossils and the Fossil Record.md",
+    "Geology 007/10 - Classification.md",
+    "Geology 007/6 - Dating.md",
     "Geology 007/4 - Sedimentary Rocks.md",
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
@@ -146,10 +150,6 @@
     "Excalidraw/geo time fault.md",
     "Excalidraw/hypergeo.md",
     "Geology 007/12 - Earth's Formation.md",
-    "Excalidraw/sun fusion.md",
-    "Geology 007/11 - Evolution.md",
-    "Geology 007/10 - Classification.md",
-    "Excalidraw/para.md",
-    "Excalidraw/peripatric.md"
+    "Excalidraw/sun fusion.md"
   ]
 }
