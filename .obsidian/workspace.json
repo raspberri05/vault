@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/4 - Sedimentary Rocks.md",
+                "file": "Geology 007/6 - Dating.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology 007/4 - Sedimentary Rocks.md",
+                "file": "Geology 007/6 - Dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology 007/4 - Sedimentary Rocks.md"
+                "file": "Geology 007/6 - Dating.md"
               }
             }
           },
@@ -125,6 +125,7 @@
   },
   "active": "2d17a99081d2080e",
   "lastOpenFiles": [
+    "Geology 007/4 - Sedimentary Rocks.md",
     "Geology 007/2 - Igneous Rocks.md",
     "Geology 007/1 - Minerals.md",
     "Mathematics 161 A/4 - Chapter 4.md",
@@ -149,7 +150,6 @@
     "Geology 007/11 - Evolution.md",
     "Geology 007/10 - Classification.md",
     "Excalidraw/para.md",
-    "Excalidraw/peripatric.md",
-    "Excalidraw/Drawing 2024-10-01 10.52.32.excalidraw.md"
+    "Excalidraw/peripatric.md"
   ]
 }
