@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Mathematics 161 A/4 - Chapter 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns"
+              "title": "4 - Chapter 4"
             }
           }
         ]
@@ -125,5 +125,7 @@
     }
   },
   "active": "764963f0c2cf5a2f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Computer Science 151/Design Patterns.md"
+  ]
 }

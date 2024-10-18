@@ -86,7 +86,7 @@ public class SingletonClient {
 * "Decorating" a class
 * "Decorates" an object
 	* Like a "wrapper" for an object
-## Adapter 
+## Adapter
 * The adapter converts one interface into another
 ```java
 public class TurkeyAdapter implements Duck {
