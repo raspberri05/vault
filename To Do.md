@@ -20,9 +20,11 @@
 - [x] HW3.2 ([[Design Patterns#Strategy Design Pattern|Strategy]]) - Due Oct 2
 - [x] HW 2 - [[GUI]] - Due Oct 7
 - [x] Quiz 10.1 - Due Oct 9
-- [ ] Quiz 10.2 - Due Oct 11
+- [x] Quiz 10.2 - Due Oct 11
 - [x] HW 4 - Observer - Due Oct 11
-- [ ] HW 5 - Singleton - Due Oct 14
+- [x] HW 5 - Singleton - Due Oct 14
+- [x] Quiz 10.3 - Due Oct 17
+- [x] Quiz 10.4 - Due Oct 21
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
 - [x] Icebreaker: Tell us about yourself - Due Aug 31
@@ -33,6 +35,7 @@
 - [x] Quiz 2.3: [[6 - Dating#Relative Dating|Relative Dating]] - Due Sep 19
 - [x] Assignment #1 - [[7 - The Geological Timescale|Geological Timescale]] - Due Sep 26
 - [x] [[6 - Dating#Relative Dating|Relative Dating]] Photo Activity - Due Sep 30
+- [x] Midterm - Due Oct 17
 - [x] Quiz 3.1 - [[11 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
 - [x] Quiz 3.2 - [[10 - Classification|Classification]] - Due Oct 24
 - [x] Quiz 3.3 - Speciation and Heredity - Due Oct 24
@@ -62,11 +65,11 @@
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.2]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.3 - Expected Values|3.3]] - Due Sep 30
 - [x] 3.4 - Due Oct 7
-- [ ] Exam 1 - October 10
+- [x] Exam 1 - October 10
 - [x] 3.5 - Due Oct 14
-- [ ] 3.6 - Due Oct 14
-- [ ] 4.1 - Due Oct 21
-- [ ] 4.2 - Due Oct 21
+- [x] 3.6 - Due Oct 14
+- [x] 4.1 - Due Oct 21
+- [x] 4.2 - Due Oct 21
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?
