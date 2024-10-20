@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "707d1db933e459aa",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Mathematics 161 A/4 - Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Patterns"
+              "title": "Backlinks for 4 - Chapter 4"
             }
           },
           {
@@ -108,8 +109,19 @@
               "icon": "lucide-list",
               "title": "Outline of Design Patterns"
             }
+          },
+          {
+            "id": "a8a9da57cd00978a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
