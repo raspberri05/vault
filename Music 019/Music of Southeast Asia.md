@@ -22,7 +22,7 @@ http://hammertheatre.vbotickets.com/event/hammer_presents_merry-achi_christmas/1
 * Ceremonies, temple feasts
 * Everyone takes part in some artistic activity
 * Blend of hindi and buddhist, less islam influence
-## Rural vs Urban
+## Rural Vs Urban
 
 ### Rural
 * Islands, remote places

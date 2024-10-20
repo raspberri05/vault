@@ -41,9 +41,9 @@
 - [x] Quiz 3.3 - Speciation and Heredity - Due Oct 24
 - [x] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [x] Quiz 4.1 - The Birth of the Earth - Due Oct 24
-- [ ] Assignment #2: Sediment Core Activity - Due Oct 24
+- [x] Assignment #2: Sediment Core Activity - Due Oct 24
 - [x] Entry #1 - Due Dec 5
-- [ ] Entry #2 - Due Dec 5
+- [x] Entry #2 - Due Dec 5
 - [ ] Entry #3 - Due Dec 5
 - [ ] Entry #4 - Due Dec 5
 - [ ] Entry #5 - Due Dec 5
@@ -80,7 +80,7 @@
 - [x] Quiz: [[Music of Asia|The Music of Asia]] - Requires Lockdown Browser
 - [x] Short Written Assignment: The Court Music of Japan
 ### Week 8, 9
-- [ ] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
+- [x] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
 - [ ] Short Written Assignment - Gamelan Music
 ### Week 10, 11
 - [ ] Quiz: The Music of Africa - Requires Lockdown Browser
