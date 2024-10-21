@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Design Patterns"
             }
-          },
-          {
-            "id": "bdbd83f3a9553e48",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdbd83f3a9553e48",
+  "active": "4e7480a3ab8eb589",
   "lastOpenFiles": [
     "Computer Science 151/Design Patterns.md",
     "Computer Science 151/Pillars of OOP.md",
