@@ -121,3 +121,4 @@ public class TurkeyAdapter implements Duck {
 	* You can define your own concrete stores and concrete pizzas
 ## Abstract Factory Pattern
 * The abstract factory pattern provides families of classes without concrete subclasses
+* separate interfaces for each family of classes (e.g. each type of topping)
