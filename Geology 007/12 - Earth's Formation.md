@@ -1,3 +1,8 @@
+---
+tags:
+  - geol7
+---
+
 ## The Sun
 ### Nuclear Fusion
 * Process that powers the sun

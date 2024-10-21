@@ -1,3 +1,8 @@
+---
+tags:
+  - geol7
+---
+
 ## Crust
 * The crust varies in thickness, as we learn with plate tectonics
 * Lower crust under a lot of pressure

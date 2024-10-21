@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b859b765f5e7227e",
+        "id": "255c8f704307871a",
         "type": "tabs",
         "children": [
           {
-            "id": "45893c67559fb0fc",
+            "id": "4e7480a3ab8eb589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Computer Science 151/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "Computer Science 151/Design Patterns.md"
               }
             }
           },
@@ -122,9 +122,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45893c67559fb0fc",
+  "active": "4e7480a3ab8eb589",
   "lastOpenFiles": [
+    "Computer Science 151/Design Patterns.md",
+    "Computer Science 151/Pillars of OOP.md",
+    "Geology 007/14 - Plate Tectonics.md",
+    "Geology 007/13 - Faults and Folds.md",
+    "Geology 007/12 - Earth's Formation.md",
+    "Geology 007/10 - Classification.md",
+    "Geology 007/11 - Evolution.md",
+    "Mathematics 161 A/3 - Chapter 3.md",
+    "Mathematics 161 A/4 - Chapter 4.md",
+    "Music 019/Music of Southeast Asia.md",
     "To Do.md",
+    "Table of Contents.md",
     "conflict-files-obsidian-git.md"
   ]
 }

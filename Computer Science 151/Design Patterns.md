@@ -112,3 +112,12 @@ public class TurkeyAdapter implements Duck {
 * Provides an interface for creating families of related or dependent objects without specifying their concrete classes
 
 ## Factory Design Pattern
+* Abstract top level class
+* Concrete subclasses
+* Concrete subclasses for the actual thing
+* Subclasses instantiated by the factory methods
+* ex. Pizza store -> NY Pizza Store, California Pizza Store -> NY Cheese Pizza, NY Pepperoni Pizza, California Cheese Pizza, California Pepperoni Pizza
+	* Abstract pizza store
+	* You can define your own concrete stores and concrete pizzas
+## Abstract Factory Pattern
+* The abstract factory pattern provides families of classes without concrete subclasses

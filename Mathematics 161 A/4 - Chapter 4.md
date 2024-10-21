@@ -1,3 +1,8 @@
+---
+tags:
+  - math161a
+---
+
 ## 4.1 - Probability Density Function
 
 > [!info] Definition

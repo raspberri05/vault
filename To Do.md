@@ -71,6 +71,7 @@
 - [x] 3.6 - Due Oct 14
 - [x] 4.1 - Due Oct 21
 - [x] 4.2 - Due Oct 21
+- [ ] 4.3 - Due Oct 28
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?

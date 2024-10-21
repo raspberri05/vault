@@ -1,3 +1,8 @@
+---
+tags:
+  - geol7
+---
+
 ## Mantle Convection
 ![[earth layers|500]]
 ![[asthenosphere|500]]
