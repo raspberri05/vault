@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Computer Science 151/Streams.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns"
+              "title": "Streams"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md",
+                "file": "Computer Science 151/Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design Patterns"
+              "title": "Backlinks for Streams"
             }
           },
           {
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 151/Design Patterns.md"
+                "file": "Computer Science 151/Streams.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Design Patterns"
+              "title": "Outline of Streams"
             }
           },
           {
@@ -137,6 +137,7 @@
   "active": "4e7480a3ab8eb589",
   "lastOpenFiles": [
     "Computer Science 151/Design Patterns.md",
+    "Computer Science 151/Streams.md",
     "Computer Science 151/Pillars of OOP.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Geology 007/13 - Faults and Folds.md",
