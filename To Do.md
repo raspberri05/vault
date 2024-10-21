@@ -22,13 +22,10 @@
 - [x] Quiz 10.1 - Due Oct 9
 - [x] Quiz 10.2 - Due Oct 11
 - [x] HW 4 - Observer - Due Oct 11
-<<<<<<< HEAD
-- [ ] HW 5 - Singleton - Due Oct 18
-=======
 - [x] HW 5 - Singleton - Due Oct 14
 - [x] Quiz 10.3 - Due Oct 17
 - [x] Quiz 10.4 - Due Oct 21
-> > > > > > > 840e0967ae7a12519725da333780ccf1ba34b3c1
+
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
 - [x] Icebreaker: Tell us about yourself - Due Aug 31

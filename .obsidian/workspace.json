@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0c8e88ea63966f",
+        "id": "b859b765f5e7227e",
         "type": "tabs",
         "children": [
           {
-            "id": "7213a415f73e1a08",
+            "id": "45893c67559fb0fc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "To Do.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "To Do.md"
+              }
             }
           },
           {
@@ -117,7 +122,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7213a415f73e1a08",
+  "active": "45893c67559fb0fc",
   "lastOpenFiles": [
     "To Do.md",
     "conflict-files-obsidian-git.md"
