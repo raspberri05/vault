@@ -22,7 +22,13 @@
 - [x] Quiz 10.1 - Due Oct 9
 - [x] Quiz 10.2 - Due Oct 11
 - [x] HW 4 - Observer - Due Oct 11
+<<<<<<< HEAD
 - [ ] HW 5 - Singleton - Due Oct 18
+=======
+- [x] HW 5 - Singleton - Due Oct 14
+- [x] Quiz 10.3 - Due Oct 17
+- [x] Quiz 10.4 - Due Oct 21
+> > > > > > > 840e0967ae7a12519725da333780ccf1ba34b3c1
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
 - [x] Icebreaker: Tell us about yourself - Due Aug 31
@@ -33,14 +39,15 @@
 - [x] Quiz 2.3: [[6 - Dating#Relative Dating|Relative Dating]] - Due Sep 19
 - [x] Assignment #1 - [[7 - The Geological Timescale|Geological Timescale]] - Due Sep 26
 - [x] [[6 - Dating#Relative Dating|Relative Dating]] Photo Activity - Due Sep 30
+- [x] Midterm - Due Oct 17
 - [x] Quiz 3.1 - [[11 - Evolution#Natural Selection|Natural Selection]] - Due Oct 24
 - [x] Quiz 3.2 - [[10 - Classification|Classification]] - Due Oct 24
 - [x] Quiz 3.3 - Speciation and Heredity - Due Oct 24
 - [x] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [x] Quiz 4.1 - The Birth of the Earth - Due Oct 24
-- [ ] Assignment #2: Sediment Core Activity - Due Oct 24
+- [x] Assignment #2: Sediment Core Activity - Due Oct 24
 - [x] Entry #1 - Due Dec 5
-- [ ] Entry #2 - Due Dec 5
+- [x] Entry #2 - Due Dec 5
 - [ ] Entry #3 - Due Dec 5
 - [ ] Entry #4 - Due Dec 5
 - [ ] Entry #5 - Due Dec 5
@@ -62,11 +69,11 @@
 - [x] [[3 - Chapter 3#3.1, 3.2 - Random Variables (rv)|3.2]] - Due Sep 30
 - [x] [[3 - Chapter 3#3.3 - Expected Values|3.3]] - Due Sep 30
 - [x] 3.4 - Due Oct 7
-- [ ] Exam 1 - October 10
+- [x] Exam 1 - October 10
 - [x] 3.5 - Due Oct 14
-- [ ] 3.6 - Due Oct 14
-- [ ] 4.1 - Due Oct 21
-- [ ] 4.2 - Due Oct 21
+- [x] 3.6 - Due Oct 14
+- [x] 4.1 - Due Oct 21
+- [x] 4.2 - Due Oct 21
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?
@@ -77,7 +84,7 @@
 - [x] Quiz: [[Music of Asia|The Music of Asia]] - Requires Lockdown Browser
 - [x] Short Written Assignment: The Court Music of Japan
 ### Week 8, 9
-- [ ] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
+- [x] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
 - [ ] Short Written Assignment - Gamelan Music
 ### Week 10, 11
 - [ ] Quiz: The Music of Africa - Requires Lockdown Browser
