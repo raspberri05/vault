@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32ff83a0a91b831f",
+        "id": "dede2d899ffaa087",
         "type": "tabs",
         "children": [
           {
-            "id": "fddb6c7c33f1dbfd",
+            "id": "51e384f4d3366965",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Geology 007/14 - Plate Tectonics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "14 - Plate Tectonics"
             }
           }
         ]
@@ -125,20 +130,21 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fddb6c7c33f1dbfd",
+  "active": "51e384f4d3366965",
   "lastOpenFiles": [
+    "Geology 007/11 - Evolution.md",
+    "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/Drawing 2024-10-22 10.30.57.excalidraw.md",
     "Computer Science 151/Streams.md",
     "Computer Science 151/Design Patterns.md",
     "Computer Science 151/Pillars of OOP.md",
-    "Geology 007/14 - Plate Tectonics.md",
     "Geology 007/13 - Faults and Folds.md",
     "Geology 007/12 - Earth's Formation.md",
     "Geology 007/10 - Classification.md",
-    "Geology 007/11 - Evolution.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "Music 019/Music of Southeast Asia.md",

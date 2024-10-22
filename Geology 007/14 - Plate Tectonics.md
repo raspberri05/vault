@@ -21,16 +21,6 @@ tags:
 			* Dense, dark, thin
 		* Continental (ex. Granite)
 			* Not dense, light, thick
-* Types of plate boundaries
-	* Convergence 
-		* crashing together
-	* Divergent
-		* Lithosphere splits apart
-		* Partial melting of mantle rocks = basalt
-		* New oceanic crust formed
-		* Can happen in both oceanic and continental crust
-	* Transform
-		* sliding past each other
 * Crust + upper-mantle = Lithosphere
 	* Fractured shell, made of tectonic plates
 	* 16 mm/yr (fast as fingernails grow), different directions
@@ -40,5 +30,16 @@ tags:
 * Mid Ocean Ridges
 * Age of Ocean Floor
 * Magnetic Stripes
-* * GPS
+* GPS
+* 
+## Types of plate boundaries
+### Convergence 
+* crashing together
+### Divergent
+* Lithosphere splits apart
+* Partial melting of mantle rocks = basalt
+* New oceanic crust formed
+* Can happen in both oceanic and continental crust
+### Transform
+* sliding past each other
 
