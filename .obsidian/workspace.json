@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "255c8f704307871a",
+        "id": "32ff83a0a91b831f",
         "type": "tabs",
         "children": [
           {
-            "id": "4e7480a3ab8eb589",
+            "id": "fddb6c7c33f1dbfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science 151/Streams.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Streams"
+              "title": "New tab"
             }
           }
         ]
@@ -130,14 +125,14 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4e7480a3ab8eb589",
+  "active": "fddb6c7c33f1dbfd",
   "lastOpenFiles": [
-    "Computer Science 151/Design Patterns.md",
+    "Excalidraw/Drawing 2024-10-22 10.30.57.excalidraw.md",
     "Computer Science 151/Streams.md",
+    "Computer Science 151/Design Patterns.md",
     "Computer Science 151/Pillars of OOP.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Geology 007/13 - Faults and Folds.md",
