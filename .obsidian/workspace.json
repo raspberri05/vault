@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dede2d899ffaa087",
+        "id": "83eb3cda42725acd",
         "type": "tabs",
         "children": [
           {
-            "id": "51e384f4d3366965",
+            "id": "4437d5a9be40d2ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,11 +134,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51e384f4d3366965",
+  "active": "4437d5a9be40d2ee",
   "lastOpenFiles": [
-    "Geology 007/11 - Evolution.md",
     "Geology 007/14 - Plate Tectonics.md",
+    "Excalidraw/trench_mantle_wedge_oceanic_continental.md",
+    "Excalidraw/transform.md",
+    "Excalidraw/divergent evo.md",
+    "Excalidraw/Drawing 2024-10-22 10.59.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-22 10.30.57.excalidraw.md",
+    "Geology 007/11 - Evolution.md",
     "Computer Science 151/Streams.md",
     "Computer Science 151/Design Patterns.md",
     "Computer Science 151/Pillars of OOP.md",

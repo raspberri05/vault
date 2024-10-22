@@ -31,15 +31,39 @@ tags:
 * Age of Ocean Floor
 * Magnetic Stripes
 * GPS
-* 
-## Types of plate boundaries
-### Convergence 
+## Slab
+* Name for an oceanic plate
+### Slab Pull
+* at subduction zones
+### Slab Push
+* at divergent boundaries
+## Types of Plate Boundaries
+### Convergent
 * crashing together
+* Subduction zone
+	* oceanic/continental
+		* ![[trench_mantle_wedge_oceanic_continental|650]]
+	* oceanic/oceanic
+	* occur any time there is oceanic crust
+	* large earthquakes volcanic arc, trench, mantle
+* continental/continental
+	* collisional
+	* no subduction
+	* Ex. Himalayas, Alps
+	* Moderate earthquakes, a little bit of volcanism, huge mountains with folded rocks
 ### Divergent
 * Lithosphere splits apart
 * Partial melting of mantle rocks = basalt
 * New oceanic crust formed
 * Can happen in both oceanic and continental crust
+* Crust is youngest right at boundary
+* associated with minor amounts of volcanoes and shallow earthquakes
+* shows cyclical changes in a magnetic field
+* why a ridge?
 ### Transform
 * sliding past each other
-
+* strike-slip motion. neither pulling or pushing 
+* moderate earthquakes, little, if any, volcanoes, moderate sized hills and valley (like the Santa Cruz mountains)
+* San Andreas fault is between the Pacific (to the west) and North American (to the east) Plate and is right lateral
+* Pacific plate moving north-westwards relative to North American Plate
+* The lateral direction is the direction you would see the person on the other side moving if facing the fault
