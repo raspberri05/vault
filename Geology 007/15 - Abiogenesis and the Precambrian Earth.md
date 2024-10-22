@@ -12,5 +12,5 @@ tags:
 * Reacts/adapts to its environment
 ### Differentiating Living and Non-living Things
  ![[living-nonliving]]
-### Making living things
+### Making Living Things
 * Creating extremely complicated organic molecules from simple, non-organic ingredients

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c3d9321a1dc961",
+        "id": "ad62648d666593a3",
         "type": "tabs",
         "children": [
           {
-            "id": "2708a62cf54dd5f5",
+            "id": "c6436d9ce454387e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
+                "file": "Mathematics 161 A/4 - Chapter 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 - Abiogenesis and the Precambrian Earth"
+              "title": "4 - Chapter 4"
             }
           }
         ]
@@ -134,10 +134,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2708a62cf54dd5f5",
+  "active": "c6436d9ce454387e",
   "lastOpenFiles": [
-    "Excalidraw/living-nonliving.md",
+    "4 - Chapter 4.pdf",
+    "Mathematics 161 A/4 - Chapter 4.md",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
+    "Excalidraw/living-nonliving.md",
     "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/trench_mantle_wedge_oceanic_continental.md",
     "Excalidraw/transform.md",
@@ -152,7 +154,6 @@
     "Geology 007/12 - Earth's Formation.md",
     "Geology 007/10 - Classification.md",
     "Mathematics 161 A/3 - Chapter 3.md",
-    "Mathematics 161 A/4 - Chapter 4.md",
     "Music 019/Music of Southeast Asia.md",
     "To Do.md",
     "Table of Contents.md",

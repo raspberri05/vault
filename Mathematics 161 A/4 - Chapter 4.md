@@ -2,7 +2,6 @@
 tags:
   - math161a
 ---
-
 ## 4.1 - Probability Density Function
 
 > [!info] Definition
@@ -104,3 +103,80 @@ tags:
 > 2. Obtain an expression for the $(100p)^{th}$ percentile
 > 	* $0<p<.5\Rightarrow p=\frac{y^2}{50}\Rightarrow y=\sqrt{50p}=5\sqrt{2p}$
 > 	* $\eta(p)=5\sqrt{2p}$
+
+## 4.3 - Normal Distribution
+
+> [!info] Definition
+### Standard Normal Distribution
+
+> [!info] Definition
+#### Critical Values
+
+> [!info] Definition
+> A critical value $Z_a$ is the value of a $rv$ $Z\sim N(0,1)$ with $P(Z>z_a)=\alpha$
+
+> [!example]
+> $z_a=100(1-\alpha)^{th}$ percentile of $N(0,1)$
+> Find $z_{.10} (\alpha=.10)$
+> * $z_{.10} =$the $90^{th}$ percentile of $N(0,1)$
+> * Approach 1
+> 	* Table $A3$
+> 	* $.8997\Rightarrow z_{.10}=1.28$
+> * Approach 2
+> 	* Table $A3$
+> 	* $.1003\Rightarrow -z_{.10}=-1.28\Rightarrow z_{.10}=1.28$
+
+When multiple numbers on the table are equidistant from the number you need, you can average the $z$-scores
+
+Table $4.1$ $(p. 161)$ provides common critical values
+#### Standardizing a Random Variable
+
+> [!info] Proposition
+> If $X\sim N(\mu,\sigma^2)$, then 
+> $$z=\frac{X-\mu}{\sigma}\sim N(0,1)$$
+> $$P(a\leq X\leq b)=P(\frac{a-\mu}{\sigma}\leq Z\leq \frac{b-\mu}{\sigma})=\phi(\frac{b-\mu}{\sigma})-\phi(\frac{a-\mu}{\sigma})$$
+> $$P(X\leq b)=P(z\leq \frac{b-\mu}{\sigma})=\phi(\frac{b-\mu}{\sigma})$$
+
+> [!example] Example 32
+> $X$ = the force, $X\sim N(\mu=15,\sigma^2=1.25^2)$
+> 1. $P(X\leq15)$
+> 	* $\frac{1}{2}$
+> 2. $P(X\leq 17.5)$
+> 	* $P(Z\leq \frac{17.5-15}{1.25})$
+> 	* $=\phi(2)=.9772$
+> 3. $P(X\geq10)$
+> 	* $=1-P(X<10)=P(Z<\frac{10-15}{1.25}=1-\phi(-4))\approx1$
+> 4. $P(14\leq X\leq 18)$
+> 	* $=P(\frac{14-15}{1.25}\leq Z\leq \frac{18-15}{1.25})$
+> 	* $=P(-8\leq Z\leq 2.4)=\phi(2.4)-\phi(-.8)$
+> 	* $=.9918-.2119=.7799$
+> 5. $P(|X-15|\leq3)$
+> 	* $=P(12\leq X\leq 18)=\phi(\frac{18-15}{1.25})-\phi(\frac{12-15}{1.25})$
+> 	* $=\phi(2.4)-\phi(-2.4)$
+### Establishing Connections between Percentiles
+
+> [!Info] Definition
+> Let $Z\sim N(0,1)$. Then
+> $$X=\mu+\sigma Z\sim N(\mu,\sigma)$$
+> $$[^{The\:(100p)^{th}\:percentile}_{of\:N(\mu,\sigma^2)}]=\mu+\sigma[^{The\:(100p)^{th}\:percentile}_{of\:N(0,1)}]$$
+
+> [!example] Example 40
+> Let $X$ = the yield strength 
+> $X\sim N(\mu=43,\sigma^2=4.5^2)$
+> $c$ = the $25^{th}$ percentile of $N(43,4.5^2)$
+> Find the $25^{th}$ percentile of $N(0,1)$
+> * Table $A3\:(.2514)=\Rightarrow z_{.75}=-.67$
+> * $c=43+4.5(-.67)=39.99$
+### Empirical Rule
+
+> [!info] Definition
+> If the population distribution of a variable is (approximately) normal, then
+> 1. Roughly 68% of the values are within 1 $SD$ of the mean
+> 2. Roughly 95% of the values are within 2 $SD$s of the mean
+> 3. Roughly 99.7% of the values are within 3 $SD$s of the mean
+### Continuity Correction
+
+> [!example]
+> $P(x\leq12)=B(12;20,0.5)\approx\phi(\frac{12+0.5-10}{2.236})$
+
+
