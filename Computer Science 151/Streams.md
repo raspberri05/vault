@@ -18,8 +18,10 @@ System.out.println("string".matches(regex))
 * streams were designed to work well with lambda expressions
 * streams are immutable
 * stream processing is lazy
-
 ## Lazy Processing
 * works backwards, only computes what is necessary
-* will stop processing after limit is reached (`xxx.limit(num)`)
-* 
+* will stop processing after limit is reached (`.limit(num)`)
+## Filtering
+`.filter(lambdaExpression)`
+## Count
+`.count()`
