@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad62648d666593a3",
+        "id": "34b3a1da83cd834b",
         "type": "tabs",
         "children": [
           {
-            "id": "c6436d9ce454387e",
+            "id": "6bb7fe312171d173",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e86754e5a1fa0f5d",
@@ -135,8 +134,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6436d9ce454387e",
+  "active": "6bb7fe312171d173",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "README.md",
+    "Computer Science 151/Streams.md",
+    "Computer Science 151/Design Patterns.md",
+    "Computer Science 151/GUI.md",
+    "To Do.md",
     "Mathematics 161 A/4 - Chapter 4.md",
     "4 - Chapter 4.pdf",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
@@ -148,16 +153,12 @@
     "Excalidraw/Drawing 2024-10-22 10.59.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-22 10.30.57.excalidraw.md",
     "Geology 007/11 - Evolution.md",
-    "Computer Science 151/Streams.md",
-    "Computer Science 151/Design Patterns.md",
     "Computer Science 151/Pillars of OOP.md",
     "Geology 007/13 - Faults and Folds.md",
     "Geology 007/12 - Earth's Formation.md",
     "Geology 007/10 - Classification.md",
     "Mathematics 161 A/3 - Chapter 3.md",
     "Music 019/Music of Southeast Asia.md",
-    "To Do.md",
-    "Table of Contents.md",
     "conflict-files-obsidian-git.md"
   ]
 }

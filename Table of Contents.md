@@ -5,6 +5,7 @@
 [[Programs vs Processes]]
 [[GUI]]
 [[Design Patterns]]
+[[Streams]]
 ## Geology 007
 [[1 - Minerals]]
 [[2 - Igneous Rocks]]
@@ -17,6 +18,7 @@
 [[12 - Earth's Formation]]
 [[13 - Faults and Folds]]
 [[14 - Plate Tectonics]]
+[[15 - Abiogenesis and the Precambrian Earth]]
 ## Mathematics 161 A
 [[1 - Overview and Descriptive Statistics]]
 [[2 - Chapter 2]]
