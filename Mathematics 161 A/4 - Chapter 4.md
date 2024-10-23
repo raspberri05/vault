@@ -141,16 +141,16 @@ Table $4.1$ $(p. 161)$ provides common critical values
 > $X$ = the force, $X\sim N(\mu=15,\sigma^2=1.25^2)$
 > 1. $P(X\leq15)$
 > 	* $\frac{1}{2}$
-> 2. $P(X\leq 17.5)$
+> 1. $P(X\leq 17.5)$
 > 	* $P(Z\leq \frac{17.5-15}{1.25})$
 > 	* $=\phi(2)=.9772$
-> 3. $P(X\geq10)$
+> 1. $P(X\geq10)$
 > 	* $=1-P(X<10)=P(Z<\frac{10-15}{1.25}=1-\phi(-4))\approx1$
-> 4. $P(14\leq X\leq 18)$
+> 1. $P(14\leq X\leq 18)$
 > 	* $=P(\frac{14-15}{1.25}\leq Z\leq \frac{18-15}{1.25})$
 > 	* $=P(-8\leq Z\leq 2.4)=\phi(2.4)-\phi(-.8)$
 > 	* $=.9918-.2119=.7799$
-> 5. $P(|X-15|\leq3)$
+> 1. $P(|X-15|\leq3)$
 > 	* $=P(12\leq X\leq 18)=\phi(\frac{18-15}{1.25})-\phi(\frac{12-15}{1.25})$
 > 	* $=\phi(2.4)-\phi(-2.4)$
 ### Establishing Connections between Percentiles

@@ -25,6 +25,7 @@
 - [x] HW 5 - Singleton - Due Oct 14
 - [x] Quiz 10.3 - Due Oct 17
 - [x] Quiz 10.4 - Due Oct 21
+- [x] Quiz 11 - Due Oct 23
 
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
@@ -43,16 +44,19 @@
 - [x] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [x] Quiz 4.1 - The Birth of the Earth - Due Oct 24
 - [x] Assignment #2: Sediment Core Activity - Due Oct 24
+- [ ] Quiz 6.1 - Due Nov 7
+- [ ] Quiz 6.2 - Due Nov 7
+- [ ] Assignment #3 - Due Nov 17
 - [x] Entry #1 - Due Dec 5
 - [x] Entry #2 - Due Dec 5
-- [ ] Entry #3 - Due Dec 5
-- [ ] Entry #4 - Due Dec 5
-- [ ] Entry #5 - Due Dec 5
-- [ ] Entry #6 - Due Dec 5
-- [ ] Entry #7 - Due Dec 5
-- [ ] Entry #8 - Due Dec 5
-- [ ] Entry #9 - Due Dec 5
-- [ ] Entry #10 - Due Dec 5
+- [x] Entry #3 - Due Dec 5
+- [x] Entry #4 - Due Dec 5
+- [x] Entry #5 - Due Dec 5
+- [x] Entry #6 - Due Dec 5
+- [x] Entry #7 - Due Dec 5
+- [x] Entry #8 - Due Dec 5
+- [x] Entry #9 - Due Dec 5
+- [x] Entry #10 - Due Dec 5
 ## MATH 161A
 
 - [x] [[1 - Overview and Descriptive Statistics#1.1 - Population, Samples, and Statistics|1.1, 1.2]] - Due Sep 2
@@ -71,7 +75,8 @@
 - [x] 3.6 - Due Oct 14
 - [x] 4.1 - Due Oct 21
 - [x] 4.2 - Due Oct 21
-- [ ] 4.3 - Due Oct 28
+- [ ] 4.3 - Due Nov 4
+- [ ] 4.4 - Due Nov 11
 ## MUSC 19
 ### Week 1
 - [x] Discussion Forum - Who are you?

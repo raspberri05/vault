@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/4 - Chapter 4.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Chapter 4"
+              "title": "To Do"
             }
           }
         ]
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e86754e5a1fa0f5d",
@@ -136,8 +137,8 @@
   },
   "active": "c6436d9ce454387e",
   "lastOpenFiles": [
-    "4 - Chapter 4.pdf",
     "Mathematics 161 A/4 - Chapter 4.md",
+    "4 - Chapter 4.pdf",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
     "Excalidraw/living-nonliving.md",
     "Geology 007/14 - Plate Tectonics.md",
