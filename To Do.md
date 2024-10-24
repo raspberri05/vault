@@ -92,7 +92,7 @@
 - [x] Quiz: The Music of Southeast Asia - Requires Lockdown Browser
 - [ ] Short Written Assignment - Gamelan Music
 ### Week 10, 11
-- [ ] Quiz: The Music of Africa - Requires Lockdown Browser
+- [x] Quiz: The Music of Africa - Requires Lockdown Browser
 - [ ] Short Written Assignment: Instrument Use in African Music
 - [ ] Concert Report: World Music Report #1
 ### Week 12, 13
