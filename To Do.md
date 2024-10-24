@@ -26,6 +26,7 @@
 - [x] Quiz 10.3 - Due Oct 17
 - [x] Quiz 10.4 - Due Oct 21
 - [x] Quiz 11 - Due Oct 23
+- [ ] zyBooks HW #4 - Due Nov 3
 
 ## GEOL 7
 - [x] Plagiarism Quiz - Due Aug 31
