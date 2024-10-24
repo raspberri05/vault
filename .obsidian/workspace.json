@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/14 - Plate Tectonics.md",
+                "file": "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Plate Tectonics"
+              "title": "15 - Abiogenesis and the Precambrian Earth"
             }
           }
         ]
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e86754e5a1fa0f5d",
@@ -125,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +136,7 @@
   },
   "active": "1255339634a6a859",
   "lastOpenFiles": [
+    "Geology 007/14 - Plate Tectonics.md",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
     "To Do.md",
     "Computer Science 151/Streams.md",
@@ -148,7 +147,6 @@
     "Mathematics 161 A/4 - Chapter 4.md",
     "4 - Chapter 4.pdf",
     "Excalidraw/living-nonliving.md",
-    "Geology 007/14 - Plate Tectonics.md",
     "Excalidraw/trench_mantle_wedge_oceanic_continental.md",
     "Excalidraw/transform.md",
     "Excalidraw/divergent evo.md",
