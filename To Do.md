@@ -45,6 +45,7 @@
 - [x] Quiz 3.4 - Identifying Types of Fossils - Due Oct 24
 - [x] Quiz 4.1 - The Birth of the Earth - Due Oct 24
 - [x] Assignment #2: Sediment Core Activity - Due Oct 24
+- [ ] Lab Study Guide - Due Oct 28
 - [ ] Quiz 6.1 - Due Nov 7
 - [ ] Quiz 6.2 - Due Nov 7
 - [ ] Assignment #3 - Due Nov 17
