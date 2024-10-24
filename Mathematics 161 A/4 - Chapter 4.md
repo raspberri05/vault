@@ -176,7 +176,117 @@ Table $4.1$ $(p. 161)$ provides common critical values
 > 3. Roughly 99.7% of the values are within 3 $SD$s of the mean
 ### Continuity Correction
 
+>[!info] Proposition
+>Let $X$ be a binomial $rv$ based on $n$ trials with success probability $p$. Then if the binomial probability histogram is not too skewed, $X$ has approximately a normal distribution with $\mu$...
+
 > [!example]
 > $P(x\leq12)=B(12;20,0.5)\approx\phi(\frac{12+0.5-10}{2.236})$
 
+>[!example] Example 50
+>$n=1000$
+>$S=$ a person can taste the difference
+>$p=P(S)=.03$
+>$q=1-p=.97$
+>1. What is the probability that at least 40 can taste the difference?
+>	* $P(X\geq40)$ if $X\sim Bin(1000,.03)$
+>	* $P(X\geq40)=1-P(X\leq39)=1-B(39;1000,.03)$
+>	* $\approx1-\phi(\frac{39+.5-30}{\sqrt{1000(.03)(.97)}})=1-\phi(1.76)1-.9608=.0392$
+>2. What is the probability that at most 50 can taste the difference?
+>	* $P(X\leq50)=B(50;1000,.03)$
+>	* $\approx \phi(\frac{50+.5-30}{sqrt{1000(.03)(.97)}}=\phi(3.80)\approx1$
+## 4.4 - The Exponential and Gamma Distributions
+### Gamma Distributions
+#### Exponential Distribution
+Parameter: $\lambda$, $\lambda>0$
+##### The $pdf$: 
+$$f(x)=\{^{\lambda e^{-\lambda x},\:x\geq0}_{0,\:x<0}\}$
+Notation: $$$$$X\sim exp(\lambda)$$
+##### The $cdf$
+$$x<0,\:F(x;\lambda)=P(X\leq x)=0$$
+$$x\geq0,\:F(x;\lambda)=\int_0^x\lambda e^{-\lambda t}dt=...=1-e^{-\lambda x}$$
+$$F(s;\lambda)=\{^{1-e^{-2\lambda},\:x\geq0}_{0,\:x<0}\}$$
+>[!info] Proposition
+>For $X\sim exp(\lambda)$
+>$$E(X)=\frac{1}{\lambda}$$
+>$$V(X)=\frac{1}{\lambda_2}$$
+>$$\sigma_X=\frac{1}{\lambda}$$
 
+>[!example] Example 60
+>$X\sim exp(\lambda=.01386)$
+>1. 
+>	* $P(X\leq100)=F(100,\lambda)$
+>		* $=1-e^{-.01386(100)}=.750$
+>	* $P(X\leq200)=F(200,\lambda)$
+>		* $1-e^{-.01386(200)}=.937$
+>	* $P(100\leq X\leq200)$
+>		* $=.937-.750=.187$
+>2. Probability that distance exceeds the mean distance by more than 2 standard deviations?
+>	* $E(x)=\frac{1}{\lambda}=\frac{1}{.01386}\approx72.150m\approx\sigma$
+>	* $P(X>\mu+2\sigma)=P(X>3(72.150))$
+>	* $=P(X>216.45)=1-F(216.45;\lambda)=...=.050$
+>3. Find the median distance
+>	* $F(\tilde{\mu})=.5\Rightarrow1-e^{-.01386\tilde{\mu}}=.5$
+>	* $\Rightarrow e^{-.01386\tilde{\mu}}=.5\Rightarrow-.01386\tilde{\mu}=ln.5$
+>	* $\tilde{\mu}=\frac{ln.5}{.01386}\approx50.01\:meters$
+#### Gamma Function
+
+>[!info] Definition
+>The gamma function is
+>$$\Gamma(\alpha)=\int_0^\infty x^{\alpha-1}e^{-x}dx$$
+
+>[!info] Properties
+>1. For any $\alpha>1,\:\Gamma(\alpha)=(\alpha-1)\Gamma(\alpha-1)$
+>2. For any integer $n\geq1,\:\Gamma(n)=(n-1)!$
+>3. $\Gamma(\frac{1}{2})=\sqrt{\pi}$
+
+>[!example] Examples
+>1. $\Gamma(6)=(6-1)!=5!=120$
+>2. $\Gamma(\frac{5}{2})$
+>	* Use rule 1 twice then rule 3
+#### Gamma Distribution
+Parameters: $\alpha,\beta>0$
+##### The $pdf$
+$$f(x;\alpha,\beta)=\{^{\frac{1}{\beta\Gamma(\alpha)}x^{\alpha-1}e^{\frac{-x}{\beta}},\:x\geq0}_{0,x<0}\}$$
+Note: $\alpha\Rightarrow exp(\lambda=\frac{1}{\beta})$
+Notations:
+$$X\sim Gamma(\alpha;\beta)$$
+$$X\sim\Gamma(\alpha,\beta)$$
+##### The $cdf$
+$$F(x;\alpha,\beta)=P(X\leq x)$$
+##### The mean and variance
+$$E(X)=\alpha\beta$$
+$$V(X)=\alpha\beta^2$$
+$$\sigma_X=\alpha\beta$$
+#### Standard Gamma Distribution
+$\Gamma(\alpha,\:\beta=1)$
+##### The $pdf$
+$$x\geq0: f(x;\alpha)=\frac{1}{\Gamma(\alpha)}x^{\alpha-1}e^{-x}$$
+##### The $cdf$
+Known as the incomplete gamma function
+$$F(x;\alpha)=P(X\leq x)=\int_0^x\frac{1}{\Gamma(\alpha)}t^{\alpha-1}e^{-t}dt$$
+>[!info] Proposition
+>Let $X\sim Gamma(\alpha,\beta)$
+>Then $$P(X\leq x)=F(x;\alpha,\beta)$$
+>$$=F(\frac{x}{\beta};\alpha)$$
+>This is the incomplete gamma function
+>Consult Table $A4$
+
+>[!example] Example 67
+>$X=$ the lifetime in weeks
+>$X\sim Gamma(\alpha,\:\beta)$
+>$E(X)=24$
+>$\sigma=12$
+>1. $P(12\leq X\leq24)$
+>	* $24=\alpha\beta$
+>	* $144=\alpha\beta^2$
+>	* $\alpha=4,\:\beta=6$
+>	* $P(12\leq X\leq24)$
+>		* $=F(\frac{24}{\sigma};\alpha=4)-F(\frac{12}{\sigma};\alpha=4)$
+>		* $=F(4;4)-F(2;4)=.567-.143=.424$
+>2. 
+>	* $P(X\leq24)$
+>		* $F(\frac{24}{\sigma};\alpha=4)=.567$
+>	* Is $\tilde{\mu}<24$?
+>		* $F(\frac{\tilde{\mu}}{\sigma};\alpha=4)$
+>		* $=F(\tilde{\mu};\alpha=4,\:\beta=6)=.5$
+>		* Yes
