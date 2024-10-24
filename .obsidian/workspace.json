@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
+                "file": "Geology 007/16 - Paleozoic Invertebrates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 - Abiogenesis and the Precambrian Earth"
+              "title": "16 - Paleozoic Invertebrates"
             }
           }
         ]
@@ -136,8 +136,9 @@
   },
   "active": "1255339634a6a859",
   "lastOpenFiles": [
-    "Geology 007/14 - Plate Tectonics.md",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
+    "Geology 007/16 - Paleozoic Invertebrates.md",
+    "Geology 007/14 - Plate Tectonics.md",
     "To Do.md",
     "Computer Science 151/Streams.md",
     "Table of Contents.md",

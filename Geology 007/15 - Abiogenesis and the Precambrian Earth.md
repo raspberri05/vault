@@ -41,3 +41,32 @@ tags:
 ### Clay Grains
 * Natural atoms line up in divots between crystalline structure
 * Make it easier for chemical reactions to happen on these atoms
+### Life Arose (3.8 - 4.0 BYA)
+* Earliest form of life
+* Simple bacteria (prokaryotes)
+* Lived in shallow water
+* Single celled
+* Reproduced asexually
+* Archaea vs Bacteria
+	* Archaea can survive in extreme environments (ex. geothermal vents)
+	* Split into branches billions of years ago but didn't change much more (punctuated equilibrium)
+	* Cyanobacteria
+		* first organism to perform photosynthesis
+		* all other life arose from it
+### The Great Oxygenation Event (2.3 BYA)
+* Most of our atmosphere came from the gases that escaped from volcanoes
+* Free oxygen is not one of them; oxygen came from photosynthesis
+* Formed the ozone layer
+* Abundant iron in the ocean reacted with oxygen and formed layers of hematite ($Fe_2O_3$) on the ocean floor
+### Eukaryotes (2.1 BYA)
+* Were single celled at first
+* Membrane surrounding cell nucleus
+* Reproduces sexually, aerobic (oxygenated - breathing)
+* Endosymbiosis
+	* Where one organism lives inside the other
+	* What we think happened is that the mitochondria and chloroplasts invaded the main cell (or the other way around) and created a cell within a cell
+### Multicellular Organisms (1.6 BYA)
+* Replacement of cells that die
+### Ediacaran Fauna (550 - 635 MYA)
+* No bones or anything yet, all weird squishy small organisms
+* No predatory practices, mostly filter feeders
