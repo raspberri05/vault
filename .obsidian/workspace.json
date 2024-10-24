@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "101bbd3d8ac81d8d",
+        "id": "18d6c6c8615079ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1255339634a6a859",
+            "id": "daa29bb331d5de2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics 161 A/4 - Chapter 4.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Chapter 4"
+              "title": "To Do"
             }
           }
         ]
@@ -103,10 +103,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics 161 A/4 - Chapter 4.md"
+                "file": "To Do.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4 - Chapter 4"
+              "title": "Outline of To Do"
             }
           },
           {
@@ -134,8 +134,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0e04425f66c318b",
+  "active": "49de6035b802843f",
   "lastOpenFiles": [
+    "Mathematics 161 A/4 - Chapter 4.md",
     "Geology 007/16 - Paleozoic Invertebrates.md",
     "Geology 007/15 - Abiogenesis and the Precambrian Earth.md",
     "Geology 007/14 - Plate Tectonics.md",
@@ -145,7 +146,6 @@
     "README.md",
     "Computer Science 151/Design Patterns.md",
     "Computer Science 151/GUI.md",
-    "Mathematics 161 A/4 - Chapter 4.md",
     "4 - Chapter 4.pdf",
     "Excalidraw/living-nonliving.md",
     "Excalidraw/trench_mantle_wedge_oceanic_continental.md",
